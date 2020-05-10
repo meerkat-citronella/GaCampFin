@@ -1,0 +1,5 @@
+# dependencies 
+/node_modules
+
+# senator JSON files
+app-output
