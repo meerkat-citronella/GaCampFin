@@ -5,25 +5,27 @@ const fs = require("fs");
 const getId = require("./getId.js");
 const wikimedia = require("./wikimedia.js");
 const processData = require("./processData.js");
+const readFileAndPushToFirestore = require("./firebase.js");
 
 const getSenatorsAndIDs = async () => {
 	const response = await axios.get(wikimedia.url);
 	let senators = wikimedia.getSenators(response);
 	// console.log(senators);
-	senators = [
-		// ["larry", "walker"], // no reports/media ethics error
-		["jesse", "stone"], // WORKS
-		// ["lee", "anderson"], // for() error
-		// ["harold", "jones"], // WORKS
-		// ["burt", "jones"],
-		// ["david", "lucas"],
-		// ["greg", "dolezal"],
-		// ["matt", "brass"],
-		// ["brandon", "beach"],
-	];
+	// senators = [
+	// 	// ["larry", "walker"], // no reports/media ethics error
+	// 	// ["jesse", "stone"], // WORKS
+	// 	// ["lee", "anderson"], // for() error
+	// 	// ["harold", "jones"], // WORKS
+	// 	// ["burt", "jones"],
+	// 	// ["david", "lucas"],
+	// 	// ["greg", "dolezal"],
+	// 	// ["matt", "brass"],
+	// 	// ["brandon", "beach"],
+	// ];
 	for (let sen of senators) {
 		let fileName = await getId(sen);
-		processData(fileName);
+		let statsFileName = await processData(fileName);
+		await readFileAndPushToFirestore(statsFileName);
 	}
 };
 

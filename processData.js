@@ -118,7 +118,8 @@ function parseContributions(fileName) {
 			`./app-output/${fileName}STATS.json`,
 			JSON.stringify(stats)
 		);
-		console.log("successfully wrote " + fileName + "STATS.json");
+		console.log("successfully wrote " + fileName + "STATS.json to local drive");
+		return `${fileName}STATS`;
 	} catch (err) {
 		console.log(fileName, "PARSE ERROR\n", err);
 	}

@@ -346,7 +346,7 @@ async function getId(senator) {
 			.trim()}`;
 
 		fs.writeFileSync(`./app-output/${fileName}.json`, senatorJSONString);
-		console.log("successfully wrote " + fileName + ".json");
+		console.log("successfully wrote " + fileName + ".json to local drive");
 	} catch (err) {
 		console.log(senator, "PUPPETEER ERROR\n", err);
 
@@ -365,10 +365,11 @@ async function getId(senator) {
 					"error": err,
 				})
 			);
-			console.log("wrote new error file for " + senator);
+			console.log("wrote new error file for " + senator + " to local drive");
 		} else {
 			console.log(
-				senator + `already has valid data, not updating ${fileName},json`
+				senator +
+					`already has valid data, not updating ${fileName},json in local drive`
 			);
 		}
 	} finally {

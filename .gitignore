@@ -1,5 +1,8 @@
-# dependencies 
-/node_modules
+# dependencies (mostly puppeteer/headless chrome/chromium) 
+node_modules
 
-# senator JSON files
+# senator JSON files / data generated from app
 app-output
+
+# firebase service account credentials
+credentials
