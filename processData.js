@@ -6,8 +6,6 @@ const fs = require("fs");
 
 function parseContributions(fileName) {
 	try {
-		console.log(fileName);
-
 		if (fileName === "VACANT") {
 			console.log("seat is vacant");
 			return;
