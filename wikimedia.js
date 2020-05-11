@@ -20,7 +20,7 @@ let url =
 	"&" +
 	section;
 
-function getSenators(res) {
+function parseSenators(res) {
 	// interface: takes in the res from wikimedia API GET, processes and returns array of Senators
 	const re = /((\[\[)([a-zA-Z.]+ ?)+)|(('')[a-zA-Z]+)/; // firefox does not allow lookaheads (?<=)
 
@@ -71,6 +71,7 @@ function getSenators(res) {
 			"larry iii": "larry walker",
 			"butch miller": "cecil miller",
 			"brian strickland": "robert strickland",
+			"burt jones": "william jones",
 		};
 
 		let stringSen = finalSen.toString().replace(",", " ");
@@ -87,7 +88,7 @@ function getSenators(res) {
 // GET for testing purpses
 // const axios = require('axios')
 // axios.get(url)
-//     .then( res => getSenators(res))
+//     .then( res => parseSenators(res))
 
-exports.getSenators = getSenators;
+exports.parseSenators = parseSenators;
 exports.url = url;

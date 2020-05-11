@@ -1,9 +1,9 @@
 // from tutorial at: https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e
-// trying to get id and filer no. from a candidate name search, in function getId
+// trying to get id and filer no. from a candidate name search, in function getSenContributions
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-async function getId(senator) {
+async function getSenContributions(senator) {
 	let fname = senator[0],
 		lname = senator[1],
 		fileName = lname + fname;
@@ -378,13 +378,13 @@ async function getId(senator) {
 	}
 }
 
-// getId(["ben", "watson"]);
-// getId(["greg", "dolezal"]);
-// getId(['tonya', 'anderson'])
-// getId(['randy', 'robertson'])
-// getId(['freddie', 'sims'])
-// getId(["jen", "jordan"]);
-// getId(["larry", "walker"]);
+// getSenContributions(["ben", "watson"]);
+// getSenContributions(["greg", "dolezal"]);
+// getSenContributions(['tonya', 'anderson'])
+// getSenContributions(['randy', 'robertson'])
+// getSenContributions(['freddie', 'sims'])
+// getSenContributions(["jen", "jordan"]);
+// getSenContributions(["larry", "walker"]);
 
 // let senArray = [
 // 	["larry", "walker"],
@@ -392,7 +392,7 @@ async function getId(senator) {
 // ];
 
 // for (let sen of senArray) {
-// 	getId(sen);
+// 	getSenContributions(sen);
 // }
 
-module.exports = getId;
+module.exports = getSenContributions;
