@@ -1,4 +1,4 @@
-module.exports = [
+[
 	{
 		"name": "Albers, John",
 		"fileName": "AlbersJohn",
@@ -6,7 +6,7 @@ module.exports = [
 		"district": "56",
 		"city": "Roswell",
 		"party": "Republican",
-		"searchName": ["albers", "john"],
+		"searchName": ["albers", "john"]
 	},
 	{
 		"name": "Anderson, Lee",
@@ -15,7 +15,7 @@ module.exports = [
 		"district": "24",
 		"city": "Grovetown",
 		"party": "Republican",
-		"searchName": ["anderson", "lee"],
+		"searchName": ["anderson", "lee"]
 	},
 	{
 		"name": "Anderson, Tonya",
@@ -64,7 +64,7 @@ module.exports = [
 	},
 	{
 		"name": "Butler, Gloria S.",
-		"fileName": "ButlerGloriaS.",
+		"fileName": "ButlerGloriaS",
 		"displayName": "Gloria S. Butler",
 		"district": "55",
 		"city": "Stone Mountain",
@@ -199,7 +199,7 @@ module.exports = [
 	},
 	{
 		"name": "Jackson, Lester G.",
-		"fileName": "JacksonLesterG.",
+		"fileName": "JacksonLesterG",
 		"displayName": "Lester G. Jackson",
 		"district": "2",
 		"city": "Savannah",
@@ -235,7 +235,7 @@ module.exports = [
 	},
 	{
 		"name": "Jones II, Harold V.",
-		"fileName": "JonesIIHaroldV.",
+		"fileName": "JonesIIHaroldV",
 		"displayName": "Harold V. Jones II",
 		"district": "22",
 		"city": "Augusta",
@@ -262,7 +262,7 @@ module.exports = [
 	},
 	{
 		"name": "Kennedy, John F.",
-		"fileName": "KennedyJohnF.",
+		"fileName": "KennedyJohnF",
 		"displayName": "John F. Kennedy",
 		"district": "18",
 		"city": "Macon",
@@ -289,7 +289,7 @@ module.exports = [
 	},
 	{
 		"name": "Ligon, Jr., William T.",
-		"fileName": "LigonJr.WilliamT.",
+		"fileName": "LigonJrWilliamT",
 		"displayName": "William T. Ligon, Jr.",
 		"district": "3",
 		"city": "Brunswick",
@@ -307,7 +307,7 @@ module.exports = [
 	},
 	{
 		"name": "Martin IV, P. K.",
-		"fileName": "MartinIVP.K.",
+		"fileName": "MartinIVPK",
 		"displayName": "P. K. Martin IV",
 		"district": "9",
 		"city": "Lawrenceville",
@@ -370,7 +370,7 @@ module.exports = [
 	},
 	{
 		"name": "Rhett, Michael 'Doc'",
-		"fileName": "RhettMichael'Doc'",
+		"fileName": "RhettMichaelDoc",
 		"displayName": "Michael 'Doc' Rhett",
 		"district": "33",
 		"city": "Marietta",

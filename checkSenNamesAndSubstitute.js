@@ -1,4 +1,4 @@
-// let senArray = require("./SCRATCH.js");
+// let senArray = require("./senatorArray.js");
 
 // console.log(senArray);
 

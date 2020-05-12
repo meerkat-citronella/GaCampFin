@@ -9,12 +9,20 @@ admin.initializeApp({
 const db = admin.firestore();
 
 function readFileandPushtoFirestore(senator) {
-	let fileName = senator.fileName + "STATS"; // only want to write STATS file to firebase
+	let fileName;
+	try {
+		fileName = senator.fileName + "STATS"; // only want to write STATS file to firebase
+	} catch (err) {
+		console.log(`invalid argument for function readFilandPushtoFirestore\n`);
+		console.log(err);
+	}
+
 	let filePath = "./app-output/" + fileName + ".json";
 
 	// reading from .json file
 	fs.readFile(filePath, "utf-8", (err, jsonString) => {
 		if (err) {
+			console.log(`no file at ${filePath}`);
 			console.log(err);
 			return;
 		}
