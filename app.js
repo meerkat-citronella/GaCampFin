@@ -4,29 +4,28 @@ const fs = require("fs");
 
 const getSenContributions = require("./getSenContributions.js");
 const wikimedia = require("./wikimedia.js");
-const processData = require("./processData.js");
+const parseContributions = require("./parseContributions.js");
 const readFileAndPushToFirestore = require("./firebase.js");
+const getSenNamesAndPhotos = require("./getSenNamesAndPhotos");
+const checkSenNamesAndSubstitute = require("./checkSenNamesAndSubstitute");
 
 const getSenatorsAndIDs = async () => {
-	// const response = await axios.get(wikimedia.url); // GET request to wikimedia API, which returns a string with all the sens names
-	// let senators = wikimedia.parseSenators(response); // parses the res to get array of sens
-	// console.log(senators);
-	senators = [
-		// ["larry", "walker"], // no reports/media ethics error
-		// ["jesse", "stone"], // WORKS
-		// ["lee", "anderson"], // for() error
-		// ["harold", "jones"], // WORKS
-		// ["burt", "jones"],
-		// ["david", "lucas"],
-		// ["greg", "dolezal"],
-		// ["matt", "brass"],
-		// ["brandon", "beach"],
-		["john", "wilkinson"], // unknown error
-	];
-	for (let sen of senators) {
-		let fileName = await getSenContributions(sen); //
-		let statsFileName = await processData(fileName);
-		await readFileAndPushToFirestore(statsFileName);
+	const senArray = await getSenNamesAndPhotos();
+	const cleanedArray = checkSenNamesAndSubstitute(senArray);
+
+	fs.writeFile(
+		"./senatorArray.js",
+		JSON.stringify(cleanedArray),
+		"utf-8",
+		(err) => console.log(err)
+	);
+
+	// const cleanedArray = require("./senatorArray.js");
+
+	for (let sen of cleanedArray) {
+		let oneSen = await getSenContributions(sen);
+		let twoSen = await parseContributions(oneSen);
+		let threeSen = await readFileAndPushToFirestore(twoSen);
 	}
 };
 

@@ -4,7 +4,8 @@ const fs = require("fs");
 // let fileName = "JonesIIHaroldVernon";
 // let fileName = "ThompsonBruceAnthony"
 
-function parseContributions(fileName) {
+function parseContributions(senator) {
+	let fileName = senator.fileName;
 	try {
 		if (fileName === "VACANT") {
 			console.log("seat is vacant");
@@ -101,7 +102,8 @@ function parseContributions(fileName) {
 
 		// write STATS file
 		let stats = {
-			"lastUpdated": "???",
+			"lastUpdated": senJSON.lastUpdated,
+			"info": senJSON.info,
 			"contributionsByReport": {
 				"totalContributions": contributionsTotal,
 				"data": contributionsByReport,
@@ -117,12 +119,22 @@ function parseContributions(fileName) {
 			JSON.stringify(stats)
 		);
 		console.log("successfully wrote " + fileName + "STATS.json to local drive");
-		return `${fileName}STATS`;
+
+		return senator;
 	} catch (err) {
 		console.log(fileName, "PARSE ERROR\n", err);
+		return senator;
 	}
 }
 
-// parseContributions(fileName);
+// parseContributions({
+// 	name: "Albers, John",
+// 	fileName: "AlbersJohn",
+// 	displayName: "John Albers",
+// 	district: "56",
+// 	party: "Republican",
+// 	searchName: ["albers", "john"],
+// 	filingName: "Albers, John Edward",
+// });
 
 module.exports = parseContributions;

@@ -1,15 +1,13 @@
-// from tutorial at: https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e
-// trying to get id and filer no. from a candidate name search, in function getSenContributions
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
 async function getSenContributions(senator) {
-	let fname = senator[0],
-		lname = senator[1],
-		fileName = lname + fname;
+	let fname = senator.searchName[1],
+		lname = senator.searchName[0],
+		fileName = senator.fileName;
 
 	const browser = await puppeteer.launch({
-		headless: false,
+		// headless: false,
 		// slowMo: 30,
 	});
 
@@ -139,6 +137,7 @@ async function getSenContributions(senator) {
 				"#ctl00_ContentPlaceHolder1_NameInfo1_lblName"
 			)
 		);
+		senator.nameFiledUnder = candidateName;
 
 		// click the dropdown
 		let campaignRepsDrpdwnButton = await getHandleFromSelector(
@@ -265,6 +264,7 @@ async function getSenContributions(senator) {
 		// looping through reports, scraping individual contributions
 		let senatorContributions = {
 			"lastUpdated": Date(Date.now()),
+			"info": senator,
 			"data": [],
 		};
 
@@ -338,43 +338,52 @@ async function getSenContributions(senator) {
 		browser.close();
 
 		let senatorJSONString = JSON.stringify(senatorContributions);
-		fileName = `${candidateName
-			.replace(/[,]/gi, "")
-			.replace(/\s/gi, "")
-			.replace(/[.]/gi, "")
-			.replace(/[\"]/gi, "")
-			.trim()}`;
 
 		fs.writeFileSync(`./app-output/${fileName}.json`, senatorJSONString);
+
 		console.log("successfully wrote " + fileName + ".json to local drive");
+
+		await browser.close();
+
+		return senator;
 	} catch (err) {
-		console.log(senator, "PUPPETEER ERROR\n", err);
+		console.log(senator.name, "PUPPETEER ERROR\n", err);
 
 		// check if there's an existing file with good data, if not, writing new error file
-		let existingData = JSON.parse(
-			fs.readFileSync(`./app-output/${fileName}.json`, "utf-8")
-		).data;
+		function isThereAlreadyAJSONFile(fileName) {
+			try {
+				let test = fs.readFileSync(`./app-output/${fileName}.json`, "utf-8");
+				return true;
+			} catch (err) {
+				return false;
+			}
+		}
 
-		if (!(existingData.length > 0)) {
+		let isThereJSON = isThereAlreadyAJSONFile(fileName);
+
+		if (!isThereJSON) {
 			fs.writeFileSync(
 				`./app-output/${fileName}.json`,
 				JSON.stringify({
 					"lastUpdated": Date(Date.now()),
+					"info": senator,
 					"data": [],
 					"note": "Puppeteer Error",
 					"error": err,
 				})
 			);
-			console.log("wrote new error file for " + senator + " to local drive");
+			console.log(
+				"wrote new error file for " + senator.name + " to local drive"
+			);
 		} else {
 			console.log(
-				senator +
+				senator.name +
 					`already has valid data, not updating ${fileName},json in local drive`
 			);
 		}
-	} finally {
-		browser.close();
-		return fileName;
+
+		await browser.close();
+		return senator;
 	}
 }
 
