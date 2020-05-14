@@ -23,17 +23,22 @@ function parseContributions(senator) {
 			for (let report of senJSON.data) {
 				let data = report.data;
 				let reportName = report.report;
+				let url = report.url;
 				let totalContributions = 0;
 				for (let entry of data) {
-					let cashAmount = parseFloat(entry.cashAmount.replace(/[$,]/gi, ""));
-					let inKindAmount = parseFloat(
-						entry.inKindAmount.replace(/[$,]/gi, "")
-					);
+					// check for accounting negative, i.e. ($someNumber)
+					let cashEntry = entry.cashAmount;
+					let inKindEntry = entry.inKindAmount;
+					cashAmount = parseFloat(cashEntry.replace(/[$,()]/gi, ""));
+					inKindAmount = parseFloat(inKindEntry.replace(/[$,()]/gi, ""));
+					if (cashEntry.includes("(")) cashAmount = -cashAmount;
+					if (inKindEntry.includes("(")) inKindAmount = -inKindAmount;
 					totalContributions += cashAmount + inKindAmount;
 				}
 				reportTotals.push({
 					"reportName": reportName,
 					"totalContributions": totalContributions,
+					"url": url,
 				});
 			}
 			return reportTotals;
@@ -47,10 +52,13 @@ function parseContributions(senator) {
 				let data = report.data;
 				for (let entry of data) {
 					let contributor = /.+/.exec(entry.contribName)[0];
-					let cashAmount = parseFloat(entry.cashAmount.replace(/[$,]/gi, ""));
-					let inKindAmount = parseFloat(
-						entry.inKindAmount.replace(/[$,]/gi, "")
-					);
+					let cashEntry = entry.cashAmount;
+					let inKindEntry = entry.inKindAmount;
+					cashAmount = parseFloat(cashEntry.replace(/[$,()]/gi, ""));
+					inKindAmount = parseFloat(inKindEntry.replace(/[$,()]/gi, ""));
+					if (cashEntry.includes("(")) cashAmount = -cashAmount;
+					if (inKindEntry.includes("(")) inKindAmount = -inKindAmount;
+
 					if (contributor in contributors) {
 						let prevTotalContrib = contributors[contributor];
 						let newTotalContrib = prevTotalContrib + cashAmount + inKindAmount;

@@ -5,7 +5,7 @@ const gaSenPageUrl =
 
 async function getSenNamesAndPhotos() {
 	const browser = await puppeteer.launch({
-		headless: false,
+		// headless: false,
 	});
 	const page = await browser.newPage();
 
@@ -105,6 +105,8 @@ async function getSenNamesAndPhotos() {
 	}
 
 	await browser.close();
+
+	console.log(senArray);
 
 	return senArray;
 }

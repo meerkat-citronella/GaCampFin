@@ -2,6 +2,18 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 
 async function getSenContributions(senator) {
+	// INTERFACE: takes the 'senator' object, which has the following structure:
+	// {
+	// 	"name": "Albers, John",
+	// 	"fileName": "AlbersJohn",
+	// 	"displayName": "John Albers",
+	// 	"district": "56",
+	// 	"city": "Roswell",
+	// 	"party": "Republican",
+	// 	"searchName": ["albers", "john"]
+	// }
+
+	// grab the search names
 	let fname = senator.searchName[1],
 		lname = senator.searchName[0],
 		fileName = senator.fileName;
@@ -14,8 +26,8 @@ async function getSenContributions(senator) {
 	try {
 		const page = await browser.newPage();
 
-		//////////////////////////////////////////////////////////
-		// helper functions... have to be here because need page to already be activated
+		////////////////////////////////////////////////////////////////////////////////////
+		// helper functions... have to be here because need 'page' to already be activated
 		async function getHandleFromSelector(selector) {
 			await page.waitForSelector(selector);
 			let handle = await page.$(selector);
@@ -32,12 +44,13 @@ async function getSenContributions(senator) {
 			let text = await handle.evaluate((node) => node.innerText);
 			return text;
 		}
-		//////////////////////////////////////////////////////////
+		////////////////////////////////////////////////////////////////////////////////////
 
+		// the state media ethics site url
 		let urlPrepend =
 			"http://media.ethics.ga.gov/search/Campaign/Campaign_ByName.aspx";
 
-		// handle vacant seat
+		// handle vacant seat ~~DEPRECATED~~
 		if (fname === "vacant") {
 			await browser.close;
 			return "VACANT";
@@ -54,7 +67,7 @@ async function getSenContributions(senator) {
 		await page.keyboard.type(lname);
 		await page.keyboard.press("Enter");
 
-		// handle 'no results'
+		// handle no results: go back and search by last name only
 		let noResults = await getTextFromHandle(
 			await getHandleFromSelector("#ctl00_ContentPlaceHolder1_lblMessage")
 		);
@@ -72,7 +85,7 @@ async function getSenContributions(senator) {
 			await page.keyboard.press("Enter");
 		}
 
-		// loop through results 'view' buttons
+		// handle multiple results: iterating through each result and exiting on the first that is a state senator
 		let viewButtons = await getHandlesFromSelector(
 			"#ctl00_ContentPlaceHolder1_Search_List > tbody > tr > td > a"
 		);
@@ -132,6 +145,7 @@ async function getSenContributions(senator) {
 			}
 		}
 
+		// modify the interface object. official name the reports were filed under. should match existing name
 		let candidateName = await getTextFromHandle(
 			await getHandleFromSelector(
 				"#ctl00_ContentPlaceHolder1_NameInfo1_lblName"
@@ -139,7 +153,7 @@ async function getSenContributions(senator) {
 		);
 		senator.nameFiledUnder = candidateName;
 
-		// click the dropdown
+		// click the dropdown to show reports
 		let campaignRepsDrpdwnButton = await getHandleFromSelector(
 			"#ctl00_ContentPlaceHolder1_Name_Reports1_TabContainer1_TabPanel1_Panel8"
 		);
@@ -153,7 +167,7 @@ async function getSenContributions(senator) {
 		let contributionsUrls = [];
 		let campaignRepsPageUrl = await page.url();
 
-		// loop through reports and get urls
+		// loop through reports and get urls, push to array
 		for (let i = 0; i < viewContReportsButtons.length; i++) {
 			await page.goto(campaignRepsPageUrl);
 
@@ -278,31 +292,39 @@ async function getSenContributions(senator) {
 
 			await page.goto(thirdFilterContributionsReports[i].url);
 
-			let entries = {
+			// create individual 'report' object for each report
+			let report = {
 				"report": reportTag,
+				"url": thirdFilterContributionsReports[i].url,
 				"data": [],
 			};
 
+			// handle reports with no contributions
 			const noContributions = await getTextFromHandle(
 				await getHandleFromSelector("#ctl00_ContentPlaceHolder1_Messagelabel")
 			);
 
 			if (noContributions === "No Contributions Reported.") {
-				entries["note"] = "No contributions reported.";
-				senatorContributions.data.push(entries);
+				report["note"] = "No contributions reported.";
+				senatorContributions.data.push(report);
 				continue;
 			}
 
+			// iterate through each row (1 row = 1 contribution)
 			let contributionRowsHandle = await getHandlesFromSelector(
 				"#ctl00_ContentPlaceHolder1_Campaign_ByContributions_RFResults2_dgContSummary tbody tr.gridviewrow, #ctl00_ContentPlaceHolder1_Campaign_ByContributions_RFResults2_dgContSummary tbody tr.gridviewalterrow"
 			);
 
 			for (let k = 0; k < contributionRowsHandle.length; k++) {
+				// select the row cells (tds)
 				let entryTds = await contributionRowsHandle[k].$$("td");
+
+				// create individual 'entry' object for each row/entry
 				let entry = {
 					"candidateName": candidateName,
 				};
 
+				// label and push each of 6 cells in the row to 'entry' object
 				for (let l = 0; l < 6; l++) {
 					switch (l) {
 						case 0:
@@ -329,27 +351,33 @@ async function getSenContributions(senator) {
 							break;
 					}
 				}
-				entries.data.push(entry);
+
+				// push each 'entry' to report object 'report'
+				report.data.push(entry);
 			}
-			senatorContributions.data.push(entries);
+
+			// push each report to total contr array
+			senatorContributions.data.push(report);
 		}
-		// console.log(senatorContributions);
 
-		browser.close();
+		// write to .json file
+		try {
+			let senatorJSONString = JSON.stringify(senatorContributions);
+			fs.writeFileSync(`./app-output/${fileName}.json`, senatorJSONString);
+			console.log("successfully wrote " + fileName + ".json to local drive");
+		} catch (err) {
+			console.log("error writing " + fileName + ".json to local drive");
+			console.log(err);
+		}
 
-		let senatorJSONString = JSON.stringify(senatorContributions);
-
-		fs.writeFileSync(`./app-output/${fileName}.json`, senatorJSONString);
-
-		console.log("successfully wrote " + fileName + ".json to local drive");
-
+		// close chromium
 		await browser.close();
 
 		return senator;
 	} catch (err) {
 		console.log(senator.name, "PUPPETEER ERROR\n", err);
 
-		// check if there's an existing file with good data, if not, writing new error file
+		// check if there's an existing file with good data
 		function isThereAlreadyAJSONFile(fileName) {
 			try {
 				let test = fs.readFileSync(`./app-output/${fileName}.json`, "utf-8");
@@ -361,6 +389,7 @@ async function getSenContributions(senator) {
 
 		let isThereJSON = isThereAlreadyAJSONFile(fileName);
 
+		// if there isn't, write a .json error file with the same structure, but with empty dataset and a note
 		if (!isThereJSON) {
 			fs.writeFileSync(
 				`./app-output/${fileName}.json`,
@@ -382,26 +411,12 @@ async function getSenContributions(senator) {
 			);
 		}
 
+		// close chromium
 		await browser.close();
+
+		// pass the interface on
 		return senator;
 	}
 }
-
-// getSenContributions(["ben", "watson"]);
-// getSenContributions(["greg", "dolezal"]);
-// getSenContributions(['tonya', 'anderson'])
-// getSenContributions(['randy', 'robertson'])
-// getSenContributions(['freddie', 'sims'])
-// getSenContributions(["jen", "jordan"]);
-// getSenContributions(["larry", "walker"]);
-
-// let senArray = [
-// 	["larry", "walker"],
-// 	["greg", "dolezal"],
-// ];
-
-// for (let sen of senArray) {
-// 	getSenContributions(sen);
-// }
 
 module.exports = getSenContributions;

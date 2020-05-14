@@ -6,7 +6,9 @@ const parseContributions = require("./parseContributions.js");
 const readFileAndPushToFirestore = require("./firebase.js");
 
 const getSenatorsAndIDs = async () => {
-	// get an array of sens, clearn it, save photos to ../GaCampFinClient/pics
+	// NOTE: stages should be done in chunks. comment out the 2nd, run the first, then reverse. app.js will otherwise throw a SyntaxError for redeclaration of cleanedArray.
+	///////////////// STAGE 1 /////////////////
+	// get an array of sens, clean it, save photos to ../GaCampFinClient/pics
 	const senArray = await getSenNamesAndPhotos();
 	const cleanedArray = checkSenNamesAndSubstitute(senArray);
 
@@ -17,12 +19,12 @@ const getSenatorsAndIDs = async () => {
 		"utf-8",
 		(err) => {
 			if (err) console.log(err);
-			console.log("wrote senator array in JSON format to senatorArray.js");
+			console.log("wrote senator array in JSON format to senatorArray.json");
 		}
 	);
 
+	///////////////// STAGE 2 /////////////////
 	// read the file
-	// NOTE: these should be accomplished in chunks, and then commented out to continue below.
 	const cleanedArray = JSON.parse(
 		fs.readFileSync("./senatorArray.json", "utf-8")
 	);
@@ -30,7 +32,7 @@ const getSenatorsAndIDs = async () => {
 	// get contributions, parse STATS, write STATS to firestore
 	for (let sen of cleanedArray) {
 		let oneSen = await getSenContributions(sen);
-		let twoSen = await parseContributions(oneSen);
+		let twoSen = await parseContributions(sen);
 		let threeSen = await readFileAndPushToFirestore(twoSen);
 	}
 };
