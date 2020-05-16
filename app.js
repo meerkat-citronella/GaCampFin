@@ -2,7 +2,8 @@ const fs = require("fs");
 const getSenNamesAndPhotos = require("./getSenNamesAndPhotos");
 const checkSenNamesAndSubstitute = require("./checkSenNamesAndSubstitute");
 const getSenContributions = require("./getSenContributions.js");
-const parseContributions = require("./parseContributions.js");
+const parseContributions = require("./parseContributions.js")
+	.parseContributions;
 const readFileAndPushToFirestore = require("./firebase.js");
 
 const getSenatorsAndIDs = async () => {
@@ -31,7 +32,7 @@ const getSenatorsAndIDs = async () => {
 
 	// get contributions, parse STATS, write STATS to firestore
 	for (let sen of cleanedArray) {
-		let oneSen = await getSenContributions(sen);
+		// let oneSen = await getSenContributions(sen);
 		let twoSen = await parseContributions(sen);
 		let threeSen = await readFileAndPushToFirestore(twoSen);
 	}

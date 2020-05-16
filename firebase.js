@@ -30,25 +30,35 @@ function readFileandPushtoFirestore(senator) {
 			senatorJSONData = JSON.parse(jsonString);
 			console.log("successfully read " + fileName);
 			// push to firestore
-			pushToFirestore(senatorJSONData, fileName);
+			pushToFirestore(senatorJSONData, fileName, "senatorSTATS");
 		} catch (err) {
 			console.log("error reading file\n\n", err);
 		}
 	});
 }
 
-function pushToFirestore(senatorJSONData, fileName) {
+function pushToFirestore(JSONData, fileName, collection) {
 	try {
-		db.collection("senatorSTATS")
+		db.collection(collection)
 			.doc(fileName)
-			.set(senatorJSONData)
+			.set(JSONData)
 			.then(() => {
 				console.log(
-					"successfully wrote " + fileName + " to firestore database"
+					"successfully wrote " +
+						fileName +
+						" to firestore database " +
+						collection
 				);
 			});
 	} catch (err) {
-		console.log("error writing " + fileName + "to firestore database\n", err);
+		console.log(
+			"error writing " +
+				fileName +
+				"to firestore database  " +
+				collection +
+				"\n",
+			err
+		);
 	}
 }
 
@@ -63,3 +73,24 @@ function pushToFirestore(senatorJSONData, fileName) {
 // });
 
 module.exports = readFileandPushtoFirestore;
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+function readMetaSTATSandPushToFirestore() {
+	fs.readFile(
+		"./app-output/metaSTATSpartial.json",
+		"utf-8",
+		(err, jsonString) => {
+			if (err) console.log("error reading metaSTATSpartial.json");
+			else {
+				pushToFirestore(
+					JSON.parse(jsonString),
+					"metaSTATSpartial",
+					"metaSTATS"
+				);
+			}
+		}
+	);
+}
+
+readMetaSTATSandPushToFirestore();

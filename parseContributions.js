@@ -69,18 +69,7 @@ function parseContributions(senator) {
 				}
 			}
 
-			let contributorsArray = [];
-
-			for (let contributor in contributors) {
-				contributorsArray.push({
-					"contributor": contributor,
-					"totalContributions": contributors[contributor],
-				});
-			}
-
-			contributorsArray.sort(
-				(a, b) => b.totalContributions - a.totalContributions
-			);
+			let contributorsArray = turnContribObjIntoArrayAndSort(contributors);
 
 			return contributorsArray;
 		}
@@ -135,6 +124,21 @@ function parseContributions(senator) {
 	}
 }
 
+function turnContribObjIntoArrayAndSort(contributorsObj) {
+	let contributorsArray = [];
+
+	for (let contributor in contributorsObj) {
+		contributorsArray.push({
+			"contributor": contributor,
+			"totalContributions": contributorsObj[contributor],
+		});
+	}
+
+	contributorsArray.sort((a, b) => b.totalContributions - a.totalContributions);
+
+	return contributorsArray;
+}
+
 // parseContributions({
 // 	name: "Albers, John",
 // 	fileName: "AlbersJohn",
@@ -145,4 +149,116 @@ function parseContributions(senator) {
 // 	filingName: "Albers, John Edward",
 // });
 
-module.exports = parseContributions;
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+const senatorArray = require("./senatorArray.json");
+
+// get top contributors across ALL stats files
+function getTopContributors(senatorArray) {
+	// let totalRaisedCash = 0;
+	let allUniqueContributorsArray = [];
+	senatorArray.forEach((senObject) => {
+		let senSTATSdata = JSON.parse(
+			fs.readFileSync(`./app-output/${senObject.fileName}STATS.json`)
+		);
+		let senUniqueContributorsArray = senSTATSdata.uniqueContributors.data;
+		// let senTotalRaised = senSTATSdata.uniqueContributors.totalContributions;
+		// totalRaisedCash += senTotalRaised;
+		senUniqueContributorsArray.forEach((uniqueContributor) => {
+			allUniqueContributorsArray.push(uniqueContributor);
+		});
+	});
+
+	let contributors = {};
+
+	allUniqueContributorsArray.forEach((uniqueContributor) => {
+		let contributorName = uniqueContributor.contributor;
+		if (contributorName in contributors) {
+			let prevTotalContrib = contributors[contributorName];
+			let newTotalContrib =
+				prevTotalContrib + uniqueContributor.totalContributions;
+			contributors[contributorName] = newTotalContrib;
+		} else if (!(contributorName in contributors)) {
+			contributors[contributorName] = uniqueContributor.totalContributions;
+		}
+	});
+
+	let topContributorsArray = turnContribObjIntoArrayAndSort(contributors);
+
+	// let totalCashRaisedCheck = 0;
+
+	// topContributorsArray.forEach((contributor) => {
+	// 	totalCashRaisedCheck += contributor.totalContributions;
+	// });
+
+	// console.log(totalRaisedCash, totalCashRaisedCheck);
+
+	fs.writeFileSync(
+		"./app-output/metaSTATS.json",
+		JSON.stringify({
+			data: topContributorsArray,
+		})
+	);
+
+	console.log("successfully wrote metaSTATS file to local drive");
+}
+
+// top 500 contributors... firebase only allows file size < 1mb
+function getTop500Contributors(senatorArray) {
+	// let totalRaisedCash = 0;
+	let allUniqueContributorsArray = [];
+	senatorArray.forEach((senObject) => {
+		let senSTATSdata = JSON.parse(
+			fs.readFileSync(`./app-output/${senObject.fileName}STATS.json`)
+		);
+		let senUniqueContributorsArray = senSTATSdata.uniqueContributors.data;
+		// let senTotalRaised = senSTATSdata.uniqueContributors.totalContributions;
+		// totalRaisedCash += senTotalRaised;
+		senUniqueContributorsArray.forEach((uniqueContributor) => {
+			allUniqueContributorsArray.push(uniqueContributor);
+		});
+	});
+
+	let contributors = {};
+
+	allUniqueContributorsArray.forEach((uniqueContributor) => {
+		let contributorName = uniqueContributor.contributor;
+		if (contributorName in contributors) {
+			let prevTotalContrib = contributors[contributorName];
+			let newTotalContrib =
+				prevTotalContrib + uniqueContributor.totalContributions;
+			contributors[contributorName] = newTotalContrib;
+		} else if (!(contributorName in contributors)) {
+			contributors[contributorName] = uniqueContributor.totalContributions;
+		}
+	});
+
+	let topContributorsArray = turnContribObjIntoArrayAndSort(contributors);
+
+	let topFiveHundredContribArray = topContributorsArray.slice(0, 500);
+
+	// let totalCashRaisedCheck = 0;
+
+	// topContributorsArray.forEach((contributor) => {
+	// 	totalCashRaisedCheck += contributor.totalContributions;
+	// });
+
+	// console.log(totalRaisedCash, totalCashRaisedCheck);
+
+	fs.writeFileSync(
+		"./app-output/metaSTATSpartial.json",
+		JSON.stringify({
+			data: topFiveHundredContribArray,
+		})
+	);
+
+	console.log("successfully wrote metaSTATSpartial file to local drive");
+}
+
+// getTopContributors(senatorArray);
+getTop500Contributors(senatorArray);
+
+module.exports = {
+	parseContributions: parseContributions,
+	getTopContributors: getTopContributors,
+};
