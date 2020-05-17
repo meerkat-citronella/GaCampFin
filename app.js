@@ -32,8 +32,8 @@ const getSenatorsAndIDs = async () => {
 
 	// get contributions, parse STATS, write STATS to firestore
 	for (let sen of cleanedArray) {
-		// let oneSen = await getSenContributions(sen);
-		let twoSen = await parseContributions(sen);
+		let oneSen = await getSenContributions(sen);
+		let twoSen = await parseContributions(oneSen);
 		let threeSen = await readFileAndPushToFirestore(twoSen);
 	}
 };

@@ -71,12 +71,10 @@ async function getSenNamesAndPhotos() {
 				);
 
 				await senImageHandle.screenshot({
-					path: `./../GaCampFinClient/pics/${fileName}.jpg`,
+					path: `./pics/${fileName}.jpg`,
 				});
 
-				console.log(
-					`saved senator photo to ../GaCampFinClient/Pics/${fileName}.jpg`
-				);
+				console.log(`saved senator photo to ./pics/${fileName}.jpg`);
 			} catch (err) {
 				console.log(`ERROR getting photo for ${senName}\n`, err);
 			}
@@ -106,11 +104,11 @@ async function getSenNamesAndPhotos() {
 
 	await browser.close();
 
-	console.log(senArray);
+	// console.log(senArray);
 
 	return senArray;
 }
 
-// getSenNamesAndPhotos().then((arr) => console.log(arr));
+getSenNamesAndPhotos().then((arr) => console.log(arr));
 
 module.exports = getSenNamesAndPhotos;

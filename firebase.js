@@ -7,6 +7,7 @@ admin.initializeApp({
 });
 
 const db = admin.firestore();
+const storage = admin.storage();
 
 function readFileandPushtoFirestore(senator) {
 	let fileName;
@@ -93,4 +94,30 @@ function readMetaSTATSandPushToFirestore() {
 	);
 }
 
-readMetaSTATSandPushToFirestore();
+// readMetaSTATSandPushToFirestore();
+
+let senatorArray = JSON.parse(fs.readFileSync("./senatorArray.json", "utf-8"));
+
+senatorArray = [
+	{
+		"name": "Hufstetler, Chuck",
+		"fileName": "HufstetlerChuck",
+		"displayName": "Chuck Hufstetler",
+		"district": "52",
+		"city": "Rome",
+		"party": "Republican",
+		"searchName": ["hufstetler", "charles"],
+	},
+];
+
+// function pushPhotosToCloudStorage(senatorArray) {
+// 	let storageRef = storage.ref();
+// 	let picsRef = storageRef.child("pics");
+
+// 	senatorArray.forEach((senObj) => {
+// 		let senPicRef = storageRef.child("pics/" + senObj.fileName + ".jpg");
+// 		console.log(senPicRef);
+// 	});
+// }
+
+// pushPhotosToCloudStorage(senatorArray);

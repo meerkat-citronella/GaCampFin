@@ -19,7 +19,7 @@ async function getSenContributions(senator) {
 		fileName = senator.fileName;
 
 	const browser = await puppeteer.launch({
-		// headless: false,
+		headless: false,
 		// slowMo: 30,
 	});
 
@@ -102,6 +102,24 @@ async function getSenContributions(senator) {
 			);
 			let button = viewButtons[i];
 
+			let buttonContainerHandle = await page.evaluateHandle(
+				(node) => node.parentNode,
+				button
+			);
+			let candidateOrCommitteeNameHandle = await page.evaluateHandle(
+				(node) => node.nextElementSibling,
+				buttonContainerHandle
+			);
+			let registrationNumHandle = await page.evaluateHandle(
+				(node) => node.nextElementSibling,
+				candidateOrCommitteeNameHandle
+			);
+
+			let registrationNum = await getTextFromHandle(registrationNumHandle);
+
+			// handle if there are '0 registraton' for a 'view' that ends up being a senator... see Brandon Beach
+			if (registrationNum === "0") continue;
+
 			await button.click();
 			await page.waitForNavigation();
 
@@ -119,8 +137,10 @@ async function getSenContributions(senator) {
 
 			let hasSenate = textFields.includes("State Senate");
 
+			// handle if not a senator
 			if (!hasSenate) continue;
 
+			// if senator, break
 			if (hasSenate) {
 				break;
 			}

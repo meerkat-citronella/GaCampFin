@@ -3,6 +3,7 @@ node_modules
 
 # senator JSON files / data generated from app
 app-output
+pics
 
 # firebase service account credentials
 credentials
