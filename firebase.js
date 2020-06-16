@@ -77,6 +77,8 @@ module.exports = readFileandPushtoFirestore;
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+// call this part after done all of app.js; this will push the photos and metaSTATS page to firestore
+
 function readMetaSTATSandPushToFirestore() {
 	fs.readFile(
 		"./app-output/metaSTATSpartial.json",
@@ -94,30 +96,20 @@ function readMetaSTATSandPushToFirestore() {
 	);
 }
 
-// readMetaSTATSandPushToFirestore();
+readMetaSTATSandPushToFirestore();
 
 let senatorArray = JSON.parse(fs.readFileSync("./senatorArray.json", "utf-8"));
 
-senatorArray = [
-	{
-		"name": "Hufstetler, Chuck",
-		"fileName": "HufstetlerChuck",
-		"displayName": "Chuck Hufstetler",
-		"district": "52",
-		"city": "Rome",
-		"party": "Republican",
-		"searchName": ["hufstetler", "charles"],
-	},
-];
+function pushPhotosToCloudStorage(senatorArray) {
+	let gcBucket = storage.bucket("gs://ga-camp-fin.appspot.com");
 
-// function pushPhotosToCloudStorage(senatorArray) {
-// 	let storageRef = storage.ref();
-// 	let picsRef = storageRef.child("pics");
+	senatorArray.forEach((senObj) => {
+		gcBucket
+			.upload("./pics/" + senObj.fileName + ".jpg")
+			.then((res) =>
+				console.log(`uploaded ${senObj.fileName}.jpg to Cloud bucket`)
+			);
+	});
+}
 
-// 	senatorArray.forEach((senObj) => {
-// 		let senPicRef = storageRef.child("pics/" + senObj.fileName + ".jpg");
-// 		console.log(senPicRef);
-// 	});
-// }
-
-// pushPhotosToCloudStorage(senatorArray);
+pushPhotosToCloudStorage(senatorArray);
