@@ -3,8 +3,13 @@ const {
   getHandleFromSelector,
   getHandlesFromSelector,
   getTextFromHandle,
+  checkSenNamesAndSubstitute,
 } = require("./functions");
 const { selectors } = require("./constants");
+
+/// TESTING ///
+// const fs = require("fs");
+// const TESTsenatorArray = require(`./TESTsenatorArray.json`);
 
 async function getSenNamesAndPhotos() {
   const browser = await puppeteer.launch({
@@ -70,6 +75,7 @@ async function getSenNamesAndPhotos() {
         console.log(`ERROR getting photo for ${senName}\n`, err);
       }
 
+      // create senObj: this obj is passed between the rest of the app
       let senData = {
         name: senName,
         fileName: fileName,
@@ -81,8 +87,7 @@ async function getSenNamesAndPhotos() {
 
       senArray.push(senData);
     } catch (err) {
-      console.log(`error getting senator at row ${i}\n`);
-      console.log(err);
+      console.log(`error getting senator at row ${i}\n:`, err);
 
       senArray.push({
         name: "ERROR",
@@ -93,7 +98,22 @@ async function getSenNamesAndPhotos() {
 
   await browser.close();
 
-  return senArray;
+  /// TESTING ///
+  // write senArray to json, so can test checkSenNamesAndSubstitute
+  // fs.writeFile(
+  //   "./TESTsenatorArray.json",
+  //   JSON.stringify(senArray),
+  //   "utf-8",
+  //   (err) => {
+  //     if (err) console.log(err);
+  //     console.log("wrote senator array in JSON format to senatorArray.json");
+  //   }
+  // );
+
+  // add .searchName property to sen object ([lastName, firstName]), replacing common nicknames, suffixes, and specific known nicknames
+  const cleanedSenArray = checkSenNamesAndSubstitute(senArray);
+
+  return cleanedSenArray;
 }
 
 /// TESTING ///

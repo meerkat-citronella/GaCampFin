@@ -11,4 +11,20 @@ module.exports = {
     image:
       "body > app-root > div > main > app-member-page-component > app-loader > div.pageContent > div > div.col-8.offset-2.col-md-3.offset-md-0 > div > img",
   },
+  nameSubs: {
+    randy: "randall",
+    mike: "michael",
+    bill: "william",
+    steve: "stephen",
+    chuck: "charles",
+    marty: "maurice",
+    ben: "benjamin",
+  },
+  specificSenSubs: {
+    // for specific sens that aren't handled above
+    "martin p.": "martin peter",
+    "miller butch": "miller cecil",
+    "strickland brian": "strickland robert",
+    "jones burt": "jones william",
+  },
 };

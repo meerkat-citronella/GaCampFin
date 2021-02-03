@@ -1,6 +1,5 @@
 const fs = require("fs");
 const { getSenNamesAndPhotos } = require("./puppeteer/names_and_photos/index");
-const checkSenNamesAndSubstitute = require("./checkSenNamesAndSubstitute");
 // const getSenContributions = require("./getSenContributions.js");
 // const parseContributions = require("./parseContributions.js")
 //   .parseContributions;
@@ -9,14 +8,13 @@ const checkSenNamesAndSubstitute = require("./checkSenNamesAndSubstitute");
 const getSenatorsAndIDs = async () => {
   // NOTE: stages should be done in chunks. comment out the 2nd, run the first, then reverse. app.js will otherwise throw a SyntaxError for redeclaration of cleanedArray.
   ///////////////// STAGE 1 /////////////////
-  // get an array of sens, clean it, save photos to... ???
+  // get all senator data and photos; save array to senatorArray.json, save photos to /pics
   const senArray = await getSenNamesAndPhotos();
-  const cleanedArray = checkSenNamesAndSubstitute(senArray);
 
   // write the array to a file
   fs.writeFile(
     "./senatorArray.json",
-    JSON.stringify(cleanedArray),
+    JSON.stringify(senArray),
     "utf-8",
     (err) => {
       if (err) console.log(err);
@@ -26,12 +24,12 @@ const getSenatorsAndIDs = async () => {
 
   // ///////////////// STAGE 2 /////////////////
   // // read the file
-  // const cleanedArray = JSON.parse(
+  // const senArray = JSON.parse(
   // 	fs.readFileSync("./senatorArray.json", "utf-8")
   // );
 
   // // get contributions, parse STATS, write STATS to firestore
-  // for (let sen of cleanedArray) {
+  // for (let sen of senArray) {
   // 	let oneSen = await getSenContributions(sen);
   // 	let twoSen = await parseContributions(oneSen);
   // 	let threeSen = await readFileAndPushToFirestore(twoSen);
