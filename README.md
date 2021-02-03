@@ -1,7 +1,5 @@
 This is a node.js web scraper app that crawls the Georgia Government Transparency and Campaign Finance Commission website (http://media.ethics.ga.gov/search/Campaign/Campaign_ByName.aspx). It crawls the Georgia State Senator site (http://www.senate.ga.gov/senators/en-US/SenateMembersList.aspx) for a current list of GA state senators, then crawls the state ethics site using headless Chrome (and its API, Puppeteer) and records each individual contribution they received and writes it to a JSON file, along with some associated stats. It then pushes this data to a Firebase Firestore.
 
-This repo does not include dependencies (./node_modules). Dependencies can be installed with 'npm install'.
-
 Run 'node app.js' to run the app. App will do the following:
 
 - crawl the GA State Senate site and get list of current senators and photos
