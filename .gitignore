@@ -1,4 +1,4 @@
-# dependencies (mostly puppeteer/headless chrome/chromium) 
+# dependencies
 node_modules
 
 # senator JSON files / data generated from app
