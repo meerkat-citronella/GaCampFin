@@ -1,0 +1,4085 @@
+{
+  "lastUpdated": "Fri Feb 05 2021 13:19:40 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Emanuel Jones",
+    "fileName": "EmanuelJones",
+    "displayName": "Emanuel Jones",
+    "district": "10",
+    "city": "Decatur",
+    "party": "Democrat",
+    "searchName": ["jones", "emanuel"]
+  },
+  "data": [
+    {
+      "report": "2021January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=161191&Name=Jones,%20Emanuel%20D.&Year=2021&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Professional Sports Integrity alliance PAC\n1600 Parkwood Circle SE\n\nAtlanta, Georgia 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Food Industry Association food industry for good government\n5020 Highlands Parkway SE\n\nSmyrna, Georgia 30082",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Committee Automobile Retail Dealers\n2060 Powers Ferry Road\n\nAtlanta, Georgia 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Highway Contractors Association\n3655 Brookside Pkwy\n#165\nAlpharetta, Georgia 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GSIPP PAC\n6134 Poplar Bluff Circle\n\nPeachtree Corners, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Credit Union Political Action Committee\n6705 Sugarloaf Parkway\n#200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Pinewood Atlanta LLC\n443 Sandy Creek Road\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Metro Atlanta Chamber Political Action Committee\n191 Peachtree Street\nSuite 3406\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/19/2021\nMonetary\nPrimary\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2020December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=159573&Name=Jones,%20Emanuel%20D.&Year=2020&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Enterprise Holdings Political Action Committee\n800 Corporate Park drive\n\nSt. Louis, MD 63105",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "ODE-PAC\nP.O. Box 480862\n\nAtlanta, GA 31345",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Truist Georgia PAC\n1000 Semmes Avenue 6th floor\n\nRichmond, VA 23224",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "General Motors Company Political Action Committee\n25 Massachusetts Avenue\nsuite 400\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "AMS Holding LLC\n445 Bishop Street NW\nsuite 200\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors\n6065 Barfield Road\n\nSandy springs, Georgia 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "McGuirewoods Gateway Plaza\n800 East Canal Street\n\nRichmond , VA 23219",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GAHUPAC\n3227 South Cherokee Lane\nSuite 1320\nWoodstock, GA 30152",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Orthopaedic Society PAC\n131 Holly Springs Drive\n\nPeachtree City, GA 33229",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "K.D Ramsey & Associates\n5980 Southland Drive\n\nStone Mountain, GA 30037",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Property Tax\nP.O. Box 14514\n\nAtlanta, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "American Property Casualty Insurance Association\n8700 West Bryn Mawr Ave Suite 12005\n\nChicago, IL 60631",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Coca Cola Company GA Political Action Fund\nP. O Box 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Care Mark RX Inc\nP.O. Box 287\n\nLincoln, RI 02885",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Amusement & Music Operations\n2095 Highway 211 NW\nSte 2F PMB 163\nBraselton, Georgia 30517",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=158370&Name=Jones,%20Emanuel%20D.&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Healthcare Association Political Action Committee\n160 Country Club Drive\n\nStockbridge, GA 30231",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "AT&T Political Action Committee\n675 West Peachtree Street\nRoom-36-024\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Comcast Corporation\nOne Comcast Conier\n1701 JFK BLVD\nPhiladelphia, PA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Allstate Insurance Company\n2775 Sanders Road\n\nNorthbrook, IL 60062",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Feapac of georgia\n13010 Morris Road\nBuilding 1, Suite 200\nAlpharetta, GA 30004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Professional Insurance Agents of GA\n3806 Creekwood Parkway\nSTe140\nDuluth, GA 30065",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "NFIB\n201 F Street suite 200\n\nWashington, DC 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bank Employees for Better Govt\n1640 Powers Ferry Road\nBldg 26 ste 100\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Southern Company Gas GA\nP.O. Box 4569\n\nAtlanta, GA 30302",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "United Health Services of georgia PAC\n1825 Jeurgens Court\n\nNorcross, GA 30093",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Power Company State Employee\n241 Ralph McGill Boulevard\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GAE Fund for Public Education\n100 Crescent Center Parkway Suite 500\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Altria Client Services LLC\nP.O. Box 85088\n\nRichmond, VA 23286",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Better Government Fund\n2801 Dunwoody Place Suite 318\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=156882&Name=Jones,%20Emanuel%20D.&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Georgia Medical Political Action Committee\n1849 The Exchange\n\nAtlanta, Georgia 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Merck & Co, Inc\n2000 Galloping Hill Road\nMailstop K-5 2081\nKenilworth, NJ 07033",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Associated general Contractors of georgia Action Committee\n1940 The Exchange Suite 100\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CARD of georgia Committee of Automobile Retail Dealers of georgia\nP.O. Box 725154\n\nAtlanta, GA 31136",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Pest Control Association\n2034 Beaver Run Road\n\nNorcross, GA 30071",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Thomas Coleman\n5361 Rock Springs Road\n\nLithonia, GA 30038",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "08/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Game Developers Association\n1846 Hebron Hills\n\nTucker, Georgia 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Federation of Teachers\n1990 Lakeside Parkway Ste 230\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Connect South for Better georgia\n3290 Northside Parkway Suite 675\n\nAtlanta, GA 30327",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "NAMIC Administrative Fund\n3601 Vincennes Road\n\nIndianapolis, IN 46268",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "MAG Mutual GA Political Committee\nP.O. Box 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Chamber Political Affairs Council\n270 Peachtree St NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Capital City Public Affairs\n3535 Peachtree Road Suite 540\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Responsible Gaming Committee, INC\nP.O. Box 501029\n\nAtlanta, GA 31150",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgians Lawsuit Reform\n270 Peachtree Street NW Suite 2200\n\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Travelers Companies Political Action Committee\nOne Tower Square 8MS\n\nHartford, CT 06183",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "IIAG of Georgia\n4555 Mansell Road Suite 300\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Screen Ent Coalition\n270 Peachtree Street Suite 2200\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Paypal Online Campaign\n0000\n\nEllenwood, GA 30288",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/19/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$116.05"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=145726&Name=Jones,%20Emanuel%20D.&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020April30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=145725&Name=Jones,%20Emanuel%20D.&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020January31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=145724&Name=Jones,%20Emanuel%20D.&Year=2020&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Dentons US LLP\n233 S Wacker Drive\n\nChicago, Illnois 60606",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Atlanta Motor Speedway\n1500 Tara Place\n\nHampton, GA 30228",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc\nP.O. Box 407\n\nLakeland, FLorida 33810",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Home Depot Inc\n3155 F. Street N.W.\nSuite 400\nWashington, DC 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Fair Fight Inc\n1270 Caroline Street Ste D120-311\n\nAtlanta, Georgia 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CornerStone Government Affairs\n800 Main Avenue SW\n7th floor\nWashington, DC 20024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Georgia Medical Political Action\n1349 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "AT&T\n754 W Peachtree Street N.W.\n\nAtlanta, Georgia 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/15/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The R.B. Robinson Company LLC\nP.O. Box 250828\n\nAtlanta, GA 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "General Motors Company\n25 Massachusetts Avenue NW\nSuite 400\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders LLP Georgia PAC\n600 Peachtree Street NE\nSuite 3000\nAtlanta, gA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Senior Living Association\n2023 Grayson Highway Suite 202 A\n\nGrayson, GA 30017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Builders Political Action Committee\n3016 Camp Creek Parkway\n\nAtlanta, GA 30334",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Dental Association Political Action Committee\n7000 Peachtree Dunwoody Road bldg 17\nSte 200\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Highway Contractors Assoc\n2160 Satellite Blvd n.W. Suite 100\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "committee of Automobile Retail Dealers\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Food Industry Association\n5000 Highlands Pkwy SE\n\nSmyrna, GA 30082",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Amusement and Music Association\n2085 Highway 211 NW Ste 2F\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=145721&Name=Jones,%20Emanuel%20D.&Year=2019&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Smith Gambrell & Russell LLP\n1230 Peachtree Street N. W.\nSte 3100\nAtlanta, Georgia 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/08/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Associated General Contractors of GA\n1940 The Exchange Ste 100\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/03/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Mag Mutual Ga Political Action Committee\nP.O. Box52979\n\nAtlanta, Georgia 30153",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/23/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Power Company State Employee PAC , INC\n241 Ralph McGill Boulevard\n\natlanta, Georgia 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Service Corporation International Political Action Committee\nP.O. Box 130848\n\nhouston, tx 77218",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "McGuire Woods\n600 East Canal Street\n\nRichmond , VA 23219",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/06/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Better Government Fund\n8801 Dunwoody Place\nSuite 318\nAtlanta, Georgia 30360",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/21/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Sprint\nP.O. Box 11670\n\nPhoenix, Az 22570",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/04/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Delta PAC\nP.O. Box 20708\n\nAtlanta, GA 30330",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/13/2019\nMonetary\nGeneral\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Committee Responsibility Healthcare Policy\n3231 Collier Road\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/11/2019\nMonetary\nGeneral\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Alliance of Community Hospitals\nP.o. Box 1578\n\nTifton, GA 31382",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/05/2019\nMonetary\nGeneral\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Relx INC\n313 Washington Street\n# 400\nNewton, MA 02488",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/02/2019\nMonetary\nGeneral\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=141682&Name=Jones,%20Emanuel%20D.&Year=2019&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2019January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=138399&Name=Jones,%20Emanuel%20D.&Year=2019&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "JM Family Enterprises Inc\n300 Jim Moran Blvd\n\nDeerfield Beach, Fl 33442",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "G.A.R.D.E\n3566 Lawrenceville Hwy\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Fair Fight Inc\n1270 Caroline Street Ste D120-311\n\nAtlanta, Georgia 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Atlanta Motor Speedway\nP.O. Box 500\n\nHampton, GA 30228",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "C.A.R.D of Georgia\nP.O. Box\n725154\nAtlanta, Georgia 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Stephen Henson\n5404 Pleasant Run\n\nStone Mountain, georgia 30087",
+          "PACOccupationEmployer": "\nUnion Representative\nLaborers Union",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Pkwy Ste 200\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Dentons US LLP\n233 S Wacker Drive\n\nChicago, Illnois 60606",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Food Industry Association\n1260 Winchester Pkwy\nSte 100\nSmyrna, Georgia 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Restuarant Association\n260 Peachtree Street\nSte 1901\nAtlanta, georgia 30334",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Kelly Jordan\n420 Oakdale Road\n\nAtlanta, georgia 30307",
+          "PACOccupationEmployer": "\nTBD\nTBD",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$101.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Charles William\n1448 Hardin Ave\n\nCollege Park, Georgia 30337",
+          "PACOccupationEmployer": "\nDirector\nBetter Outcomes",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Metro Atlanta\n191 Peachtree Street\nSte 3400\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2018December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=138405&Name=Jones,%20Emanuel%20D.&Year=2018&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place Suite 318\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/19/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Associated General Contractors of GA\n1940 The Exchange Ste 100\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/19/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "gA CUPAC\n6705 Sugarloaf Pkwy Ste 200\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/26/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Metter Ford\nP.O . Box 327\n\nMetter, GA 30439",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/12/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Stockbridge Coalition\nP.O. Box 2327\n\nStockbridge, Georgia 30281",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/17/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$969.40"
+        }
+      ]
+    },
+    {
+      "report": "2018October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=138402&Name=Jones,%20Emanuel%20D.&Year=2018&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Trial Lawyers Association\n3350 Centennial Tower\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bankers Association of Georgia\n1900 The Exchange\nSte 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "International Brotherhood of Electrical Workers\n501 Pulliam Street SW\n#613\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2018September30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=138330&Name=Jones,%20Emanuel%20D.&Year=2018&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GSLA-PAC\n2023 Grayson Highway Suite 202 A\n\nGrayson, GA 30017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/29/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Medical Eye PAC\n2700 Cumberland pkwy\nSte 570\nAtlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "T Mobile USA INC\n12920 SE 38th Street\n\nBellevue, WA 98006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/29/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        }
+      ]
+    },
+    {
+      "report": "2018June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=132727&Name=Jones,%20Emanuel%20D.&Year=2018&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Amerigroup Corporation\n3075 Vandercor Way\n\nCincinnati, OH 45209",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/29/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2018March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=131621&Name=Jones,%20Emanuel%20D.&Year=2018&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2018January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=129501&Name=Jones,%20Emanuel%20D.&Year=2018&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Food Industry Association\n1260 Winchester Parkway\nSuite 110\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders LLP\nBank of America Plaza\n600 Peachtree St. NE Suite 5200\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Power Company State Employee PAC, Inc\n241 Ralph McGill Blvd NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "J M Family Enterprises, INC\n100 Jim Moran Blvd\n\nDeerfield Beach, FL 33442",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Georgia Better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "Georgia Apartment Association\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CARD Of Georgia\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "Automobile Retail Dealers of Georgia\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Hospital Association\n1675 Terrell Mill Rd\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Enterprise Holding, INC. Political Action Committee\n600 Corporate Park Dr\n\nSt. Louis, MO 63105",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Capitol Partners\n3506 Paces Place NW\n\nAtlanta, GA 30327",
+          "PACOccupationEmployer": "Cancer Treatment Centers of America\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors PAC\n3200 Presidential Drive\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "FanDuel Inc.\n300 Park Ave S\n14th Floor\nNew York, NY 10010",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Draft King, Inc\n125 Summer St\nSuite 510\nBoston, MA 02110",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "A. R. Long Co., Inc.\n3900 Crown Rd\n\nAtlanta, GA 30314",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "K. D Ramsey and Associates\n5980 Southland Dr\n\nStone Mountain , GA 30087",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Amerigroup\nP.O. Box 68086\n\nCincinnati, oH 45206",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/22/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Blue Cross Blue Shield\n3350 Peachtree Rd., NE,\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/22/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/22/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Turner Broadcasting System, Inc\nOne CNN Center\n12 SE\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "UPSPAC\n12380 Morris Rd\nOfc N605\nAlpharetta, GA 30005",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ga Aflac Pac\n1932 Wynnton Road,\n\nColumbus, GA 31999",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "05101-OH B.U. Eastern\n4550 Peachtree Rd\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Swisher International INC\nP. O Box 2230\n\nJacksonville, FL 32203",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC, Inc. of the Trial Lawyers Association\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree St\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Robert Haynes DBA GARDE\n2690 Summers St NW Ste A\n\nKennesaw, GA 30144",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bankers Association\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/28/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Dynamic Corp PAC\n2941 Fairview Park Dr\nSuite 100\nFalls Church, VA 22042",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Altria Client Services\n333 N Point Center E\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/19/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ga Branch, Associated General Contractors Political Action Committee\n1940 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/26/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2017June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=127645&Name=Jones,%20Emanuel%20D.&Year=2017&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2017January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=126180&Name=Jones,%20Emanuel%20D.&Year=2017&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Amusement and Music Operators Association\n3780 Old Norcross Rd\nSuite 103\nDuluth, Ga 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/31/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ga Aflac Pac\n1932 Wynnton Road,\n\nColumbus, GA 31999",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/31/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders LLP\nBank of America Plaza\n600 Peachtree St. NE Suite 5200\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/31/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2016April30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=145199&Name=Jones,%20Emanuel%20D.&Year=2016&Report=April%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bankers Association of Georgia\n1900 The Exchange\nSte 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2016January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=144796&Name=Jones,%20Emanuel%20D.&Year=2016&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "J. W. Family Enterprise\n100 Jim Moron Blvd\n\nDeerfield Beach, Fl 33442",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Radio One, INC\n101 Marietta Street\n\nAtlanta, GA 30334",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        }
+      ]
+    },
+    {
+      "report": "2016December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=125373&Name=Jones,%20Emanuel%20D.&Year=2016&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Branch Banking and Trust PAC\nP.O 1290\n\nWinston Salem, NC 27102",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors\n6065 Barfield Rd\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ga Power Company and Employee State PAC\n241 Ralph McGill Blvd\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Moye Pharmacy\n62 Keys Ferry Street\n\nMcDonough, gA 30253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "PFIZER\n6730 LENOX CENTER CT\n\nMemphis, tn 38115",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Koch\n4111 East 37th St North\n\nWichita, KS 67220",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Turner Broadcasting System, Inc\n101 Marietta St NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "UPS PAC\n55 Glenlake Parkway NE\n\nAltanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=124020&Name=Jones,%20Emanuel%20D.&Year=2016&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Amerigroup\nP.O. Box 68086\n\nCincinnati, oH 45206",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/14/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2016September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=122692&Name=Jones,%20Emanuel%20D.&Year=2016&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Independent Automobile Dealers Association\n6903 -A Oak Ridge Commerce Way SW\n\nAustell, GA 30168",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/25/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Optometric Association\n400 W Peachtree St\nSuite 201\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/25/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=120668&Name=Jones,%20Emanuel%20D.&Year=2016&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Amerigroup\n303 Perimeter Center North\nSuite 500\nAtlanta, GA 30246",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Bankers Association\n1900 The Exchange Suite 1900\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Amerigroup GA\n303 Perimeter Center North\nsuite 500\nAtlanta, GA 30346",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bankers Association\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/26/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2015January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=117723&Name=Jones,%20Emanuel%20D.&Year=2015&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Caremark Rx, Inc\nP.O. Box 287\n\nLincoln, RI 02895",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Reed Elsevier Corporate Account\n255 Washington Street\n\nNewton, MA 02458",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Emergency Medicine Pac\n6134 Poplar Bluff Circle\nSuite 101\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Turner Broadcasting System, Inc\n101 Marietta St NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "OAAG-PAC of the Outdoor Advertising Association of Georgia\nP.O. Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/10/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Federation of Teachers\n4 Executive Park East\nSuite 120\nAtlanta, GA 30329",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/14/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Altria Client Services\n333 N Point Center E\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/27/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bank Employees For Better Govt. PAC\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/23/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "UPSPAC\n12380 Morris Rd\nOfc N605\nAlpharetta, GA 30005",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Power Company State Employee PAC, Inc\n241 Ralph McGill Blvd NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/11/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Automobile Dealers Association, Inc.\nP.O Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$4,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "State Healthcare PAC\nP.O. Box 2194\n\nRoswell, GA 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Food Industry Association\n1260 Winchester Parkway\nSuite 110\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/30/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix, Inc\nPO. Box 407\n\nLakeland, FLORIDA 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2015June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=116139&Name=Jones,%20Emanuel%20D.&Year=2015&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Alliance of Automobile Manufactures\n803 7th St NW\nSuite 300\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2015",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Highway Contractors Association\n2160 Satallite Blvd\n\nDuluth, GEorgia 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2015\nMonetary\nPrimary\n2015",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Capitol Partners Public Affairs\n4200 Northside Parkway NW\nBuilding 12\nAtlanta, Georgia 30327",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/14/2015\nMonetary\nPrimary\n2015",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Turner Broadcasting System, Inc\n101 Marietta St NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/01/2015\nMonetary\nPrimary\n2015",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=114260&Name=Jones,%20Emanuel%20D.&Year=2014&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Koch Companies Public Sector\n133 Peachtree St, NE\n50th Floor\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=112988&Name=Jones,%20Emanuel%20D.&Year=2014&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Amusement and Music Association\n3400 Peachtree Road NE\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC, Inc. of the Trial Lawyers Association\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place, Suite 318\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Power Company State Employee PAC, Inc\n241 Ralph McGill Blvd NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/10/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Taggart's Driving School\n3566 Lawrenceville Hwy\n\nTucker, GEORGIA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2014September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=112117&Name=Jones,%20Emanuel%20D.&Year=2014&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bankers Association\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Southeastern Regional Medical Center\n600 Parkway North\n# 1103\nNewnan, Georgia 30263",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/19/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Branch Associated General Contractors\n1940 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/17/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=111108&Name=Jones,%20Emanuel%20D.&Year=2014&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Amusement and Music Operators Association\n54 Marshall Rd NE\n\nMilledgeville, Ga 31061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/24/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors\n3200 President Drive\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/24/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Dental Association\n7000 Peachtree Dunwoody Rd NE\nSuite 200 Building 17\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Windstream PAC\n1201 W peachtree St\nSuite 610\nAtlanta, ga 30004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2014January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=108357&Name=Jones,%20Emanuel%20D.&Year=2014&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2013\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Chamber of Commerce\n270 peachtee St NW\nSuite 2200\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Amerigroup Corp\nP.O. Box 68086\n\nCincinnati, OH 45206",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2013December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=106550&Name=Jones,%20Emanuel%20D.&Year=2013&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Suntrust Bank Good Government Group\n25 Park Place 25th Floor\n\nAtlanta, GA 30302",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/21/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "BevPAC\n1800 Peachtree Street, NW\nSuite 550\nAtlanta, Ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/06/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Food Industry\n1260 Winchester Parkway\n\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/24/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Truck Pac\n2060 Franklin Way\nSuite 200\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/23/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Mag Mutual Insurance Company\n3525 Piedmont RD NE\nBuilding 8-600\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/08/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Truck Pac\n1800 Lake Park Dr\nSuite 123\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/15/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$463.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders, LLP Georgia Pac\n600 Peachtree St.\nSuite 5200\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Community Bankers Association\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/11/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2013June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=94069&Name=Jones,%20Emanuel%20D.&Year=2013&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CBS Outdoor\n185 Highway 46\n\nFairfield , NJ 07004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2013\nMonetary\nPrimary\n2013",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2012December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=82617&Name=Jones,%20Emanuel%20D.&Year=2012&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Fred Taylor\nP.O. Box 1156\n\nAlbany, GA 31702",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Total Marking Solutions\nP.O Box 368\n\nTucker, GA 30085",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/07/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2012October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=76974&Name=Jones,%20Emanuel%20D.&Year=2012&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Cash America\n1600 7th Street\n\nFort Worth, TX 76102",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/04/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Branch Associated General Contractors\n1940 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/25/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Emergency Medicine\n6134 Poplar Bluff Circle\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/04/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Turner Broadcasting System, Inc\n101 Marietta St NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/04/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "UPS PAC\n55 Glenlake Parkway NE\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/17/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Pfizer\n235 Eat 42nd Street\n\nNew York, NY 10017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors\n3200 Presidential Dr\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Koch\n600 14th Street NW\nSuite 800\nWashington, DC 20005",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Assoc. Of Educators Fund for Public Education\n100 Crescent Centre Parkway\nSuite 500\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/22/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders LLP\nBank of America Plaza\n600 Peachtree St. NE Suite 5200\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Federation of Teachers\n4 Executive Park East\nSuite 120\nAtlanta, GA 30329",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2012June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=64787&Name=Jones,%20Emanuel%20D.&Year=2012&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Diageo\n801 Main Ave\n\nNorwalk, CT 06851",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/14/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "T Mobile\n12920 SE 38th Street\n\nBellevue, WA 98006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/14/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Dental Association\n7000 Peachtree Dunwoody Rd NE\nSuite 200 Building 17\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/14/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/28/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2012March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=55967&Name=Jones,%20Emanuel%20D.&Year=2012&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Food Industry\n1260 Winchester Parkway\n\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Amusement and Music Association\n3400 Peachtree Road NE\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Comcast\nOne Comcast Center\n\nPhiladelphia, PA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/07/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2011December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=48966&Name=Jones,%20Emanuel%20D.&Year=2011&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Convenience Stores\nP. O. Box 64\n\nNewborn, GA 30056",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/01/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Data Systems and Games, Inc\n270 Riverside Parkway\nSuite D\nAustell, GA 30168",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/25/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Gegory and J. P. Baranco\n4070 Sandy Lake Dr.\n\nLithonia, GA 30038",
+          "PACOccupationEmployer": "\nCar Dealer\nBaranco Automotive",
+          "receivedTypeElection": "07/14/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Elizabeth Bates\n4234 Berkford Circle\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nSelf Employed\nSelf Employed",
+          "receivedTypeElection": "07/14/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Samuel and Emma Dumas\n4685 Heatherwood Dr SW\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nSelf Employed\nSelf Employed",
+          "receivedTypeElection": "07/14/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "McKenna Long & Aldridge\n303 Peachtree Street, NE\nSuite 5300\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/13/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Automobile Dealers Association, Inc.\nP.O Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/13/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "BevPAC\n1800 Peachtree Street, NW\nSuite 550\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/14/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/01/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "T Mobile\n12920 SE 38th Street\n\nBellevue, WA 98006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/20/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Wine and Spirits Wholesalers of Georgia\n3565 Piedmont Road NE\nTwo Piedmont Center Suite 320\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/14/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrun Drive\nSuite 100\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/07/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Devry Inc.\n3005 Highland Parkway\n\nDowners Grove, IL 60515",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/05/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Titlemax\n15 Bull St\nSuite 200\nSavannah, GA 31401",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/13/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/02/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Reed Elsevier Corporate Account\n255 Washington Street\n\nNewton, MA 02458",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Dental Association\n7000 Peachtree Dunwoody Rd NE\nSuite 200 Building 17\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/20/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Blue Cross Blue Shield\n3350 Peachtree Rd., NE,\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Reed Elsevier Corporate Account\n255 Washington Street\n\nNewton, MA 02458",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Windstream\n13560 Morris Rd\nSuite 2500\nMilton, GA 30004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/21/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders, LLP Georgia Pac\n600 Peachtree St.\nSuite 5200\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/06/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Corrective Health, LLC\n9020 peridot Parkway\n\nStockbridge, GA 30281",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/14/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Anheuser Busch\nOne Busch Place\n\nSt. Louis, MO 63118",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/04/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "American Express\n2401 W Behrend Dr.\nSuite 55 MC 24-01-17\nPhoenix, AZ 85027",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/24/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Emergency Medicine PAC\n6134 Poplar Bluff Cir. Suite 101\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/23/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Auto Pawn\n1275 Alpharetta St\n\nRoswell, GA 30075",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/06/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "El Paso Energy Service Company\n1001 Louisiana Street\n\nHouston, , TX 77002",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/07/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "United HealthCare\nP.O Xox 1459 MN008-W235\n\nMinneapolis, MN 55440",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/18/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Robert Haynes DBA GARDE\n2690 Summers St NW Ste A\n\nKennesaw, GA 30144",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/08/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    },
+    {
+      "report": "2011June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=35809&Name=Jones,%20Emanuel%20D.&Year=2011&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CBS Outdoor\n3745 Atlanta Industrial Drive\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/18/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Emergency Medicine PAC\n6134 Poplar Bluff Cir\nSuite 101\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "UPS PAC\n55 Glenlake Parkway NE\n\nAltanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Forestar Committe for Responsible Government\n6300 Bee Cave Rd.\nBulding Two Suite 500\nAustin, TX 78746",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Williams Companies, Inc.\nP. O. Box 21218\n\nTulsa, OK 74121",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2010December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=31112&Name=Jones,%20Emanuel%20D.&Year=2010&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC, Inc. of the Trial Lawyers Association\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/09/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors PAC\n3200 Presidential Drive\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/16/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Keep Hope Alive Political Action Committee\n2550 M Street NW\n\nWashington, DC 20037",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/05/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Blue Cross Blue Shield\n3350 Peachtree Rd., NE,\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/05/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        }
+      ]
+    },
+    {
+      "report": "2010October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=30239&Name=Jones,%20Emanuel%20D.&Year=2010&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Pharmacy Association\n50 Lenox Pointe NE\n\nAtlanta, GA 30324",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/17/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrun Drive\nSuite 100\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Beverage Association\n50 Hurt Plaza\nSuite 935\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/04/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Troutman Sanders, LLP Georgia Pac\n600 Peachtree St.\nSuite 5200\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "American Council of Engineering Companies\n233 Peachtree Street\nHarris Tower Suite 700\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/14/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Wine and Spirits Wholesalers of Georgia\n3565 Piedmont Road NE\nTwo Piedmont Center Suite 320\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/19/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Koch Companies Public Sector\n133 Peachtree St, NE\n50th Floor\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/12/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Arthur Blank\n3223 Howell Mill Rd\n\nAtlanta, GA 30327",
+          "PACOccupationEmployer": "\nBusiness Owner\nAtlanta Falcons",
+          "receivedTypeElection": "10/20/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2010September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=28837&Name=Jones,%20Emanuel%20D.&Year=2010&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Dental Association\n7000 Peachtree Dunwoody Rd NE\nSuite 200 Building 17\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/26/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Wal-Mart Public Affairs, Wal-Mart Stores\nMail Stop 0150\n702 Southwest 8th Street\nBentonville, AR 72716",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/02/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "El Paso Energy Service Company\n1001 Louisiana Street\n\nHouston, , TX 77002",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/05/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Bryan Cave LLP Political Fund\n1201 W Peachtree St NW\n14th FL\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/02/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CARD\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.09"
+        }
+      ]
+    },
+    {
+      "report": "2010June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=28203&Name=Jones,%20Emanuel%20D.&Year=2010&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2010March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=26464&Name=Jones,%20Emanuel%20D.&Year=2010&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2009December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=24608&Name=Jones,%20Emanuel%20D.&Year=2009&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "OAAG-PAC of the Outdoor Advertising Association of Georgia\nP.O. Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/31/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CBS Outdoor\n185 US Highway 46\n\nFairfield, NJ 07004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/31/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Bryan Cave LLP Political Fund\n1201 W Peachtree St NW\n14th FL\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/31/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GAQFHE, Inc\n6600 Peachtree Dunwoody Rd\n100 Embassy Row\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "WAL * PAC Wal-Mart Stores, Inc., Political Action Committee for Responsible Government\n702 SW 8th Street\n\nBentonville, AR 72716",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/09/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC, Inc. of the Trial Lawyers Association\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/15/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Reed Elsevier Corporate Account\n255 Washington Street\n\nNewton, MA 02458",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/26/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Emergency Medicine PAC\n6134 Poplar Bluff Cir\nSuite 101\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Waste Management\nP.O. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/17/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Blue Cross Blue Shield of Georgia\nP.O. Box 68086\n\nCincinnati, OH 45206",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/08/2009\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        }
+      ]
+    },
+    {
+      "report": "2009June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=21518&Name=Jones,%20Emanuel%20D.&Year=2009&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Farmers Furniture\n127 Peachtree St, Suite 715\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2009\nMonetary\nPrimary\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2008December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=19382&Name=Jones,%20Emanuel%20D.&Year=2008&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Keep Hope Alive Political Action Committee\n2550 M Street NW\n\nWashington, DC 20037",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Meadows & Macie, P.C.\n101 Eagle's Pointe Parkway\n\nStockbridge, GA 30281",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association for Quality For-Profit Higher Education\n6600 Peachtree Dunwoody Road\n100 Embassy Row\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/04/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Bank of America's State and Federal Political Action Committee\n1100 North King Street\n2nd Floor\nWilmington, DE 19884",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Outdoor Advertising Association of Georgia PAC Account\nP.O. Box 371941\n\nDecatur, GA 30037",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/06/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GeorgiaLink\nPost Office Box 38402\nCapitol Square\nAtlanta, GA 30334",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/18/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2008October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=17781&Name=Jones,%20Emanuel%20D.&Year=2008&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice Political Action Committee, Inc.\n50 Hurt Plaza\nSuite 1250\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/14/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Eagle Rock Distributing Company\n1375 Beverage Drive\n\nStone Mountain, GA 30083",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Deere & Company Political Action Committee\nOne John Deere Place\n\nMoline, GA 61265",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/03/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2008September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=16668&Name=Jones,%20Emanuel%20D.&Year=2008&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "WAL*PAC\nWal-Mart Stores, Inc.\nPolitical Action Committee for Responsible Government\n702 SW 8th Street, AR 72716",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/11/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "McKenna Long & Aldridge\n303 Peachtree Street, NE\nSuite 5300\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Bankers Association\n50 Hurt Plaza\nSuite 1050\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/23/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/20/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Independent Automobile Dealers Association, Inc.\n6903-A Oak Ridge Commerce Way SW\n\nAustell, GA 30168",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/02/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Southern Natural Gas Company\nP.O. Box 2563\n\nBirmingham, AL 35202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/03/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "BevPAC\n1800 Peachtree Street, NW\nSuite 550\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/11/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Altria Client Services\n333 N Point Center E\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "Philip Morris USA, Inc.\n\n",
+          "receivedTypeElection": "08/11/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Emergency Medicine\n6134 Poplar Bluff Circle\nSuite 101\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/05/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Educators Fund for Public Education\n100 Crescent Centre Parkway\nSuite 500\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/10/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Emanuel Jones\n197 Ward Road\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nauto dealer\nself",
+          "receivedTypeElection": "08/15/2008\nMonetary\nGeneral\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$79,246.13"
+        }
+      ]
+    },
+    {
+      "report": "2008June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=14626&Name=Jones,%20Emanuel%20D.&Year=2008&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Pfizer\n400 Perimeter Center Terrace\nSuite 1000\nAtlanta , GA 30346",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/27/2008\nMonetary\nPrimary\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors\nPAC\n3200 Presidential Drive\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/19/2008\nMonetary\nPrimary\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Optometric Association/PAC\n1000 Corporate Center Drive\nSuite 240\nMorrow, GA 30260",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/25/2008\nMonetary\nPrimary\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2008March31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13958&Name=Jones,%20Emanuel%20D.&Year=2008&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "DeVry Institute of Technology\n3400 Peachtree Road\nSuite 400, Lenox Towers\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2008\nMonetary\nPrimary\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CARD of Georgia\n2255 Cumberland Pkwy\nBldg 900\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2008\nMonetary\nPrimary\n2008",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.08"
+        }
+      ]
+    },
+    {
+      "report": "2007December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13975&Name=Jones,%20Emanuel%20D.&Year=2007&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Emergency Medicine PAC\n6134 Poplar Bluff Cir. Suite 101\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "SCI Georgia Funeral Services\n1929 Allen Parkway\n\nHouston, TX 77019",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Hos Pac\n1675 Terrell Mill Rd.\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ga Branch, Associated General Contractors Political Action Committee\n1940 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/13/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Advance America\n135 North Church Street\n\nSpartanburg, SC 29306",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/12/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CBS Outdoor\n185 US Hwy 46\n\nFairfield, NJ 07004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/28/2007\nMonetary\nPrimary\n2007",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2007June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13974&Name=Jones,%20Emanuel%20D.&Year=2007&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Devry Institute\n250 N. Arcadia Av.\n\nDecatur, GA 30030",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/29/2007\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "John Deere PAC\n2001 Deere Drive\n\nConyers, GA 30013",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/13/2007\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2006December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13972&Name=Jones,%20Emanuel%20D.&Year=2006&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Food Industry Association\n1260 Winchester Pkwy\n\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/09/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2006October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13970&Name=Jones,%20Emanuel%20D.&Year=2006&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Nationwide Georgia Political Participation Fund\nOne Nationwide Plaza 1-32-06\n\nColumbus, OH 43215",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GILA-Consumer Credit People for Responsible Government\nPO Box 802\n\nMacon, GA 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/17/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Pfizer, Inc.\n100 5th Avenue\n\nNew York, NY 10017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/24/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Gold Kist\n244 Perimeter Center Pkwy NE\n\nAtlanta, GA 30346",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Keep Hope Alive\n2550 M Street NW\n\nWashington, DC 20037",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2006September30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13969&Name=Jones,%20Emanuel%20D.&Year=2006&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Data Search\n9105 Owens Drive\n\nManassas, VA 20111",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/18/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "ODE-PAC\nP.O. Box 538\n\nDecatur, GA 30031",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/17/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "David Schutten\nP.O. Box 2647\n\nDecatur, GA 30031",
+          "PACOccupationEmployer": "\nSelf Employed\nSelf Employed",
+          "receivedTypeElection": "07/17/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "The Coca-Cola Company-PAC\nPO Drawer 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/13/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Frank Bates\n2715 Miriam Lane\n\nDecatur, GA 30032",
+          "PACOccupationEmployer": "\nSelf Employed\nSelf Employed",
+          "receivedTypeElection": "07/13/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Edward & Betty Lee\n97 Daniel Court\n\nMcDonough, GA 30253",
+          "PACOccupationEmployer": "\nPastor\nPastor",
+          "receivedTypeElection": "07/12/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Marathon Petroleum Company\n539 South Main Street\n\nFindlay, OH 45840",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/12/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Star Glass Co., Inc.\nPO Box 1135\n\nMcDonough, GA 30263",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/20/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Chiropractic Association PAC\n4566 Lawrenceville Highway, #201\n\nLilburn, GA 30047",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/20/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Philip Morris USA, Inc.\n333 N Point Center E., Suite 615\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/18/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "C.A.R.D. of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/15/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.06"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "GA Association of Educators Fund for Public Education\n100 Crecent Centre Parkway, Suite 500\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Anheuser Busch\n106 East College Avenue, Suite 700\n\nTallahassee, FL 32301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "HOS PAC\n1675 Terrill Mill Rd.\n\nMarietta, GA 30367",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/27/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Emanuel Jones\n197 Ward Road\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nPresident/CEO\nLegacy Ford",
+          "receivedTypeElection": "07/15/2006\nIn-Kind\nGeneral\n2006",
+          "inKindDescription": "Cost of printing and media advertising",
+          "inKindAmount": "$57,015.37",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "William Dudley\n1932 Wynnton Road\n\nColumbus, GA 31999",
+          "PACOccupationEmployer": "\nSelf employed\nSelf employed",
+          "receivedTypeElection": "07/05/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Blue Cross Blue Shield\n3350 Peachtree Rd., NE,\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/05/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "G. Martin Brittain\n280 Country Club Dr., Suite 200\n\nStockbridge, GA 30281",
+          "PACOccupationEmployer": "\nAttorney\nSelf employed",
+          "receivedTypeElection": "07/28/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Gerry M. Greer\n542 Rocky Creek Rd.\n\nHampton, GA 30228",
+          "PACOccupationEmployer": "\nMortgage Broker\nSelf employed",
+          "receivedTypeElection": "07/28/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia State UAW\n1280 Winchester Parkway, SE, Suite 131\n\nSmyrna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/05/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Advance America\n135 N. Church Street\n\nSpartanburg, SC 29306",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/26/2006\nMonetary\nGeneral\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        }
+      ]
+    },
+    {
+      "report": "2006June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=13968&Name=Jones,%20Emanuel%20D.&Year=2006&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Robert L. Brown\n1394 Doe Valley\n\nLithonia, GA 30058",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "01/07/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Suntrust Bank Good Government Group\n25 Park Place 25th Floor\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Wal-Mart PAC\n2133 Highway 314, Suite 14-331\n\nSuwanne, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/06/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Terrance D. Harps\nP.O. Box 20905\n\nAtlanta, GA 30320",
+          "PACOccupationEmployer": "\nPresident\nGlobal Concessions, Inc.",
+          "receivedTypeElection": "05/17/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Roy B. Robinson, III\n1775 Defoor Avenue, NW, Apt. A\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\nLobbyist\nSelf employed",
+          "receivedTypeElection": "05/24/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ford Motor Company PAC\nThe American Road, Room 336-A6\n\nDearborn, MI 48121",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/24/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Chet Bryant\n3015 Piedmont Road\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nExecutive Director\nGeorgia Beer Wholesalers Assoc.",
+          "receivedTypeElection": "05/31/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Eagle Rock Distributing Co.\n3015 Piedmont Drive\n\nStone Mountain, GA 30083",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/31/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "C.A.R.D. of Georgia\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/06/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.06"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Crystal O'Sullivan\nP.O. Box 556\n\nStockbridge, GA 30281",
+          "PACOccupationEmployer": "\nReal estate agent\nCMOC's Inc.",
+          "receivedTypeElection": "06/06/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Jacquie Scott\n2887 Alameda Trail\n\nDecatur, GA 30334",
+          "PACOccupationEmployer": "\nSel employed\nSelf employed",
+          "receivedTypeElection": "06/07/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Steve Smith\nOne CNN Center\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\nVP Corporate Affairs\nTurner Braodcasting Systems",
+          "receivedTypeElection": "06/09/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place, Suite 318\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Delta-PAC\nP.O. Box 20706\n\nAtlanta, GA 30320",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/14/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Steve Levetan\n4473 Tilly Mill Road\n\nAtlanta, GA 30360",
+          "PACOccupationEmployer": "\nSr. VP\nPull Apart Used Auto Parts",
+          "receivedTypeElection": "06/16/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Tommy Calhoun\n4220 Trim Tree Drive\n\nMorganton, NC 28655",
+          "PACOccupationEmployer": "\nAuto dealer\nSelf employed",
+          "receivedTypeElection": "06/16/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "IBEW Local 613 PAC\n501 Pulliam Stree, SW, Suite 250\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/19/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors\n3200 President Drive\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/21/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$600.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Segal, Fryer, Shuster & Lester, P.C.\n1050 Crown Pointe Parkway, Suite 410\n\nAtlanta, GA 30338",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/21/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Alex Crumbley\n1743 Hwy 20 East\n\nMcDonough, GA 30253",
+          "PACOccupationEmployer": "\nAttorney\nSelf employed",
+          "receivedTypeElection": "06/22/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Marcia Taylor\n37 Glen Eagle Way\n\nMcDonough, GA 30253",
+          "PACOccupationEmployer": "\nPresident\nBennett International Group",
+          "receivedTypeElection": "06/22/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Hitesh R. Chokshi\n201 Harwick Lane\n\nMcDonough, GA 30253",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "06/22/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$101.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Samuel J. Lorenzo\n300 Broadmoor Way\n\nMcDonough, GA 30253",
+          "PACOccupationEmployer": "\nPhyscian\nSelf employed",
+          "receivedTypeElection": "06/22/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Orthopaedic Society\n212 Troon West\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/22/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Association of General Contractors of America, Inc.\n1940 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia State AFL-CIO\n501 Pulliam Street, SW, Suite 49\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Bankers Association\n50 Hurt Plazza, Suite 1050\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Educators\n100 Crescent Centre Parkway, Suite 500\n\nTicker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC, Inc.\n50 Hurt Plazza, Suite1250\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/28/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Thomas Boiler\n1100 Spring Street, Suite 380\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\nPublic Affairs\nBoiler, Sewell & Segars",
+          "receivedTypeElection": "06/28/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Emanuel Jones\n197 Ward Road\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nPresident/CEO\nLegacy Ford",
+          "receivedTypeElection": "06/30/2006\nIn-Kind\nPrimary\n2006",
+          "inKindDescription": "Media buy",
+          "inKindAmount": "$22,231.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Optometric Association PAC\n1000 Corporate Center Dr., Suite 240\n\nMorrow, GA 30260",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2006\nMonetary\nPrimary\n2006",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2006March31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=734&Name=Jones,%20Emanuel%20D.&Year=2006&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2005December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=276&FilerID=C2006000075&CDRID=235&Name=Jones,%20Emanuel%20D.&Year=2005&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "David Adelman\n1507 Emory Road\n\nAtlanta, GA 30306",
+          "PACOccupationEmployer": "\nSenator/Attorney\nSelf",
+          "receivedTypeElection": "10/25/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Steve C. Anthony\nP.o. Box 8915\n\nAtlanta, GA 31106",
+          "PACOccupationEmployer": "\nCommunication/Gov't Affairs\nSelf",
+          "receivedTypeElection": "11/11/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Thomas Boller\n1100 Spring Street - st 380\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\nPublic Affairs\nBollers, Sewell, & Segars",
+          "receivedTypeElection": "10/27/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "CARD\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "Georgia Automobile Dealers Assoc.\n\n",
+          "receivedTypeElection": "10/24/2005\nMonetary\nRun-Off Special Primary\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Civil Justice PAC\nP.O. Box 2603\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/15/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Eagle Roack Distributing Coampny\n1375 Beverage Drive\n\nStone Mountain, GA 30083",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Ford Motor Company Civic Action Fund\nThe American Road\n\nDearborn, MI 48121",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "John Funny\n517 Watson Bay Trail\n\nStone Mountain, GA 30087",
+          "PACOccupationEmployer": "\nSelf Employed\nSelf Employed",
+          "receivedTypeElection": "12/20/2005\nMonetary\nPrimary\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Association of Realtors PAC\n3200 Presidential Drive\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/26/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Highway Contractors Assoc. PAC\n175 Carnegie Place - St 133\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/28/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Georgia Optometric Assoc. PAC\n1000 Corporate Center Dr. St 240\n\nMorrow, GA 30260",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Joe Tanner & Assoc.\n50 Hurt Plaza\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/26/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Med Path Professional Services, Inc.\n4030 N. Henry Boulevard -St. 101\n\nStockbridge, GA 30281",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,200.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Publix Super Markets, Inc.\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/26/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Rev. Raleigh Rucker\n2207 Candler Road\n\nDecatur, GA 30332",
+          "PACOccupationEmployer": "\nReverend\nMt. Patmos Baptist Chruch",
+          "receivedTypeElection": "10/26/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Marilyn Waller\n3186 Roseheath Lane\n\nLithonia, GA 30038",
+          "PACOccupationEmployer": "\nAdministrative Assistant\nMt. Patmos Baptist Chruch",
+          "receivedTypeElection": "10/26/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Coastline Consulting Services\nP.O. Box 8575\n\nSavannah, GA 31401",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/18/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "HOS PAC\n1675 Terrell Mill Road\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/02/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "DW Matthews Contracting Co.\nP.O. Drawer 970\n\nMarietta, GA 30061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Pfizer, Inc.\n6730 Lenox Court Accts Payable Office\n\nNew York, NY 10017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/07/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones, Emanuel D.",
+          "contribName": "Washington Group International\nP.O. Box 73\n\nBoise, ID 83729",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2005\nMonetary\nGeneral\n2005",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    }
+  ]
+}

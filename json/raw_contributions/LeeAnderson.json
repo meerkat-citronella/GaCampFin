@@ -1,0 +1,3248 @@
+{
+  "lastUpdated": "Thu Feb 04 2021 20:50:42 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Lee Anderson",
+    "fileName": "LeeAnderson",
+    "displayName": "Lee Anderson",
+    "district": "24",
+    "city": "Grovetown",
+    "party": "Republican",
+    "searchName": ["anderson", "lee"]
+  },
+  "data": [
+    {
+      "report": "2021January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=161021&Name=Anderson,%20Lee%20&Year=2021&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2021December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=160595&Name=Anderson,%20Lee%20&Year=2021&Report=December%2031st%20-%20Special%20Election",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Bayer Corporation\nP. O. Box 135\n\nPittsburgh, PA 15230",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/28/2020\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Trey Allen for Georgia\n2743 Perimeter Pakway Blvd.\nSuite 200\nAugusta, GA 30909",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$55.73"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Titlemax\n23112 Trinity Mille Road\n\nCarrollton, TX 75006",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Mining Association\n113 Arkwright Landing\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Optometric Association\n400 West Peachtree St., NW\nSuite 21\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia AgPAC, Inc.\nP O. Box 119\n\nCommerce, GA 30529",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga Manufacturers PAC\n50 Hurt Placr\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/09/2021\nMonetary\nSpecial\n2021",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=157827&Name=Anderson,%20Lee%20&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Community Bank Employees for Better Government\n1640 Powers Ferry Rd., SE\nBldg. 28, Suite 100\nMarietta, GEORGIA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=157350&Name=Anderson,%20Lee%20&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jesse Stone Campaign\n827 N. Liberty Street\n\nWaynesboro, Georgia 30830",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Bernard Knight\nP. O. Box 29156\n\nAtlanta, Georgia 30359",
+          "PACOccupationEmployer": "\nattorney\nself",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CSRA Builders PAC\n3732 Executive Center Drive\n\nAugusta, Georgia 30907",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CSRA Builders PAC\n3732 Executive Center Drive\n\nAugusta, Georgia 30907",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ellis Black for Senate\n5900 Jump Gully Road\n\nValdosta, Georgia 31601",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Apartment Association, Inc.\n8601 Dunwoody Place\nSuite 318\nAtlanta, Georgia 30350",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Arrow Exterminators PAC of Georgia\n813 Roswell Road\n\nAtlanta, georgia 30350",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Pest Control Association, Inc.\n2034 Beaver Ruin Road\n\nNorcross, Georgia 30071",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Southern Police Benevolent Association\n2155 Highway 42 South\n\nMcDonough, GEorgia 30252",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Power Company\n241 Ralph McGill Blvd., NE\n\nAtlanta, GEORGIA i3030",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "James Hadden\n3809 Inverness Way\n\nMartinez, GEORGIA 30907",
+          "PACOccupationEmployer": "\nreal Estate Agent\nJim Hadden Realty",
+          "receivedTypeElection": "06/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=157125&Name=Anderson,%20Lee%20&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020April30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=157115&Name=Anderson,%20Lee%20&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020January31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=157114&Name=Anderson,%20Lee%20&Year=2020&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Martin Marietta\nP. O. Box 30013\n\nRaleigh, NC 27622",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/01/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Highway Contractors & Assoc & Ga. Asfalt pavement\n2160 Satellite Blvd.\nSuite 100\nDuluth, GA 30097",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "ALTRIA CLIENT SERVICES LLC\nP. O. Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "11/01/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Retail Spirits Council\nSuite C-5\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "11/01/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GVMA PAC\n2200 Century Parkway\n\nAtlanta, GA 30345",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "12/03/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Smith, Gambrell & Russell, LLP\n1230 Peachtree Street, NW\nSuite 3100\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/07/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Amusement Music Operators Assoc.\n2095 Highway 211 N.W.\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "11/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Manufacturing Assoc.\n50 Hurt Plaza\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/07/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        }
+      ]
+    },
+    {
+      "report": "2019June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=139755&Name=Anderson,%20Lee%20&Year=2019&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Matthews & Maxwell\n1118 Ashton Bluff Drive\n\nAtlanta, Ga 30319",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia EMC\n2100 East Exchange Place\nSuite 509\nTucker, GA 30084",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Card of Georgia\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Mining Association\n113 Arkwright Landing\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Mining Association\n113 Arkwright Landing\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Oil Men Association\n1775 spectrum Drive\nSuite 100\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Dental Association PAC\n7000 Peachtree Dunwoody Road\nBuilding 17 Suite 200\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "04/22/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "General Contractors of Georgia\n1940 The Exchange\nSuite 100\nAtlanta, gA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/25/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=138063&Name=Anderson,%20Lee%20&Year=2019&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Mathews & Maxwell, Inc.\n1118 Ashton Bluff Drive\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia EMC\n2100 East Exchange Place\nSuite 509\nTucker, GA 30084",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CARD of Georgia, Inc.\nP. O. Box725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Mining Association\n113 Arkwright Landing\n\nAtlanta, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia CUPAC\n6705 Sugaarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Oilmens Association\n1775 Spectrum Drive\nSuite100\nLawrencevill, GA 30043",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/11/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        }
+      ]
+    },
+    {
+      "report": "2018December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=136863&Name=Anderson,%20Lee%20&Year=2018&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GVMA\n2200 Century Parkway\nSuite 725\nAtlanta, GA 30345",
+          "PACOccupationEmployer": "PAC Georgia Veterinary Medical Association\n\n",
+          "receivedTypeElection": "11/07/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Altria Client Services LLC\nP. O. Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/29/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Burn and Reconstructive Center of America LLC\n3675 J. Dewey Gray Circle\nSuite 300\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/26/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Manufactures Association\n50 Hurt Plaza\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "12/26/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=135595&Name=Anderson,%20Lee%20&Year=2018&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Medical Eye PAC\n2700 Cumberland Pkway SE\nSuite 570\natlanta, GA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/01/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Resurgens PC\n5671 peachtree Dunwoody Rd.\n\nAtlanta, GA 30342",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/01/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Deere\nOne John Deere Place\n\nMoline, IL 61265",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/05/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Koch Industries, Inc.\n4111 East 37th street North\n\nWichita, KS 67220",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/25/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=133992&Name=Anderson,%20Lee%20&Year=2018&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Associated General Contractors of Georgia, Inc.\n1940 The Exchange\nSuite 100\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Pest Control Association\n2034 Beaver Ruin Road\n\nNorcross, GA 30071",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "09/21/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Apartment Association\n8601 Dunwoody Place\nSuite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "09/21/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=132283&Name=Anderson,%20Lee%20&Year=2018&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Republician Senatorial Campaign Committee\nP. O. Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        }
+      ]
+    },
+    {
+      "report": "2018March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=131177&Name=Anderson,%20Lee%20&Year=2018&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2018January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=129570&Name=Anderson,%20Lee%20&Year=2018&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "AGC oF Georgia, Inc.\n1940 The Exchange\nSuite 100\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/19/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Comcast Corporation\nOne Comcast Center\n1701 JFK Voulevard\nPhiladellphia, PA 19103",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/20/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Cable Assoc. PAC, Inc.\n2300 Windy Ridge Parkway\nSuite 205-S\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/20/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Monsanto Company\n800 N orth Lindbert\n\nSt. Louis, MO 63167",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/12/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Fiveash-Stanley, Inc.\n50 Hurt Plaza\nSuite 940\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/12/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Alliance for Community Hospitals, Inc.\nP. O. Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "ALLPAC Fund\n\n",
+          "receivedTypeElection": "10/19/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "George Snelling\n610 Brae Burns Drive\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nbusiness owner\nself",
+          "receivedTypeElection": "11/02/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Alteria Client Services, LLC\n333 North Point Center East\nSuite 4\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GA Manufacturing PAC\n50 Hurt Plaza\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "11/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Eli Lilloy and Company\nLilly Corporate Center\nDrop Code 1054\nIndianapolis, IN 46285",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "12/21/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Dental Association\n700 Peachtree Dunwoody Rd.,NE\nSuite 200, Bldg 17\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "12/21/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Veterinary Medical Association\n2200 Century Parkway NE\nSuite 725\nAtlanta, GA 30345",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "12/21/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Service Corporation International\nDignitry Memorial\n1929 Allen Parkway\nHouston, TX 77219",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Sempra Energy\n488 8th Avenue\n\nSan Diego, CA 92101",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Dental Association\n700 Peachtree dunwoody Rd., NE\nSuite 200, Bldg.17\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/28/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Association of realtors\n6065 Barfield Road\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "DraftKings, Inc.\n125 Summer St.\nSuite 510\nBoston, MA 21110",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "FanDuel, Inc.\n300 Park Avenue South\n14th Floor\nNew York, NY 10010",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Pest Control Association\n2034 Beaver Ruin Road\n\nNorcross, GA 30071",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "MHM Services, Inc.\nSuite 610\n1593 Spring Hill Road\nVienna, VA 22182",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2017June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=127304&Name=Anderson,%20Lee%20&Year=2017&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Kimberly Hudgins\n227 Hickory Bluff Drive\n\nWaverly, Ga 31565",
+          "PACOccupationEmployer": "\nGovernmental Relations\nHNTB Engineers",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GAMPAC\n50 Hurt Plaza\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CARD of Georgia\nP. O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "Automobile Retail Dealers of Georgia\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "DELTA PAC\nP. O. Box 20706\n\nAtlanta, GA 30320",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/03/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "HosPAC\n1675 Terrll Mill Road\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/03/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Restaurant Association\n3520 Piedmont Road\nSuite 360\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Bankers Association\n50 Hurt Plaza\nSuite 1050\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Emergency Medicine PAC, Inc.\n6134 Poplar Bluff Circle\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/03/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "The Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Bethel for Senate\n1701 Briarcliff Circle\n\nDalton, GA 30720",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "04/06/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Poultry /federation PAC\nP. O. Box 763\n\nGaineville, GA 30503",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "04/06/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "BEVPAC\n50 Hurt Plaza\nSuite 935\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CARD of Georgia\n2060 Powers Ferry Road, SE\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Comcast\n600 Galleria Parkway,\nSuite 11\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Cowsert for Senate\nP. O. Box 512\n\nAthens, GA 30603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Mike Dugan for State Senate\n106 Champion Drive\n\nCarrollton, GA 30116",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GAMPAC\n50 Hurt Plaza\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga Power Company State Employee PAC, Inc.\n241 Ralph McGill Blvd.\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jack Hill Senate Campaign Account\nP. O. Box 486\n\nReidsville, GA 30453",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CARD of Georgia\nP. O. Box 54578\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Kennedy for State Senate\nP. O. Box 6236\n\nMacon, GA 31208",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrum Drive\nSuite 100\nAtlanta, GA 30043",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Nelson Mullins attorneys at Law\nAtlanta Station\n201 17th Street\nAtlanta, GA 30363",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/11/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Sun Trust Bank\n1155 Peachtree St., NE\nSuite 900\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "Community & Government Affairs PAC\n\n",
+          "receivedTypeElection": "06/08/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Hewlett Packard Enterprise\n709 G Street, NW\n\nWashington, D.C., D.c. 20001",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/15/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Martin Marietta\n3325 Paddocks Parkway\nSuite 100\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/15/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CorrectHealth, LLC.\n3384 Peachtree Rd, NE\nSuite 700\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/15/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2017January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=126031&Name=Anderson,%20Lee%20&Year=2017&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2016December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=125263&Name=Anderson,%20Lee%20&Year=2016&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Select Management Resources, LLC\n3440 Preston Ridge Road\n\nAlphretta, GA 30005",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ansley Kimberly\n1023 Emerald Place\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nconsulting\nself",
+          "receivedTypeElection": "10/31/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Campaign to Re-Elect Carl Brown\nP. O. Box 124\n\nAugusta , GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Victor Hawk\n338 Telfair Street\n\nAugusta, GA 30902",
+          "PACOccupationEmployer": "\nBusiness Owner\nself employed",
+          "receivedTypeElection": "11/01/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Donna\nAnderson\n160 Louisville Road\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/22/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jack Hill Senate Campaign Account\nP. O. Box 486\n\nReidsville, GA 30453",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/02/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Manufacturers Assoc.\n50 Hurt Plaza Plaza\nSuite 985\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "11/14/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Chuck Evans\n622 Steven's Crossing\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nbusiness owner\nself",
+          "receivedTypeElection": "11/07/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Dental Association\n7000 Peachtree Dunwoody Road\nBuilding 17, Suite 200\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "11/18/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, ga 30506",
+          "PACOccupationEmployer": "N/A\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "dELTA\np. o. box 20706\n\nAtlanta, GA 30320",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/03/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "HOSPAC\n1675 terrell Mill Road\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GA Restaurant Association\n3520 Piedmont Road\nSuite 360\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Bankers Association\n50 Hurt Plaza\nSuite 1050\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Emergency Medicine PAC\n6134 Poplar Bluff Circle\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CARD of Georgia\nCommittee of Auto Retail Dealers of Georgia\nP. O. Box 725154\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Kimberly Hudgins\n227 Hickory Bluff Drive\n\nWaverly, GA 31565",
+          "PACOccupationEmployer": "\nGovernment Relations\nHNTB Engineers",
+          "receivedTypeElection": "01/05/2017\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        }
+      ]
+    },
+    {
+      "report": "2016October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=123747&Name=Anderson,%20Lee%20&Year=2016&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "10/03/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Bankers Association\n50 Hurt Plaza\nSuite 1050\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "The Coca Cola Company\nP. O. Box 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Robert B. Anderson, Jr.\n409 Louisville Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nn/a\nstudent",
+          "receivedTypeElection": "10/20/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Committee for Affordable Workforce Housing\nP. O. Box 751\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/26/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Republician Senatorial Committee, Inc.\nP. O. Box 600\n\nDahlonega, GA 30533",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "10/31/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Tyler Harper for Georgia\nP. O. Box 798\n\nOcilla, GA 31774",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Friends of John Wilkinson\nP. O. Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=122495&Name=Anderson,%20Lee%20&Year=2016&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jackson for State Senate\nP. O. Box 528\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Russell Wilder for Commission District 3\n4744 Rey Hill Court\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Gary Richardson\n995 Windmill Lane\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "William Dozier\n3738 Thunder Way, NE\n\nMarietta, GA 30066",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Star Granite Co., Inc.\n1311 Bowman Hwy\n\nElberton, GA 30635",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "R. T. Bailey Construction Co.\n2569 Trade Center Dr.\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "MAG Mutual PAC\nP. O. Bo 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/26/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Capitol Partners Public Affairs Group, Inc.\n4200 Northside Pkway NW\nBuilding 12\nAtlanta, GA 30327",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/25/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jason Shaw Campaign Committee\nP. O. Box 245\n\nLakeland, GA 31635",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "R. G. Baker, Inc.\nP. O. Box 1529\n\nJonesboro, GA 30237",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/21/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ga. Alliance of Community Hospitals\nP. O. Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/26/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Tisdale Middleton Law Firm\n207 N. Belair Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Scott Hall\n598 Medinah Drive\n\nAugusta, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/26/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Brown Timber and Logging, Inc.\nP. O. Box 2508\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/29/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Barry Tabor Paving, Inc.\nP. O. Box 485\n\nAppling, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Cornerstone Government Affairs, LLC\n300 Independence Ave, SW\n\nWashington, DC 20003",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/27/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Matthews & Maxwell, Inc.\n1118 ashton Bluff Drive\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/25/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Martin Marietta Aggregates State PAC\nP. O. Box 30013\n\nRaleigh, NC 27622",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Matt Ivey\n135 Pond View Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/25/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Robert Pollard, Jr.\n5812 tubman Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Paul McCorkle\nP. O. Box 1198\n\nThomson, GA 30824",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Mark Ivey\n823 Windmill Crossing\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusines Owner\nSelf",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "The Hudson Group\n2625 Piedmont Road\nSuite 56-30\nAtlant, GA 30324",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Deere Political Action Committee\nOne John Deere Place\n\nMoline, IL 61266",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/22/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Terry Randolph\n4864 Hardy mcManus Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/22/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "GDA PAC\nP. O. Box 1928\n\nDuluth, GA 30643",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/22/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Frails & Wilson\n211 Pleasant Home Road\nSuite 3\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/24/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Victor Hawk\n338 Telfair Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Lee Anderson\n160 Louisville Road\n\nGrovetown, GA 30811",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "07/29/2016\nCredit Received on Loan\nGeneral\n2016",
+          "inKindDescription": "monetary",
+          "inKindAmount": "$5,000.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "BEV PAC\n50 Hurt Plaza SE\nSuite 935\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Wholesale Distributors for Good Government\n3565 Piedmont Road,NE\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "IIA of GA, Inc.\n4555 Mansell Road\nSuite4 300\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "07/22/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jesse C. Stone Campaign for Senate\n827 N. Liberty Street\n\nWaynesboro, GA 30830",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/05/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Suntrust Good Government Group\nP. O. Box 4418\n\nAtlanta, GA 30302",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Southern States PBA/PAC Fund\n2156 Highway 42 South\n\nMcDonough, GA 30252",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/30/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Cowsert for Senate\nP. O. Box 512\n\nAthens, GA 30603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/09/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "David Shafer Senate Committee\nP. O. Box 880\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/19/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Law Offices of Christopher Corley, P.C.\n436 Greene Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Deere PAC\nOne John Deer Place\n\nMoline, IL 61265",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/06/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "The William Ligon Campaign Committee\n1309 Gloucester Street\n\nBrunswick, GA 31520",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Kennedy for State Senate\nP. O. Box 6236\n\nMacon, GA 31208",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Senator Jeff Mullis\n212 English Ave.\n\nchickamauga, GA 30707",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/26/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Larry Walker for State Senate\n1110 Washington Street\n\nPerry, GA 31069",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Marathon Petroleum Co., LP\n539 S. Main Street\n\nFindlay, OH 45840",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/04/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Service Corporation International PAC\nP. O. Box 130548\n\nHouston, TX 77219",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/04/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia LINK PAC for Good Government\n50 Hurt Plaza\nSuite 800\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/23/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Monsanto Company\n800 Nortrh Lindbergh\n\nSant Louis, MO 63167",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "08/20/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Mining Association\n113 Arkwright Landing\n\nMacon, GA 30302",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "20166Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=122591&Name=Anderson,%20Lee%20&Year=2016&Report=6%20Days%20Before%20Primary%20Run-Off%20Election%20-%2007/26/2016",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Deere Political Action Committee\nOne John Deere Place\n\nMoline, IL 61265",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/20/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Terry Randolph\n4864 Hardy McManus Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusinessman\nSelf employed",
+          "receivedTypeElection": "07/20/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2016June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=121191&Name=Anderson,%20Lee%20&Year=2016&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "William Dozier\n3738 Thunder Way, NE\n\nMarietta, GA 30066",
+          "PACOccupationEmployer": "\nBusines Owner\nself",
+          "receivedTypeElection": "04/02/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Gay Farms\n1672 roy Gay Road\n\nMatthews, GA 30818",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/01/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jet Food Stores\nP. O. Box 756\n\nSandersville, GA 31082",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/12/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Hydro-Green Erosion Control, LLC\n7045 U.S. Highway 280 West\n\nAuburn, AL 36830",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/22/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Tyler Johnson\n135 Depot Street\n\nWarrenton, GA 30828",
+          "PACOccupationEmployer": "\nbusiness Owner\nself",
+          "receivedTypeElection": "04/22/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Levi Pollard\n3310 Scotts Ferry Road\n\nAppliing, GA 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Durden & Sons Farm, LLC\n698 Heggies Ridge Drive\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/11/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Barnett Southern Corporation\nP. O. Box 704\n\nWashington, GA 30673",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/11/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Peter Alewine, Jr.\n5250 Magnolia Lane\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/16/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Andrew Tisdale\n3016 Timber Wood Drive\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/23/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Christopher Walker\n1020 Frankie Industrial Drive\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nBusiness Owner\nn/a",
+          "receivedTypeElection": "04/23/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "AFML, INC.\nP. O. Box 211042\n\nAugusta, Ga 30917",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Committee to Elect Ron Cross\nP. O. Box 70\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/01/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "IEC Georgia PAC\n4500 Winters Chapel Road\n\nAtlanta, GA 30360",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "04/14/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Sapp Brothers construction, LLC\nP. O. Box 1773\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/08/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Committee to Elect Robert Dickey\nP. O. Bx 10\n\nMusella, GA 31066",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/07/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Bill Hembree & Associates\n8460 Courthouse Square, East\n\nDouglasville, GA 30134",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/08/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Glenn Tisdale\n2400 William Few Parkway\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nRetired Business Owner\nSelf",
+          "receivedTypeElection": "04/23/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Christopher Murphey\n443 Louisville Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "04/25/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Thomas Cannon\n1206 Blaylock Street\n\nAlbany, GA 31705",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "04/01/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Daniel Blanton\n33530 Wheeler Road\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/21/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Donsach, Jr.\n3539 Carnoustie Drive\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/23/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Paul McCorkle\nP. O. Box 1198\n\nThomson, GA 30824",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "04/01/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John B. Long\n2242 Pickens Road\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "04/14/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "William Corder\nP. O. Box 617\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "04/13/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jerry Dowdy\nP. O. Box 1255\n\nWrens, GA 30833",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "04/04/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Towler Electric\n6696 Ridge Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/09/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "James Anderson\n1832 Appling Harlem Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nRetired Business Owner\nSelf",
+          "receivedTypeElection": "04/07/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Richard Johnson\n1165 Reynolds Farm Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nbusiness Owner\nself",
+          "receivedTypeElection": "04/23/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Vernon Collins\n4566 Carol Court\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nCoroner\nColumbia County",
+          "receivedTypeElection": "04/23/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "George Fuller\n525 Chamblin Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/21/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Power Control Systems of Georgia, Inc.\n3112 Washington Road\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/24/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Lora Beth Bartles\n4502 Hereford Farm Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "David Petsch\n332 Patton Court\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "04/13/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Les Brown\nP. O. Box 324\n\nAppling, Ga 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "05/12/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Thomas Shepherd\n366 Farmington Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nRegional Director\nAT&T",
+          "receivedTypeElection": "05/12/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Neal Dickinson\n771 Broad Street\nSuite 200\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nBusines Owner\nSelf",
+          "receivedTypeElection": "05/05/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jerry Tiller\n2621 Dozier Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nRetired\nn/a",
+          "receivedTypeElection": "04/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Cloud Construction Company\nP. O. Box 3033\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/18/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Law offices of David Huguenin, PC\n4024 Washington Road\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Associated Builders & Contractors of GA\n8975 roswell Road\n\natlanta, GA 30350",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "New River Trading Company, Inc.\n30 Pleasant Home Road\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Benchmark Seat, LLC\n3519 Wheeler Road\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/20/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Barbara Utermark\n4469-B Columbia Road\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\ndentist\nself",
+          "receivedTypeElection": "04/20/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Nick Shaw\nNo. 1 Seventh Street\nApt. 1602\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\ninvestor\nself",
+          "receivedTypeElection": "04/26/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "alton Walker\n6391 Brown Road\n\nHarlem, GA 30814",
+          "PACOccupationEmployer": "\nFarmer\nself",
+          "receivedTypeElection": "05/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "James Hull\n1190 Interstate Parkway\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "05/11/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "James Hull\n1190 Interstate Parkway\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nbusiness Owner\nself",
+          "receivedTypeElection": "05/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "RHF Forage Products, LLC\n5660 Coppage Road\n\nHahira, GA 31632",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/09/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Enon Hopkins Roofing Co., LLC\nP. O. Box 2204\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/10/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Edna Roper\n429 Bakers Ferry Tril\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "05/03/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "13th Colony Leadership Committee, Inc.\nP. O. Box 114\n\nSavannah, GA 31402",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/27/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Suwannee Forest Products, Inc.\nP. O. Box 312\n\nBlackshear, GA 31516",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/29/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "IDK Homes, Inc.\n5756 Lanatte lane\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/05/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Arlon Jahnke, Jr.\n1737 Plantation Point Road\n\nLincolnton, GA 30817",
+          "PACOccupationEmployer": "\nDoctor\nself",
+          "receivedTypeElection": "05/10/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "C.A.R.D. of Georgia\nP. O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "Car Dealers PAC\n\n",
+          "receivedTypeElection": "04/27/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.16"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "B & C Southeast\nP. O. Box 212839\n\nAugusta, GA 30917",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Bill Beazley Homes, Inc.\n7009 Evans Town Center Blvd\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "River Oak Construction, Inc.\n811 Peninsula Court\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jerry Greenway\n3518 Lakestone Court\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "05/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Reliable Equipment Rental\nP. O. Box 3047\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Anderson Jones\nP. O. Box 556\n\nWrens, GA 30833",
+          "PACOccupationEmployer": "\nexecutive\nMB Jones Oil Company",
+          "receivedTypeElection": "05/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Sheri Christine\n5089 Windmill Lake Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nProfessional Educator\nschool system",
+          "receivedTypeElection": "05/01/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Prater Land Sales\nP. O. Box 70\n\nHarlem, GA 30814",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "04/29/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Burn and Reconstructive Centers of America\n3675 J. Dewey Gray Circle South\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/02/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Deere PAC\nOne John Deere Place\n\nMoline, IL 61265",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/02/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Wayne Brown\n209 Hudson Trace\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "05/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Troy Jordan\n3637 Walton Way Extension\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "06/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Robert Hardaway\nP. O. Box 295\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nRetired\nn/a",
+          "receivedTypeElection": "05/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Kimberly Ansley\n1023 Emerald Place\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nInsurance Agent\nself",
+          "receivedTypeElection": "05/15/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Alan Harrison\nP. O. Box 204017\n\nAugusta, GA 30917",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "06/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ellis Black Campaign Account\n5892 Jumping Guly Road\n\nValdosta, GA 31601",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Stacey Britt\nP. O. Box 929\n\ngrayson, GA 30017",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "05/21/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Conditioned Air Association of Georgia\nP. O. Box 1928\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "05/25/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "W. H. Reeves & Company\nP. O. Box 204017\n\nAugusta, GA 30917",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/07/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "AT&T Georgia\n675 West Peachtree Street\n\nAtlanta, GA 30375",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/02/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Retail Spirits Council\n215 Piedmont Ave., NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "BEVPAC\n50 Hurt Plaza, SE\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/01/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "A. B. Beverage Company, Inc.\n665 Industrial Park Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/01/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Chamber Political Affairs Council\n270 Peachtree St., NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/16/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Optometric Association\n400 West Peachtree Street\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/16/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Johnson Motor Company\n1122 Walton Way\n\nAugusta, GA 30903",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/14/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "T. Mack Taylor\n7013 Evans Town Center Blvd.\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nAttorney\nSelf",
+          "receivedTypeElection": "06/21/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Edna Roper\n429 Bakers Ferry Trail\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "06/21/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrum Drive\nSuite 100\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/17/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "C&H Construction, LLC\n678 Heggies Ridge Drive\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/27/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Oliver Owens\n610 Brae Burns Drive\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nretired\nn/a",
+          "receivedTypeElection": "06/25/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "George Snelling\n610 Brae Burns Drive\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "06/28/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Builders Political Action Committee of the CSRA\n1231 Collier Road, N.W.\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "committee for Responsible Health Care Policy\n1231 Collier Road N.W.\nSuite J\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "PAC\n\n",
+          "receivedTypeElection": "06/24/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Grovetown Farm & Garden\n5234 Wrightsboro Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/29/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Gearig Brothers CivilWorks, LLC\nP. O. Box 2684\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/30/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Senator Jeff Mullis Victory Account\n212 English Avenue\n\nChickamauga, GA 30707",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/15/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Friends of Ralph Hudgens\n6509 Highway 106 South\n\nHull, GA 30646",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "06/27/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "James B. Davis, M.D.\n52 Chigoe Lane\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nphysician\nself",
+          "receivedTypeElection": "06/28/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jerry Tiller\n2621 Dozier Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nRetired\nN/a",
+          "receivedTypeElection": "06/30/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jim Hudson Luxury Cars\n3520 Washington Road\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "n/a\n\n",
+          "receivedTypeElection": "05/21/2016\nMonetary\nRun-Off Primary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=24174&FilerID=C2016000311&CDRID=119517&Name=Anderson,%20Lee%20&Year=2016&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Alan Harrison\nP. O. Box 204017\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nsef",
+          "receivedTypeElection": "03/15/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Albert Harrison\n534 Brandermill Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/14/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Wayne Brown\n618 Brae Burn Drive\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Joel Garnto\n4819 Clark Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "American Truck Parts, Inc.\n250 Robert Harper Road\n\nDouglas, GA 31533",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "W. H. Reeves & Company, Inc.\nP. O. Box 20407\n\nAugusta, Ga 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Waye Works\n209 Hudson Trace\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/10/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Garnto Southern Construction, LLC.\n4811 Clark Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/15/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Garnto Derrell\n4801 Clark Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Marianne Garnto\n4801 Clark Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Carolina-Georgia Sound, Inc.\nP. O. Box 14759\n\nAugusta, GA 30919",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Lloyd Defoor\n6430 Ridge Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nReal Estate\nself",
+          "receivedTypeElection": "03/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Gearig Brothers CivilWorks, LLC\nP. O. Box 2684\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Grovetown Farm & Garden\n5234 Wrightsboro Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Four-D, Inc.\n2670 Cedar Crossing Road\n\nUvalda, GA 30473",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/17/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ground cover Supplies, Inc.\n4717 Washington Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Medallion Construction Co., Inc.\n489 Columbia Industrial Blvd.\nSuite 1011\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Marty Smith\n1464 Newtown Road\n\nWashington, GA 30808",
+          "PACOccupationEmployer": "\nDairy Farmer\nself",
+          "receivedTypeElection": "03/19/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Linda & Clarence Holliman\n4865 Neals Mill Road, SE\n\nDearing, GA 30808",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/17/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Robert J. Jones Nursey Company\n5730 Oak Court\n\nMatthews, GA 30813",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/22/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Brittnie Harrison\n2085 Magnolia Parkway\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nnurse\nMedical Center",
+          "receivedTypeElection": "03/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Charles Crawford\n355 South Louisville Street\n\nHarlem, GA 30814",
+          "PACOccupationEmployer": "\nretired\nn/a",
+          "receivedTypeElection": "03/14/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "David Byrd\n480 Byrd Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Lewis Harrison\nP. O. Box 226\n\nRoebuck, SC 29376",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/14/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Brian Whitaker\n1952 Pughsley Road\n\nStapleton, GA 30823",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Raymond Swann\n1280 Washington Road\n\nThomson, GA 30824",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Kimberly Ansley\n1023 Emerald Place\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nInsurance Agent\nSelf",
+          "receivedTypeElection": "03/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Peter Lands\n4475 Wrightsboro Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/29/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Robert Tankersly\n1901 Appling-Harlem Rd\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nretired Business Owner\nself",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Rob Zapata\n639 South Belair Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Mark Stepthen\n823 Windmill Crossing\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Frank Knox\n6204 Knox Drive\n\nAppling, ga 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "j. e. Barrow, Jr.\nP. O. Box 1000\n\nMatthews, GA 30818",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/24/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Jeff Gay\n1576 Cedar Road\n\nMatthews, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "George Duehring\n888 Deerwood Circle\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Thomas Werner\n1586 River Island Parkway\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Walter Massingale\n5027 Bryant Cover Drive\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "John Dempsey\n2357 Louisville Rd\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nBanker\nself",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Grayson Brown\n3942 Washington Road\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nretired\nn/a",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Tutt Contracting, Inc.\n6036 Neil Brown Road\n\nHarlem, GA 30814",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/29/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "A. B. Beverage Company, Inc.\n665 Indusral Park Drive\nP. O. Box 529\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "RDM Cotracting\nP. O. Box 529\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Relliable Rental\nP. O. Box 3047\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Robert Todd\n725 Industrial Park D\n\nEvans, GA 30803",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/14/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "George Snellings\n610 Brae Burns Drive\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Chris Hickman\n678 Heggies Ridge Drive\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "David Craig\n2663 Cedar Crossing Road\n\nUvalda, GA 30473",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Pollard Lumber Company\n5863 Washington Road\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Don Grantham\n808 Quail Street\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Barbara Sims for Georgia House\nP. O. Box 3126\n\nAugusta, GA 30914",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Ashlind Contracting Corporation\nP. O. Box 758\n\nWashington, GA 30673",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "CBH Construction Co., LLC\n678 Heggies Ridge Drive\n\nAppling, GA 30802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Sprinklers Plus, Inc.\n526 Waverly Loop\n\nMurrells Inle, SC 29576",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Hardy Utility Co., Inc.\n202 Old Blythe Road\n\nHarlem, GA 30814",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Anderson Farm\n160 Louisville Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Rachel Robertson\nP. O. Box 8\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nretired Business Owner\nn/a",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Matt Ivey\n135 Pond View Road\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "T. E. Moye\n2080 Rentz Bridge Road\n\nNewton, GA 39870",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Carl Bivins\n539 Stirling Bridge Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Benjamin Cary Cranford, Jr.\n1419 Tanyard Creek Drive\n\nThomson, GA 30824",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Gerald Jones Honda\n4022 Washington Road\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Victor Hawk\n338 Telfair Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nattorney\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "W. B. Kunlke, Jr.\n824 Milledge Road\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Hadden Farms\n3222 County Line Road\n\nGibson, GA 30810",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Larry Prather, Jr.\nP. O. Box 211290\n\nAugusta, GA 30917",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "James C. Overstreet, Jr.\n7 George Wilson Court\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/15/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "H. Cooper Cliatt\n118 Shaw Street\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Angelique Stephenson\n477 Louisville Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anderson, Lee",
+          "contribName": "Angelique Stephenson\n477 Louisville Road\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    }
+  ]
+}

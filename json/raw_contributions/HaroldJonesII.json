@@ -1,0 +1,2438 @@
+{
+  "lastUpdated": "Fri Feb 05 2021 13:20:16 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Harold Jones II",
+    "fileName": "HaroldJonesII",
+    "displayName": "Harold Jones II",
+    "district": "22",
+    "city": "Augusta",
+    "party": "Democrat",
+    "searchName": ["jones", "harold"]
+  },
+  "data": [
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=158920&Name=Jones%20II,%20Harold%20Vernon&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Publix Super Markets\nP.O. Box 407\n\nLakeland , Florida 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Association of Realtors\n6065 Barfield Road\n\nAtlanta , Georgia 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$700.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "AT&T Georgia\n675 West Peachtree Street NW\n\nAtlanta , Georgia 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Southeast Permanente Medical Group Inc\nP.O.Box 2194\n\nRoswell , Georgia 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,350.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Robert Haynes\n2690 Summers St. NW Ste A\n\nKennesaw , Georgia 30144",
+          "PACOccupationEmployer": "\nSelf\nContractor",
+          "receivedTypeElection": "09/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Card of Georgia\nP.O.Box 725154\n\nAtlanta , Georgia 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "James Butler\nP.O. Box 2766\n\nColumbus , Georgia 31902",
+          "PACOccupationEmployer": "\nAttorney\nSelf",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Pope & Howard\n945 E. Paces Ferry Rd. Ste. 2525\n\nAtlanta , Georgia 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Robet Finnell\nP.o. box 63\n\nRome , Georgia 30162",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Cocharn Firm\n100 Peachtree St. NW Suite 2600\n\nAtlanta , Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Cash Krugler & Fredericks LLC\n5447 Roswell Road NE\n\nAtlanta , Georgia 30342",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Moraitakis &Kushel LLP\n5555 Glenridge Connector NE, Suite 550\n\nAtlanta , Georgia 30342",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Slappey & Sadd\n352 Sandy Springs Circle\n\nAtlanta , Georgia 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "malone Law Office\n2 Ravinia Drive Suite 300\n\nAtlanta , Georgia 30346",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Adams, Jordan, & Herrington\nP.O. Box 926\n\nMacon , Georgia 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Fried Goldberg LLC\n3550 Lenox Road N.E.\n\nAtlanta Georgia , 30326 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Conley, Griggs Partin LLP\n4200 Northside Pkwy Bldg 1-300\n\nAtlanta , Georgia 30327",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Blasingame, Burch, Garrard & Ashley PC\nPost Office Box 832\n\nAthens , Georgia 30603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Shiver Hamilton LLC\n3490 Piedmont Road, Suite 640\n\nAtlanta , Georgia 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Burnside Law Firm\nP.O. Box 15636\n\nAugusta , Georgia 30919",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Nicholson Revell LLP\n4137 Columbia Road\n\nAugusta , Georgia 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2.50"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC\n101 Marietta Street NW STE 33500\n\nAtlanta , Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=157462&Name=Jones%20II,%20Harold%20Vernon&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Southern Company Gas Georgia PAC\nP.O. Box 4569\n\nAtlanta , Georgia 30302",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "BEV PAC\n50 Hurt PLZ SE STE 935\n323 A Coverdell Office Bldg\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "General Dynamics Corporation\n1011 Sunset Hills RD\n\nReston , VA 20190",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Cornerstone Government Affairs Inc\n800 Maine Avenue SW 7th Floor\n\nWashington, D.C. 20024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Responsible Gaming Committee\nP.O. Box 501029\n\nAtlanta, Georgia 31150",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia EMC PAC\n2100 Est Exchange Place Suite 509\n\nTucker, Georgia 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Comcast Corporation\nOne Comcast Center\n1701 JFK Boulevard\nPhiladelphia , PA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place Suite 318\n323 A Coverdell Office Bldg\nAtlanta, Georgia 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GA Cable Association PAC Inc\n2300 Windy Ridge Pkwy Suite 205-S\n\nAtlanta , GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Impact Public Affairs\n233 Peachtree St. NE STE 1225\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Nash Law Office LLC\n437 Walker Street\n\nAugusta , Georgia 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Hatcher Holdings LLC\nP.O.Box 546\n\nSavannah, Georgia 31402",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=145384&Name=Jones%20II,%20Harold%20Vernon&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020April30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=144105&Name=Jones%20II,%20Harold%20Vernon&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=142224&Name=Jones%20II,%20Harold%20Vernon&Year=2020&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "AT&T\nWhitacre Tower\n\nDallas, Texas 75201",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Boyd Gaming Corporation\n6465 South Rainbow Blvd\n\nLas Vegas, Nevada 89118",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Metro Atlanta Chamber Of Commerce\n191 Peachtree ST. NE, STE 3400\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Smith Gambrell & Russell, LLP\n1230 Peachtree St. NW, STE 3100\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "Political Action Committee Trust\n\n",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Nicholson Revell, LLP\n4187 Columbus Road\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "DELTA-PAC\nPO Box 20705\n\nAtlanta, GA 30320",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Professional Sports Integrity Alliance PAC\n1800 Parkwood Circle SE, Ste 200\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Troutman Sanders LLP\n500 Peachtree Street, NE, Suite 3000\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Victor Hawk\n338 Telfair Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney AT LAW\nSelf Employed",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Nationwide Mutual Insurance CO\nOne Nationwide Plaza 1-32-06\n\nColumbus, OH 43215",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Hawk Frim\n448 Telfair Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Keith B. Johnson, LLC\n1450 Greene Street, Suite 226\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Duncan & Brow Attorneys AT LAW\n2506 Commons BLVD, STE A\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Robert W. Hunter III\n2916 Bransford RD.\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nAttorney AT LAW\nSelf Employed",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tanya Jeffords PC\n437 Walker St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Willie M. Saunders Attorney AT Law, LLC\nP.O. 2173\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    },
+    {
+      "report": "2019December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=141199&Name=Jones%20II,%20Harold%20Vernon&Year=2019&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "OOAG-PAC,INC OF THE OUTDOOR ADVERTISING ASSOCIATION OF GA INC\nP.O. Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/02/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Senior Living Association - PAC\n2023 Grayson Highway, Suite 202-A\n\nGrayson, Georgia 30017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/02/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC Inc of the GA Trial Lawyers Association\n101 Marietta St. NW STE 3350\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Power Company State Employee PAC, Inc.\n241 Ralph McGill BLVD., NE\n\nAtlanta, Georgia 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/02/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$600.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "SGM Sammie Lee Sias\n3839 Crest Drive\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nRetired Military\nSelf Employed",
+          "receivedTypeElection": "08/22/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Benjamin Z Hasan\n3529 Monte Carlo Drive\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nRichmond County Commissioner\nRichmond County Commissioner",
+          "receivedTypeElection": "08/22/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Lowell M. Greenbaum\n1343 Waters Edge Drive\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nSelf Employed\nSelf Employed",
+          "receivedTypeElection": "08/22/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Cupac\n6705 Sugarloaf Parkway, Suite 200\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GVMA PAC\n2200 Century Parkway, Suite 725\n\nAtlanta, GA 30345",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Dental Dental Insurance Company\nOne Delta Drive\n\nMechanics, PA 17055",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/12/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place, Suite 318\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/09/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Gallop & Associates\n2911 Pointewest Drive\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/22/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Walmart INC.\n702 SW 8th Street\n\nBentonville, Arkansas 72716",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/05/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Nash Law Office, LLC\n437 Walker Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Fair Fight INC.\n1270 Caroline Street NE, STE D120-311\n\nAtlanta, Georgia 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "McGuire Woods, LLP\n800 East Canal Street\n\nRichmond, VA 23219",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia restaurant Association\n260 Peachtree St., NW, Suite 1901\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "10/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Centene management Company LLC\n7700 forsyth Blvd.\n\nSt. Louis, MO 63105",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/04/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,750.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "DISH\nPO Box 6622\n\nEnglewood, CO 80155",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/04/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Troutman Sanders LLP\n500 Peachtree Street, NE, Suite 3000\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "Georgia PAC, INC.\n\n",
+          "receivedTypeElection": "12/07/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Committee for Affordable Workforce Housing\nP.O. Box 7511\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/07/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "SPRINT\nP.O. Box 63875\n\nPhoenix, AZ 85006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/07/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Bey And Associates\n191 Peachtree Street, Suite 3230\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Hagen Rosskoff, LLC\n119 McDonough Street\n\nDecatur, GA 30030",
+          "PACOccupationEmployer": "\nAttorneyAT LAW\nSelf Employed",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Victor Hawk\n338 Telfair Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney AT LAW\nSelf Employed",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Robin Lourie\n3835 West Nancy Creek Place\n\nAtlanta, Georgia 30319",
+          "PACOccupationEmployer": "\nAttorney AT LAW\nSelf Employed",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Nicholson Revell, LLP\n4187 Columbus Road\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Brandon M. Smith\n1932 N. Druid Hills Road\n\nAtlanta, Georgia 30319",
+          "PACOccupationEmployer": "\nAttorney AT LAW\nSelf Employed",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Mabra Frim, LLC\n197 Fourteenth St. NW. Suite 200\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Garon Muller\n1842 McDowell Street\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\nRetired\nSelf Employed",
+          "receivedTypeElection": "12/14/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=139568&Name=Jones%20II,%20Harold%20Vernon&Year=2019&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Optometric Association\n400 Peachree Street NW, Ste 201\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "05/28/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "CARD of Georgia\nP.O. Box 725154\n\nAtlanta, GA 31189",
+          "PACOccupationEmployer": "Committee of Automobile Retail\n\n",
+          "receivedTypeElection": "05/28/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        }
+      ]
+    },
+    {
+      "report": "2019January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=138036&Name=Jones%20II,%20Harold%20Vernon&Year=2019&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GPha PAC Inc (PhamPac)\n6065 Barfield Road NE Suite 100\n\nSandy Springs, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/14/2019\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "IUPAT\n7234 Parkway Drive\n\nHanover, MD 21076",
+          "PACOccupationEmployer": "Political Committee\n\n",
+          "receivedTypeElection": "01/14/2019\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Marathon Petroleum Co LP\n539 S Main Street\n\nFindley, OH 45840",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/14/2019\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2019December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=136740&Name=Jones%20II,%20Harold%20Vernon&Year=2019&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Power Company State Employee PAC, Inc.\n241 Ralph McGill BLVD., NE\n\nAtlanta, Georgia 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/12/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Southeast Permanente Medical Group Inc.\nP.O. Box 2194\n\nRoswell, GA 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/13/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Blue Cross Blue Shield oF Georgia\n3075 Vandercar Way\n\nCincinnati, OH 45209",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/13/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Centene management Company LLC\n7700 forsyth Blvd.\n\nSt. Louis, MO 63105",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/13/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Association of Realtors\n8065 Barfield Rd.\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "11/13/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Home Depot Inc.\n1155 F Street NW, Suite 400\n\nWashington, DC 20004",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "12/03/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Altria Client Services LLC\nPO Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/03/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GaMPAC\n50 Hurt PLZ SE STE 955\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "GA MFRS Political Action Committee\n\n",
+          "receivedTypeElection": "12/03/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "HCA Georgia PAC, Campaign Account\n101 N Monroe Street, Suite 801\n\nTallahassee, FL 32301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/17/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place, Suite 318\n\nAtlanta, GA 30380",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/17/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GVNA PAC\n2200 Century Parkway,Suite 725\n\nAtlanta, GA 30345",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/17/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        }
+      ]
+    },
+    {
+      "report": "2018October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=135551&Name=Jones%20II,%20Harold%20Vernon&Year=2018&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Alliance of Comm. Hospitals, Inc. AllPAC Fund\nP.O. Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/10/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=134025&Name=Jones%20II,%20Harold%20Vernon&Year=2018&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "THE GEORGIA MEDICAL POLITICAL ACTION COMMITTEE\n1849 THE EXCHANGE\n\nATLANTA, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "IUPAT\n7234 Parkway Drive\n\nHanover, MD 21076",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "CIVIL JUSTICE PAC INC OF THE TRIAL LAWYERS ASSOCIATION\n101 Marietta St. NW STE 3350\n\nATLANTA, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=132241&Name=Jones%20II,%20Harold%20Vernon&Year=2018&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2018March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=130784&Name=Jones%20II,%20Harold%20Vernon&Year=2018&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2018January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=128993&Name=Jones%20II,%20Harold%20Vernon&Year=2018&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Klosinski Overstreet, LLP\n1229 Augusta West PKWY\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/31/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "David Bell\n619 Greene Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney ATLaw\nSelf Employed",
+          "receivedTypeElection": "08/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Floyd & Leopard LLC\n461 Greene Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Nash Office, LLC\n437 Walker St,\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/22/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "James Kendrick\n1 Seventh St., Riverplace 601\n\nAugusta, Georgia 30901",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "09/06/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Liuna Local 515 LPL\n1004 Edgewood Ave. NE\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/11/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "John Batson\nPO Box 3248\n\nAugusta, GA 30914",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "09/25/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Comcast Corporation\n1701 JFK Boulevard\n\nPhiladephia, PA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/17/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Academy oF Family Physicians, Legislative PAC Fund\n3760 Lavista Rd., Suite 100\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/17/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Alliance of Comm. Hospitals, Inc. AllPAC Fund\nP.O. Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Pfizer Inc.\n6730 Lenox Center CT\n\nMemphis, TN 38115",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Altria Client Services LLC\nPO Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "A. r. Long Company, LLC\n3900 Crown Rd, #161303\n\nAtlanta, GA 30304",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC Inc. of the GA Trial Lawyers Association\n101 Marietta St. NW STE 3350\n\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/18/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Marathron Petroleum Co. LP\n539 S. Main Street\n\nFindlay, OH 45840",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place, Suite 318\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC Inc of the GA Trial Lawyers Association\n101 Marietta St. NW STE 3350\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2017June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=127211&Name=Jones%20II,%20Harold%20Vernon&Year=2017&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Matthew Duncan\n266 Greene St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Imployed",
+          "receivedTypeElection": "06/26/2017\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2017January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=125978&Name=Jones%20II,%20Harold%20Vernon&Year=2017&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Committee To Elect Kelli McIntyre Solicitor General\n2210 Edgewood Dr.\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2017\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2016December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=124315&Name=Jones%20II,%20Harold%20Vernon&Year=2016&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Marathon Petroleum Co LP\n539 S Main Street\n\nFindley, OH 45840",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Dental Association Political Action Committee\n7000 Peachtree Dunwoody Rd., BLDG 17, STE 200\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "12/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GAMPAC GA MFRS Political Action Committee\n50 Hurt PLZ SE STE 955\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "Political Action Committee\n\n",
+          "receivedTypeElection": "12/10/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2016October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=123277&Name=Jones%20II,%20Harold%20Vernon&Year=2016&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Eli Lilly And Company\n307 E. McCarty St.\n\nindianapolis, IN 46225",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Boyd Gaming Corporation\n6465 South Rainbow Blvd\n\nLas Vagas, Nevada 89118",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Retailers Action Committee\n235 Williams St., Suite 6778\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "ConnectSouth\n3290 Northside Parkway, Suite 675\n\nAtlanta, GEORGIA 30327",
+          "PACOccupationEmployer": "General\n\n",
+          "receivedTypeElection": "10/11/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2016September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=122260&Name=Jones%20II,%20Harold%20Vernon&Year=2016&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Portland Campanaro\n601 N. Belair Office Square, Suite 16\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/08/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Committee to Elect Kellie McIntyre Solicitor Gereral\n2210 Edgewood Drive\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/08/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC Inc of the GA Trial Lawyers Association\n101 Marietta St. NW STE 3350\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "Trial Lawyers\n\n",
+          "receivedTypeElection": "08/24/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Home Depot Inc, Political Action Committee\n1155 F Street NW, Suite 400\n\nWashington, DC 20004",
+          "PACOccupationEmployer": "Policitical Action Committee\n\n",
+          "receivedTypeElection": "09/21/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=120735&Name=Jones%20II,%20Harold%20Vernon&Year=2016&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Alliance of Comm. Hospitals, Inc. AllPAC Fund\nP.O. Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/23/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Henson for Senate Account\n2643 Sterling Acres Dr.\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/21/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=119483&Name=Jones%20II,%20Harold%20Vernon&Year=2016&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2016January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=118642&Name=Jones%20II,%20Harold%20Vernon&Year=2016&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Committee for Responsible Health Care Policy\n1231 Collier Road NW, Suite J\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/03/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Liuna Local 515 LPL\n1004 Edgewood Ave., NE\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/29/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Resolute FP US INC.\n5300 Cureton Ferry Rd.\n\nCatawba, SC 29704",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/21/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Charles Lyons\n336 Telfair St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "09/28/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Martin C. Puetz, LLC\n415 4th St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Robert Hunter III\n266 Greene St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Omeeka P. Loggins, PC\n437 Walker St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Duncan Law Firm, PC\n2350 Washington Rd.\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "James Overstreet, Jr.\n#7 George C. Wilson Ct.\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Frails & Wilson\n211 Pleasant Home Rd., Suite A-1\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Portland Campanaro\n601 N. Belair Office Square, Suite 16\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Offices of William J. Sussman, P.C.\n347 Greene St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Alliance of Comm. Hospitals, INC., AllPAC Fund\nP.O. Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "David Spinks\n5092 Bryant Cove Dr.\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "10/07/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tanya Jeffords PC\n437 Walker St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "12/19/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Emergency Medicine PAC\n6134 Poplar Bluff Cr., Suite 101\n\nNorcross , GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/31/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC Inc of the GA Trial Lawyers Association\n101 Marietta St. NW STE 3350\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GA MFRS Political Action Committee (GAMPAC)\n50 Hurt PLZ SE STE 985\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "CARD OF GEORGIA COMMITTEE OF AUTOMOBILE RETAIL DEALERS OF GEORGIA\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "OOAG-PAC,INC OF THE OUTDOOR ADVERTISING ASSOCIATION OF GA INC\nP.O. Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Alliance of Automobile Manufacturers\n803 7th St., NW Suite 300\n\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/12/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Eli Lilly and Company\n1788 Lovers Ln\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2015June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=116300&Name=Jones%20II,%20Harold%20Vernon&Year=2015&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Alliance of Automobile Manufacturers\n803 7th Street NW Suite 300\n\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/14/2015\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Harold Jones\n3014 Breeze Hill DR.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "03/15/2015\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        }
+      ]
+    },
+    {
+      "report": "2014December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=114083&Name=Jones%20II,%20Harold%20Vernon&Year=2014&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Rodger Giles\nP.O. Box 3596\n\nAugusta, Georgia 30914",
+          "PACOccupationEmployer": "\nUnknown\nUnknown",
+          "receivedTypeElection": "12/19/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Henson For State Account\n2643 sterling Acres Dr.\n\nTucker, georgia 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/13/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Senator Vincest Fort\n121 State Capital\n\nAtlanta, georgia 30303",
+          "PACOccupationEmployer": "\nState Senator\nState of Georgia",
+          "receivedTypeElection": "11/15/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "GAMPAC\n50 Hurt PLZ SE STE 985\n\nAtlanta, georgia 30303",
+          "PACOccupationEmployer": "GA MFRS POLITICAL ACTION COMMITTEE\n\n",
+          "receivedTypeElection": "11/19/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "delinquent Tax Service\n545 Indian Creek Trail\n\nRutledge, georgia 30663",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/19/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia bankers Association\n50 Hurt Plaza Suite 1050\n\nAtlanta, georgia 30303",
+          "PACOccupationEmployer": "Political Action Committee State\n\n",
+          "receivedTypeElection": "12/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=113114&Name=Jones%20II,%20Harold%20Vernon&Year=2014&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Power Company State Employee PAC, Inc.\n241 Ralph McGill BLVD., NE\n\nAtlanta, Georgia 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2014September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=112053&Name=Jones%20II,%20Harold%20Vernon&Year=2014&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Trotter Jones, LLP\n3527 Walton Way\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/21/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Chandra Jones\n9 Gerbard Rd., Unit B\n\nPlainsville, New York 11803",
+          "PACOccupationEmployer": "\nMedical Doctor\nSelf Employed",
+          "receivedTypeElection": "07/29/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "James Kendrick\n1 Seventh St., Unit #1503\n\nAugusta, Georgia 30901",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "07/29/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Civil Justice PAC Inc. of the GA Trial Lawyers Association\n101 Marietta St. NW STE 3350\n\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Cher Best\nUnknown\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\nRadio personality\nClear Channel Radio",
+          "receivedTypeElection": "07/22/2014\nIn-Kind\nGeneral\n2014",
+          "inKindDescription": "Food for Election Night party",
+          "inKindAmount": "$400.00",
+          "cashAmount": "$0.00"
+        }
+      ]
+    },
+    {
+      "report": "20146Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=111560&Name=Jones%20II,%20Harold%20Vernon&Year=2014&Report=6%20Days%20Before%20Primary%20Run-Off%20Election%20-%2007/22/2014",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Booker Washington\n4286 Old Waynesboro Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "07/09/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Floyd, Leopard, & Blake LLP\n461 Greene St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/16/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Vote Choice\n75 Piedmont Ave., Suite 800\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "A Political Action Committee of PPAFG\n\n",
+          "receivedTypeElection": "07/16/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Victor Hawk, P.C.\n338 Telfair St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "07/16/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        }
+      ]
+    },
+    {
+      "report": "2014June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=110425&Name=Jones%20II,%20Harold%20Vernon&Year=2014&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Monica Boyd\n3040 Richards Ct., Unit D\n\nFt. Meade, MD 20755",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "04/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Victor Hawk, PC\n338 Telfair St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "04/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Harold Jones\n3014 Breeze Hill Dr.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "04/11/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$450.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Committee To Elect Lester G. Jackson\n1501 Abercorn St.\n\nSavannah, GA 31401",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office Of Martin C. Puetz, LLc\n415 4th St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/22/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Redzone Robotics, Inc.\n91 43rd St., Suite 250\n\nPittsburgh, PA 15201",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/22/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "James Plunkett, PC\n429 Walker St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "04/23/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Edna Roper\n429 Baker's Ferry TR.\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nRetired RN\nNA",
+          "receivedTypeElection": "04/23/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Peach Orchard Firestone, Inc.\n2536 Peach Orchard Rd.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/26/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Medical Villa Pharmacy\n1520 Laney Walker Blvd., Suite C\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "William Sussman, PC\n347 Greene St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Liuna Local 515 PL\n1004 Edgewood Ave., NE\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tax Wize Financial\n2664 Tobacco Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tristram Belser\n2953 Hummingbird LN.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nUknown\nNA",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Floyd, Leopard, & Blake, LLP\n460 Greene St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Charles Martin\n101 Kings Way\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "05/07/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Harold Jones\n3014 Breeze Hill Dr.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "05/13/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Georgia Emergency Medicine PAC\n6134 Poplar Bluff Circle, Suite 101\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/19/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "National Formal Wear\n3461 Wrightsboro Rd.\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/19/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Chandra Jones, MD\n22 Holland Ave., Town Place Suites # 216\n\nAlbany, NY 12209",
+          "PACOccupationEmployer": "\nMedical Doctor\nSelf Employed",
+          "receivedTypeElection": "05/19/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tracy Williams, Jr.\n3110 Fir Ct.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "05/19/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Calvin Holland, Sr.\n1031 Carriage Ridge Dr.\n\nGreensboro, Ga 30642",
+          "PACOccupationEmployer": "\nRetired Educator\nNA",
+          "receivedTypeElection": "05/19/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Edgar Perry\n20 Tall Pine Cir.\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "05/27/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Ronald Brown, Sr., MD\n612 Baytree Ct.\n\nAugusta, Ga 30907",
+          "PACOccupationEmployer": "\nMedical Doctor\nSelf Employed",
+          "receivedTypeElection": "05/27/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "R. Adair Blackwood, MD\n1439 Anthony Rd.\n\nAugusta, GA 30904",
+          "PACOccupationEmployer": "\nMedical Doctor\nSelf Employed",
+          "receivedTypeElection": "05/27/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "James Hull\n1190 Interstate Parkway\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nEntrepreneur\nSelf Employed",
+          "receivedTypeElection": "05/28/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Lashawn Tankley\n503 Tyler Woods Ct.\n\nGrovetown, GA 30813",
+          "PACOccupationEmployer": "\nSpeech Pathologist\nUnknown",
+          "receivedTypeElection": "05/27/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$160.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Lisa Clarke\n601 N. Belair Sq., STE 18\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "05/30/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Portland Campanaro\n601 N. Belair Office Square, Suite 16\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/30/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Clarence Williams, Jr.\n1123 Sam Baston Dr.\n\nEvans, GA 30809",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "06/03/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Oneal Group, Inc., DBA The Bob Oneal Insurance Agency\n3238 Peach Orchard Rd.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/07/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Edna Roper\n429 Baker's Ferry TR\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nRetired RN\nNA",
+          "receivedTypeElection": "06/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "DBA D Sepherd Construction, Dittilio R. Sheperd Sole Prop\n1739 Harrogate Dr.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/14/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "E. G. Meybohn\n3519 Wheeler Rd.\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nEnteperneur\nSelf Employed",
+          "receivedTypeElection": "06/17/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Chandra Jones, MD\n9 Gerhand Rd., Unit B\n\nPlainview, NY 11803",
+          "PACOccupationEmployer": "\nMedical Doctor\nSelf Employed",
+          "receivedTypeElection": "06/17/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Lamont Belk\n10 Mulberry Ln.\n\nAugusta, GA 30909",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "06/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Cecilia Toole\n16 Ninth Street At Riverwalk\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "06/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Miriam Bartlett\n3209 Blockers Branch Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "06/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "John Batson\nPO Box 3248\n\nAugusta, GA 30914",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "06/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tanya Jeffords, PC\n437 Walker St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "06/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Michael Curry\n1086 Hampstead PL\n\nMartinez, GA 30907",
+          "PACOccupationEmployer": "\nEntrepreneur\nSelf Employed",
+          "receivedTypeElection": "06/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "D M Nance\n4318 Big Dipper Cir.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "06/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Young Wimberly\n2777 Willis Foreman Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nHouse Wife\nNA",
+          "receivedTypeElection": "02/20/2014\nIn-Kind\nPrimary\n2014",
+          "inKindDescription": "Food for Watch Party",
+          "inKindAmount": "$249.60",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Young Wimberly\n2777 Willis Foreman Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nHouse Wife\nNA",
+          "receivedTypeElection": "03/02/2014\nIn-Kind\nPrimary\n2014",
+          "inKindDescription": "92, 6' x 5\" Tposts",
+          "inKindAmount": "$426.25",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Young Wimberly\n2777 Willis Forman Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nHouse Wife\nNA",
+          "receivedTypeElection": "04/17/2014\nIn-Kind\nPrimary\n2014",
+          "inKindDescription": "150, 6' x 5\" Tposts",
+          "inKindAmount": "$694.98",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Johnny Wilson\n3613 San Sebastian Dr.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nRetired Military\nNA",
+          "receivedTypeElection": "06/30/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$170.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Liuna Local 515 LPL\n1004 Edgewood Ave. NE\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$600.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Martin C. Puetz, LLC\n415 4th St.\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Quinton Washington, PC\n196 Peachtree St., S.W. STE 110\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "06/20/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "The Georgia Medical Political Action Committee\n1849 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Ethel Jones\n3031 Hummingbird Ln.\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nRetired Educator\nNA",
+          "receivedTypeElection": "06/30/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Young Wimberly\n2777 Willis Foreman Rd.\n\nHephzibah, GA 30815",
+          "PACOccupationEmployer": "\nHouse Wife\nNA",
+          "receivedTypeElection": "06/30/2014\nIn-Kind\nPrimary\n2014",
+          "inKindDescription": "Food for Fundraiser",
+          "inKindAmount": "$167.03",
+          "cashAmount": "$0.00"
+        }
+      ]
+    },
+    {
+      "report": "2014March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=6181&FilerID=C2014000136&CDRID=109748&Name=Jones%20II,%20Harold%20Vernon&Year=2014&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Delinquent Tax Services\n543 Indian Creek Trail\n\nRutledge, Georgia 30663",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Ethel Jones\n3031 Hummingbird Ln.\n\nAugusta, Georgia 30906",
+          "PACOccupationEmployer": "\nRetired Educator\nNA",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Larry Pittman & Associates, Inc.\n1249 Gordon Park Rd.\n\naugust, gEORGIA 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Richard Ingram\n631 Ronald Reagan Dr., Ste 102\n\nEvans, Georgia 30809",
+          "PACOccupationEmployer": "\nAttorney AT Law\nSelf Employed",
+          "receivedTypeElection": "03/24/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Committee To Elect Richard Roundtree\n2001 Roosevelt Dr.\n\nAugusta, Georgia 30904",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/03/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Frails & Wilson Attorneys At Law\n211 Pleasant Home Rd.., Suite A-1\n\nAugusta, Georgia 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/03/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Kia of Augusta\n1770 Gordon Hwy.\n\nAugusta, Georgia 30904",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/18/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Law Office of Portland Campanaro\n601 N. Belair Office Square, Suite 16\n\nEvans, Georgia 30809",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Larry Pitman & Associates, Inc.\n1249 Gordon Park Rd.\n\nAugusta, Georgia 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Todd Gaines\n32 Park Place Circle\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Lamont Belk\n10 Mulberry Ln.\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Angela Frederick\n685 Kingston Rd.\n\nGrovetown, Georgia 30813",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Charles Lyons III\n336 Telfair St.\n\nAugusta, Georgia 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Karen Cruz\n2118 Tobacco Rd.\n\nAugusta, Georgia 30906",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "George Sneed\nPO Box 5250\n\nAugusta, Georgia 30919",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Benjamin Allen\nPO Box 156\n\nAugusta, Georgia 30903",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Adrian Wright Automotive Inc., DBA Wright one Paint And Body\n1850 Gordon Hwy., STE A\n\nAugusta, Georgia 30904",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Grady Blanchard, PC\n601 North Belair Square Suite 14\n\nEvans, Georgia 30809",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "02/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tanya Jeffords, PC\n437 Walker St.\n\nAugusta, Georgia 30901",
+          "PACOccupationEmployer": "\nAttorney At Law\nSelf Employed",
+          "receivedTypeElection": "02/20/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "AD Valorem Collections LLC\n429 Walker St., Upper Level\n\nAugusta, Georgia 30901",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/20/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "E. Marlow McIntyre\n2210 Edgewood Dr.\n\nAugusta, Georgia 30904",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "02/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Monicka Boyd\n3040 Richards Ct., Unit D\n\nFt. Meade, Maryland 20755",
+          "PACOccupationEmployer": "\nUnKnown\nNA",
+          "receivedTypeElection": "02/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Tony Belser\n4020 Madison Ln.\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\nUnknown\nNA",
+          "receivedTypeElection": "03/26/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "DR. Charles Lamback, Sr.\n1518 Avalon Ave.\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\nRetired Educator\nNA",
+          "receivedTypeElection": "03/26/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Robert Elam\n3966 Scott St.\n\nAugusta, Georgia 30909",
+          "PACOccupationEmployer": "\nPastor\nNA",
+          "receivedTypeElection": "03/17/2014\nIn-Kind\nPrimary\n2014",
+          "inKindDescription": "Fish Fry fund raiser",
+          "inKindAmount": "$900.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Jones II, Harold Vernon",
+          "contribName": "Sadie Wright\n1527 Audubon Dr.\n\nSavannah, Georgia 31401",
+          "PACOccupationEmployer": "\nRetired\nNA",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    }
+  ]
+}

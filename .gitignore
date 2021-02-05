@@ -1,8 +1,7 @@
 # dependencies
 node_modules
 
-# senator JSON files / data generated from app
-app-output
+# senator pics
 pics
 
 # firebase service account credentials

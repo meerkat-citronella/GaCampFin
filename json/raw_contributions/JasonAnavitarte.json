@@ -1,0 +1,2408 @@
+{
+  "lastUpdated": "Thu Feb 04 2021 20:50:12 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Jason Anavitarte",
+    "fileName": "JasonAnavitarte",
+    "displayName": "Jason Anavitarte",
+    "district": "31",
+    "city": "",
+    "party": "Republican",
+    "searchName": ["anavitarte", "jason"]
+  },
+  "data": [
+    {
+      "report": "2020December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32007&FilerID=C2020000084&CDRID=159965&Name=Anavitarte,%20Jason%20Raul&Year=2020&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "CSX Corporation\n500 Water Street\n\nJacksonville, FL 32202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia EMC PAC\n2100 East Exchange Place\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "John Martin\n250 Park Avenue West\n\nAtlanta, GA 30313",
+          "PACOccupationEmployer": "\nConsultant\nGeorgia Link",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "C A R D of GA\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32007&FilerID=C2020000084&CDRID=158502&Name=Anavitarte,%20Jason%20Raul&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bari Shahnaz\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Chris Cable\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Eduardo Escorcia\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Ramon Espinal\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "David Gale\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Beata Grochowska\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Pallavi Gupta\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Allen Hord\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Thomas Hurd\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Zwade Marshall\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Rhee Miller\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Preetesh Patel\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Pickens Patterson\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "David Rosenfield\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Michael Schaufele\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Shalin Shah\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Marvin Tark\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jordan tate\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jaimini Dave\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "David Neckman\n3390 Peachtree Road\nSuite 1500\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nPhysician\nThe Intervention Spine and Pain Management Center PC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Hospital Association PAC\n1675 Terrell Mill Road\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Professional Sports Integrity Alliance PAC\n1600 Parkwood Circle\nSuite 200\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Sharon Sewell\nPO Box 446\n\nBremen, GA 30110",
+          "PACOccupationEmployer": "\nMayor\nCity of Bremen",
+          "receivedTypeElection": "10/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Lee Lemke\n113 Arkwright Landing\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\nEVP\nGeorgia Mining Association",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Haliburton Law Firm PC\n310 Newnan Street\nSuite A\nCarrolton, GA 30117",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "The Southeast Permanente Medical Group State Healthcare PAC\nPO Box 2194\n\nRoswell, GA 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Don DeFoor\n3144 Golf Ridge Blvd\nSuite 201\nDouglasville , GA 30135",
+          "PACOccupationEmployer": "\nAttorney\nSelf-Employed",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "OAAG PAC, inc.\nPO Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tim Martin\n155 N Highway 113\n\nCarrollton, GA 30117",
+          "PACOccupationEmployer": "\nCEO\nCarroll EMC",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Max Goldin\n100 Little Vine Church Road\n\nBremen, GA 30110",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Norfolk Southern Corporation\n3 Commercial Place\n\nNorfolk, GA 23510",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Transportation Alliance\n270 Peachtree Street\nSuite 220\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Community Loans of America\nPO Box 5000785\n\nAtlanta, GA 31150",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "TitleMax\n2312 E Trinity Mills Road\n\nCarrollton, TX 75006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree Street NW\nSuite 201\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Ronald Ridley\nPO Box 68\n\nTallapoosa, GA 30176",
+          "PACOccupationEmployer": "\nChairman\nHaralson County",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Cascon Group\n230 Peachtree Street NW\n\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "UPSPAC\n55 Glenlake Parkway NE\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32007&FilerID=C2020000084&CDRID=157068&Name=Anavitarte,%20Jason%20Raul&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tim Martin\n155 N Hwy 113\n\nCarrollton, GA 30117",
+          "PACOccupationEmployer": "\nCEO\nCarroll EMC",
+          "receivedTypeElection": "08/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Boyd Petitit\nPO Box 1178\n\nCartersville, GA 30120",
+          "PACOccupationEmployer": "\nConsultant\nGeorgia Link",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Larry Walker for State Senate\n1110 Washington Street\n\nPerry, GA 31069",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Donald Benson\n54 Spring Leaf Trail\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Frank Phillips\nPO 801142\n\nAcworth, GA 30101",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jeffrey Richards\n19 Meadowlark Court\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nResidential/ Commercial Builder\nEssential Construction Management LLC",
+          "receivedTypeElection": "09/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Timothy Murphy\n60 Calming Water Trail\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nRetired\nretired",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Lisa kelly\n6220 Bannerhorn Run\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\nCEO\nGeorgia GOAL Scholarship Program, Inc.",
+          "receivedTypeElection": "09/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Broce\n2058 Butler Way NW\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\nGovernment Affairs\nSelf-Employed",
+          "receivedTypeElection": "08/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Credit Union PAC\n6705 Sugarloaf Pkwy\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Burt Jones DBA Friends of Burt Jones\nPO Box 767\n\nJackson, GA 30233",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Associated General Contractors of Georgia, Inc. PAC\n1940 The Exchange\nSuite 100\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tricia Pridemore\n769 Barrett Village Lane\n\nKennesaw, GA 30064",
+          "PACOccupationEmployer": "\nCommissioner\nPSC",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Associated Builders and Contractors of GA PAC\n8975 Roswell Road\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Wholesalers for better Government, inc\n15 Perry Street\n\nNewnan, GA 30263",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Independent Insurance Agents of Georgia, Inc.\n4555 Mansell Road\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Society of Anesthesiologists PAC\n1231 Collier Road NW\nSuite J\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Bankers Association\n50 Hurt Plaza\nSuite 1050\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Friends of John Wilkinson\nPO Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Watkins Erosion Control, Inc.\nPO Box 1803\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "William Harrelson\n430 Lake Tanisha Dr.\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nSales\nPeach State Truck Centers",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Andres Weaver\n17 Camden Road\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\nself employed\nself-employed",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jerry Shearin\n3021 Braswell Mountain Road\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nInsurance\nSelf-Employed",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "George McGarity\n145 Amberhill Court\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Sever Consulting and Management GRP\n2487 Cedracrest Road\nSuite 111\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Carruth Holdings Inc\nPO Box 106\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "CARD of Georgia/Committee of Automobile Retail dealers of Georgia\nPO Box 725154\n\natlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Lani Skipper\n100 West Griffin Street\n\nGriffin, GA 30132",
+          "PACOccupationEmployer": "\nAttorney\nSkipper Law LLC",
+          "receivedTypeElection": "09/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Health Care Association Political Action Committee\n160 Country Club Drive\n\nStockbridge, GEORGIA 30281",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tyler Harper for Georgia\nPO Box 798\n\nOcilla, GA 31774",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "MAG Mutual PAC\nPO Box 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Talley, Richardson, and Cable, P.A. Attorneys at Law\nPO Box 197\n\ndallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "B and L Disposal, Inc.\nPO Box 1790\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Capital City Public Affairs, LLC\n1393 Noel Drive\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/08/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Mike Dugan for State Senate\n106 Champion Drive\n\nCarrollton, GA 30116",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Public Affairs\n10 Woodland Drive\n\nCartersville, GA 30120",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Road\n\nAtlanta, GEORGIA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Mark Stevenson\n635 Goldpoint Trace\n\nWoodstock, GA 30189",
+          "PACOccupationEmployer": "\nOwner\nLittle River Capital, LLC",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Committee to Elect Butch Miller\nPO Box 7475\n\nChestnut Mountain, GA 30502",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        }
+      ]
+    },
+    {
+      "report": "20206Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32007&FilerID=C2020000084&CDRID=156194&Name=Anavitarte,%20Jason%20Raul&Year=2020&Report=6%20Days%20Before%20Primary%20Run-Off%20Election%20-%2008/11/2020",
+      "data": [
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Victory Public Affairs\n1690 North Druid Hills Road\n\nAtlanta, GA 30310",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/09/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Josh Mackey\n1393 Noel Drive\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nConsultant\nCapital City Public Affairs",
+          "receivedTypeElection": "07/09/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Chamber Political Affairs Council Inc PAC\n270 Peachtree Street\nSuite 2200\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/16/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "United Health Services of GA PAC\n1626 Jeurgens Court\n\nNorcross, GA 30093",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Road\n\nAtlanta, GEORGIA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/31/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Community Development and Health PAC of Georgia\nPO Box 501029\n\nAtlanta, GA 31150",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/03/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Pete Quinones\n1120 allgood industrial court\n\nGA, Marietta 30060",
+          "PACOccupationEmployer": "\nbusiness Owner\nMetro Ambulance",
+          "receivedTypeElection": "07/03/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "NFIB GA PAC\n1201 F Street NW\n\nWashington DC, Washington DC 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/07/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "AtandT Georgia PAC\n675 West Peachtree Road\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/14/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Yancey Bros. Co\n330 Lee Industrial BLVD.\n\nAustell, GA 30168",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Shearinco Enterprises Inc.\n3021 Braswell Mountain Road\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/31/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jim frogue\n1222 North Meade Street\n\nArlington, VA 22209",
+          "PACOccupationEmployer": "\nConsultant\nSelf-Employed",
+          "receivedTypeElection": "07/21/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Brandon Clark\n112 N Union Street\n\nAlexandria, VA 22314",
+          "PACOccupationEmployer": "\nsmall business Owner\nSelf-Employed",
+          "receivedTypeElection": "07/21/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kash Trivedi\n3580 S Sherwood Road\n\nSmyrna, GA 30082",
+          "PACOccupationEmployer": "\nGovernment Affairs\nTerminus South",
+          "receivedTypeElection": "07/22/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Steve Gordon\n122 C Street NW #540\n\nWashington DC, Washington DC 20001",
+          "PACOccupationEmployer": "\nManaging Partner\nTotal Spectrum",
+          "receivedTypeElection": "07/26/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Clay Huckaby\n1161 Southwind Drive\n\nBishop, GA 30621",
+          "PACOccupationEmployer": "\nConsultant\nCapital City Public Affairs",
+          "receivedTypeElection": "08/04/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Friends of Bill Heath\n2225 Cashtown Road\n\nBremen, GA 30110",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/16/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$999.99"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bobby Jones\n1082 Cherrybark trc Northwest\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nhealthcare Executive\nCareSource",
+          "receivedTypeElection": "07/03/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bobby Jones\n1082 Cherrybark trc Northwest\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nhealthcare Executive\nCareSource",
+          "receivedTypeElection": "07/05/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$700.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Independent Insurance Agents of Georgia, Inc.\n4555 Mansell Road\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/15/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "The Georgia PAC\nPO Box 501029\n\natlanta, GA 31150",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Max Goldin\n100 Little Vine Church Road\n\nBremen, GA 30110",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/20/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Caterpillar Employees PAC\n100 NE Adams Street\n\nPeoria, IL 61629",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Wright Gammon\nPO Box 292\n\nCedartown, GA 30125",
+          "PACOccupationEmployer": "\nAttorney\nSelf-Employed",
+          "receivedTypeElection": "07/27/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Brian Hudson\n2270 Osprey Pt.\n\nGreensboro, GA 30642",
+          "PACOccupationEmployer": "\nManaging Principal\nThe Hudson Group, LLC",
+          "receivedTypeElection": "07/22/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Keven Lake\n600 Treyburn Manor Drive\n\nMilton, GA 30004",
+          "PACOccupationEmployer": "\nOwner\nIntertwine Consulting LLC",
+          "receivedTypeElection": "07/23/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jaillene Hunter\n851 Kennesaw Avenue Northwest\n\nMarietta, GEORGIA 30064",
+          "PACOccupationEmployer": "\nHomemaker\nHomemaker",
+          "receivedTypeElection": "07/28/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Construction Aggregate Association\n9810A Medlock Bridge Road\nSuite 202\nJohns Creek, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/15/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "BCBS Healthcare Plan\n3075 Vandercar Way\n\nCincinnati, OH 45209",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/17/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Cathy Helms\n191 Ogle Road\n\nrockmart, GA 30153",
+          "PACOccupationEmployer": "\nAccounting\nSelf-Employed",
+          "receivedTypeElection": "07/23/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Virginia Galloway\n591 Hale Mountain Court\n\nHiram, GA 30141",
+          "PACOccupationEmployer": "\nRegional Director\nFaith and Freedom Coalition",
+          "receivedTypeElection": "07/09/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Karen Emory\nPO Box 774\n\nLithia Springs, GA 30122",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/02/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tim Martin\n155 N Hwy 113\n\nCarrollton, GA 30117",
+          "PACOccupationEmployer": "\nCEO\nCarroll EMC",
+          "receivedTypeElection": "08/04/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "James Vines\n3495 Collard Valley Road\n\nCedartown, GA 30125",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "08/04/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$144.80"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Anavitarte\n316 BLACKBERRY RUN DR\n\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\nHealthcare Executive\nCareSource",
+          "receivedTypeElection": "07/06/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "T-shirts",
+          "inKindAmount": "$100.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "John Dean\n1903 Paul Harris Road\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/05/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Printing",
+          "inKindAmount": "$800.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Anavitarte\n316 BLACKBERRY RUN DR\n\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\nHealthcare Executive\nCareSource",
+          "receivedTypeElection": "07/17/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Worthy Advertising",
+          "inKindAmount": "$225.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GeorgiaCan Action Fund PAC\nPO Box 20022\n\nAtlanta , GA 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/04/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "campaign data",
+          "inKindAmount": "$1,350.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kyle Pinkard\n117 Biltmore Lane\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nFacility tech\nAT&T",
+          "receivedTypeElection": "07/23/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Food and event items",
+          "inKindAmount": "$200.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kyle Pinkard\n117 Biltmore Lane\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nFacility tech\nAT&T",
+          "receivedTypeElection": "07/25/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Facility rental",
+          "inKindAmount": "$50.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Muse Farm\n466 Bush Mill Rd\n\nBremen, GA 30110",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/16/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Facility rental",
+          "inKindAmount": "$225.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Muse Farm\n466 Bush Mill Rd\n\nBremen, GA 30110",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/16/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Facility rental",
+          "inKindAmount": "$225.00",
+          "cashAmount": "$0.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32007&FilerID=C2020000084&CDRID=145501&Name=Anavitarte,%20Jason%20Raul&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Road\n\nAtlanta, GEORGIA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Centene Management Company, LLC\n7711 Carondelet Avenue\n\nSt Louis, MO 63105",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Lawsuits Reform PAC, Inc.\n270 Peachtree Street NW Suite 220\n\nSuite 220, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "American Federation for Children Action Fund- Georgia PAC\n228 S Washington Street\n#115\nAlexandria, VA 22314",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/19/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Yancey Bros. Co\n330 Lee Industrial BLVD.\n\nAustell, GA 30168",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "MAG Mutual PAC\nPO Box 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/23/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Lynne Middleton\n4 Conifer Circle Northeast\n\nAtlanta, GA 30342",
+          "PACOccupationEmployer": "\nConsultant\nMiddleton Public Affairs",
+          "receivedTypeElection": "06/29/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Friends of Marty Harbin\n130 Ellison Road\n\nTyrone, GEORGIA 30290",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Health Care Association Political Action Committee\n160 Country Club Drive\n\nStockbridge, GEORGIA 30281",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Cascon Group\n230 Peachtree Street NW\n\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Greg Shumate\n1255 Lakes Parkway\n\nLawrenceville, GEORGIA 30043",
+          "PACOccupationEmployer": "\nCEO\nCapital City Home Loans",
+          "receivedTypeElection": "05/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jaillene Hunter\n851 Kennesaw Avenue Northwest\n\nMarietta, GEORGIA 30064",
+          "PACOccupationEmployer": "\nHomemaker\nHomemaker",
+          "receivedTypeElection": "05/16/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Campaign Consulting Group LLC\nPO Box 250336\n\nAtlanta, GEORGIA 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "AtandT Georgia PAC\n675 West Peachtree Road\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Rufus Montgomery\n230 Peachtree Street NW\nSuite 1601\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\nBusinessman\nCascon Group",
+          "receivedTypeElection": "06/26/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Steven Gordon\n122 C Street NW #540\n\nWashington DC, Washington DC 20001",
+          "PACOccupationEmployer": "\nManaging Partner\nTotal Spectrum",
+          "receivedTypeElection": "05/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$600.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Howard Franklin\n426 Bill Kennedy Way Southeast\n\nAtlanta, GA 30316",
+          "PACOccupationEmployer": "\nSelf-Employed\nBusiness Owner",
+          "receivedTypeElection": "05/05/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "DanAnd Investments, LLC\n1069 Canton Road\n\nMarietta, GA 30066",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Christina Luttrell\n3076 Highway 101 N\n\nRockmart, GA 30153",
+          "PACOccupationEmployer": "\nCOO\nIDology",
+          "receivedTypeElection": "05/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Mark Dodson\n2293 Fairhaven Circle\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nMortgage Banker\nMortgage Capital Advisors",
+          "receivedTypeElection": "05/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Highway Contractors Association and GA Asphalt Pavement Association PAC\n3655 Brookside Parkway\nSuite 165\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Edward Crowell\n4648 Glory Maple Trce\n\nPowder Springs, GA 30127",
+          "PACOccupationEmployer": "\nExecutive\nGMTA",
+          "receivedTypeElection": "05/20/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Rachel Dodsworth\n218 Battery Circle\n\nSavannah, GA 31410",
+          "PACOccupationEmployer": "\nCEO\nAdsworth Media LLC",
+          "receivedTypeElection": "05/22/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "CW Matthews Contracting Co\nPO Drawer 970\n\nMarietta , GA 30061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/22/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Rudy Beserra\n1155 Newbridge Trace Northeast\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nretired\nRetired",
+          "receivedTypeElection": "05/27/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Karla Arriola\n97 Tuxedo Terrace Northwest\n\nAtlanta, GA 30342",
+          "PACOccupationEmployer": "\nRealtor\nSelf employed",
+          "receivedTypeElection": "05/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "American Kennel Club Political Action Committee\n101 Park Ave\n5th floor\nNew York, NY 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/01/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "UPSPAC\n55 Glenlake Parkway NE\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Shawn Davis\n2322 Reubens Run\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nPrincipal\nBreak Point Consulting",
+          "receivedTypeElection": "06/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Caterpillar Employees PAC\n100 NE Adams Street\n\nPeoria, IL 61629",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Mark Dodson\n2293 Fairhaven Circle\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nMortgage Banker\nMortgage Capital Advisors",
+          "receivedTypeElection": "06/17/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Rudy Beserra\n1155 Newbridge Trace Northeast\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nretired\nRetired",
+          "receivedTypeElection": "06/24/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Forest PAC-GFA\nPO Box 1217\n\nForsyth, GA 31029",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/27/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Forest PAC-GFA\nPO Box 1217\n\nForsyth, GA 31029",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/01/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Frank Morris\n11493 Valmont Ln\n\nMilton, GA 30004",
+          "PACOccupationEmployer": "\nOwner\nFrank Morris Consulting",
+          "receivedTypeElection": "05/07/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Samantha Marti\n6180 Georgetown Park Drive\n\nNorcross, GA 30071",
+          "PACOccupationEmployer": "\nLP/TC Specialist\nGeorgia State University",
+          "receivedTypeElection": "05/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tandra Cieszynski\n58 Dillard Court\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nBiomedical Engineering\nWellstar Cobb Hospital",
+          "receivedTypeElection": "05/12/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Stephen Ruhlen\n122 C Street Northwest\n\nWashington DC, Washington DC 20001",
+          "PACOccupationEmployer": "\nConsultant\nTotal Spectrum/SGA",
+          "receivedTypeElection": "05/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Lewis Collum\n1708 Georgia 113\n\nCartersville, GA 30120",
+          "PACOccupationEmployer": "\nManagement\nTaylor Transport , Inc",
+          "receivedTypeElection": "05/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Scott Johnson\n1807 Cabot Court SW\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nSenior VP\nFinancial Supermarkets, Inc.",
+          "receivedTypeElection": "06/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "William Gentry\n1072 West Peachtree Street Northwest\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf-Employed",
+          "receivedTypeElection": "06/08/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kevin Curtin\n2787 Atwood Road Northeast\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nAVP - Legislative Affairs\nAT&T",
+          "receivedTypeElection": "06/17/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "American Kennel Club Political Action Committee\n101 Park Ave\n5th floor\nNew York, NY 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/18/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Clayton Fuller\n621 Frontier Bluff Road\n\nLookout Mountain, GA 30750",
+          "PACOccupationEmployer": "\nLawyer\nSelf-Employed",
+          "receivedTypeElection": "06/26/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Troutman Sanders, LLP Georgia PAC, INC\n600 Peachtree Street, NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/27/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Lee Lemke\n113 Arkwright Landing\n\nMAcon, GA 31210",
+          "PACOccupationEmployer": "\nExecutive Vice President\nGeorgia Mining Association",
+          "receivedTypeElection": "05/20/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Earl Ehrhart\n5584 Black Iron Trail\n\nPowder Springs, GA 30127",
+          "PACOccupationEmployer": "\nConsultant\nTaylor English Decisions",
+          "receivedTypeElection": "06/04/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "David Roberts\n325 Spring View Ct\n\nDallas, GEORGIA 30157",
+          "PACOccupationEmployer": "\nDr Cool\nOwner DR COOL",
+          "receivedTypeElection": "06/15/2020\nMonetary\nRun-Off Primary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kyle Pinkard\n117 Biltmore Lane\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nFacility tech\nAT&T",
+          "receivedTypeElection": "06/20/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Sign stakes/materials",
+          "inKindAmount": "$121.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jerry Shearin\n3021 Braswell Mountain Road\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nInsurance\nSelf-Employed",
+          "receivedTypeElection": "05/01/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "postage",
+          "inKindAmount": "$328.74",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Barmel Holdings LLC\n3440 Blue Springs Road\n\nkennesaw, GA 30144",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Digital Sign",
+          "inKindAmount": "$600.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "John Dean\n1903 Paul Harris Road\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "06/25/2020\nIn-Kind\nRun-Off Primary\n2020",
+          "inKindDescription": "Printing",
+          "inKindAmount": "$129.00",
+          "cashAmount": "$0.00"
+        }
+      ]
+    },
+    {
+      "report": "2020April30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32007&FilerID=C2020000084&CDRID=143834&Name=Anavitarte,%20Jason%20Raul&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Chris Perlera\n970 Spring Valley Road\n\nAthens, GA 30306",
+          "PACOccupationEmployer": "\nConsulting\nCritical Point Consulting",
+          "receivedTypeElection": "03/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$101.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Adam Hasner\n2930 Banyan Blvd. Circle\n\nBoca Raton, FL 33431",
+          "PACOccupationEmployer": "\nEVP\nGEO Group",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Charles Robertson\n3780 Whithorn Way\n\nKennesaw, GA 30152",
+          "PACOccupationEmployer": "\nGeneral Counsel\nCybercore Solutions",
+          "receivedTypeElection": "04/27/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Don Barbour\n571 Lees Trace Southwest\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nRegional Director\nAT&T",
+          "receivedTypeElection": "03/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Virginia Galloway\n591 Hale Mountain Court\n\nHiram, GA 30141",
+          "PACOccupationEmployer": "\nRegional Director\nFaith and Freedom Coalition",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "William Power\n1020 Karen Court SE\n\nSmyrna, GA 30082",
+          "PACOccupationEmployer": "\nAssociation Exec Director\nGCA",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Joseph Gullett\n290 Hope Drive\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nTechnology Profession\nTruist",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kirk McGhee\n900 Denmeade Walk South\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nAttorney\nKaiser Permanente",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Stanley Jones\n1073 Oakdale Road Northeast\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\nAttorney\nNelson Mullins",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Charles Brooks\nPO Box 1704\n\nExperiment, GA 30212",
+          "PACOccupationEmployer": "\nDirector\nEpic Amusement",
+          "receivedTypeElection": "04/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jay Florence\n1036 Los Angeles Ave NE\n\nAtlanta, GA 30306",
+          "PACOccupationEmployer": "\nVP\nRiver Oak Risk",
+          "receivedTypeElection": "04/21/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Barbara Cosgriff\n2045 Mayfair McLean Court\n\nFalls Church, VA 22043",
+          "PACOccupationEmployer": "\nConsultant\nSelf-Employed",
+          "receivedTypeElection": "04/20/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Andrew Johnson\n166 Helmswood Circle SW\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nHealthcare Technology\nShareCare, inc",
+          "receivedTypeElection": "04/19/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Matthew Krull\n300 Cameron Ridge Drive\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\nAttorney\nState of Georgia",
+          "receivedTypeElection": "04/04/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Justin palmer\n490 Carolwood Lane\n\nAtlanta, GA 30342",
+          "PACOccupationEmployer": "\nInvestment\nGenesis Capital",
+          "receivedTypeElection": "04/04/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jimmy McDonald\n4208 Terrace Court Southeast\n\nSmyrna, GA 30082",
+          "PACOccupationEmployer": "\nAttorney\nThe McDonald Firm",
+          "receivedTypeElection": "04/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Seth Millican\n466 Park Manor Drive\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nE.D.\nGA Chamber of Commerce",
+          "receivedTypeElection": "03/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Timothy Murphy\n60 Calming Water Trail\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nRetired\nretired",
+          "receivedTypeElection": "03/11/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Greg Shumate\n1255 Lakes Parkway\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nCEO\nCapital City Home Loans",
+          "receivedTypeElection": "03/05/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Larissa Martinez\n851 Ashland Avenue\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\nConsultant\nMartinez Strategic Consulting",
+          "receivedTypeElection": "02/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Stefan Passantino\n721 Carl Sanders Drive\n\nAcworth, GA 30101",
+          "PACOccupationEmployer": "\nAttorney\nMichael Best And Friedrich",
+          "receivedTypeElection": "02/21/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Denise heath\n552 Campground School Road\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nSelf-Employed\nSelf-Employed",
+          "receivedTypeElection": "03/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Karen Emory\nPO Box 774\n\nLithia Springs, GA 30122",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "03/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bradley Alexander\n412 Ponce de Leon Place\n\ndecatir, GA 30030",
+          "PACOccupationEmployer": "\nPartner\nImpact Public Affairs",
+          "receivedTypeElection": "02/17/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Brad Borum\n911 Maple Dr.\n\nGriffin, GA 30224",
+          "PACOccupationEmployer": "\nHealthcare Executive\nHumana",
+          "receivedTypeElection": "03/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "NFIB GA PAC\n1201 F Street NW\n\nWashington DC, Washington DC 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Tiffany Parr\n2470 Mack Dobbs Road\n\nKennesaw, GA 30152",
+          "PACOccupationEmployer": "\nAdjunct Professor\nKent State University",
+          "receivedTypeElection": "04/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jude Dooley\n173 Fieldstone Lane\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nGroup VP\nYMCA",
+          "receivedTypeElection": "02/25/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "BCBS Healthcare Plan\n3075 Vandercar Way\n\nCincinnati, OH 45209",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "GA Construction Aggregate Association\n9810A Medlock Bridge Road\nSuite 202\nJohns Creek, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/05/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "George McGarity\n145 Amberhill Court\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "02/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Sever Consulting and Management GRP\n2487 Cedracrest Road\nSuite 111\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Josh Belifante\n480 Mt. Vernon Highway\n\nAtlanta, GA 30327",
+          "PACOccupationEmployer": "\nAttorney\nRobbins Firm",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "David Pratt\n1100 Peachtree Street NE\n\nSuite 200, GA 30309",
+          "PACOccupationEmployer": "\nGA Consultant\nSSG",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "John Bozeman\n520 Fairfield Church Road\n\nJackson, GA 30233",
+          "PACOccupationEmployer": "\nConsultant\nGA Link",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kyle Wallace\n3011 Golf Crest Lane\n\nWoodstock, GA 30189",
+          "PACOccupationEmployer": "\nAttorney\nAlston and Bird",
+          "receivedTypeElection": "04/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Michael Reilly\n3361 Doublehead Gap Road\n\nBlue Ridge, GA 30513",
+          "PACOccupationEmployer": "\nConsultant\nTotal Spectrum",
+          "receivedTypeElection": "04/27/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Laura Jones\n1233 Village Run Northeast\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nGovernment Relations\nWellcare Health Plans",
+          "receivedTypeElection": "04/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Kash Trivedi\n3580 S Sherwood Road\n\nSmyrna, GA 30082",
+          "PACOccupationEmployer": "\nGovernment Affairs\nTerminus South",
+          "receivedTypeElection": "04/08/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Skipper\n1086 Blankets Creek Drive\n\nCanton, GA 30114",
+          "PACOccupationEmployer": "\nBusiness Development\nPeach State",
+          "receivedTypeElection": "04/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Stephen Weizenecker\n3475 Piedmont Road NE\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nAttorney\nBarnes And Thornburg",
+          "receivedTypeElection": "03/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Cathy Helms\n191 Ogle Road\n\nrockmart, GA 30153",
+          "PACOccupationEmployer": "\nAccounting\nSelf-Employed",
+          "receivedTypeElection": "03/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "J.T. Haskell\n252 Churchill Heights\n\nAlpharetta, GA 30005",
+          "PACOccupationEmployer": "\nDirector\nZapier",
+          "receivedTypeElection": "03/06/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Darion Dunn\n4480 South Cobb Drive\nH280\nsmyrna, GA 30080",
+          "PACOccupationEmployer": "\nReal estate Investment\nAtlantica Properties",
+          "receivedTypeElection": "02/13/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Shearinco Enterprises Inc.\n3021 Braswell Mountain Road\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Twin Oaks Connect\n3280 Bob Cox Road\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/16/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Friends of Bert Reeves\n890 Crossfire Ridge\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Clay Huckaby\n1161 Southwind Drive\n\nBishop, GA 30621",
+          "PACOccupationEmployer": "\nConsultant\nCapital City Public Affairs",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Todd Smith\n10121 Captain Hickory Place\n\nGreat Falls, VA 22066",
+          "PACOccupationEmployer": "\nConsultant\nTotal Spectrum",
+          "receivedTypeElection": "04/24/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Steve Gordon\n122 C Street NW #540\n\nWashington DC, Washington DC 20001",
+          "PACOccupationEmployer": "\nManaging Partner\nTotal Spectrum",
+          "receivedTypeElection": "04/22/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Clay Huckaby\n1161 Southwind Drive\n\nBishop, GA 30621",
+          "PACOccupationEmployer": "\nConsultant\nCapital City Public Affairs",
+          "receivedTypeElection": "04/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Narda Konchel\n223 Main Street\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nBroker/Realtor\nVillage Reality Services",
+          "receivedTypeElection": "03/11/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "James Morgan\nPO Box 12174\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\nPrincipal\nJL Morgan Co",
+          "receivedTypeElection": "03/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Leslie O'Neal\n506 Roswell Street\n\nMarietta , GA 30060",
+          "PACOccupationEmployer": "\nAttorney\nO'Dell and O'Neal",
+          "receivedTypeElection": "02/21/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Mike Dudgeon\n5885 Thoroughbred Way\n\nJohns Creek, GA 30024",
+          "PACOccupationEmployer": "\nPolicy Director\nLt. Governor's Office",
+          "receivedTypeElection": "02/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Rufus Montgomery\n230 Peachtree Street NW\nSuite 1601\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\nBusinessman\nCascon Group",
+          "receivedTypeElection": "02/08/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Friends of Blake Tillery\n404 Dirden Street\n\nVidalia , GA 30474",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/23/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bruce Thompson for State Senate\nPO Box 2072\n\nAdairsville, GA 30103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "MAA 108, LLC\n913 Peel castle Lane\n\nAustell, GA 30106",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,001.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Steve Gordon\n122 C Street NW #540\n\nWashington DC, Washington DC 20001",
+          "PACOccupationEmployer": "\nManaging Partner\nTotal Spectrum",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,200.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bobby Jones\n1082 Cherrybark trc Northwest\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\nhealthcare Executive\nCareSource",
+          "receivedTypeElection": "04/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Pete Quinones\n1120 allgood industrial court\n\nGA, Marietta 30060",
+          "PACOccupationEmployer": "\nbusiness Owner\nMetro Ambulance",
+          "receivedTypeElection": "04/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Susan Lamp\n8 Fieldmont Circle\n\nSimpsonville, SC 29681",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "02/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Brandon Clark\n112 N Union Street\n\nAlexandria, VA 22314",
+          "PACOccupationEmployer": "\nsmall business Owner\nSelf-Employed",
+          "receivedTypeElection": "03/11/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Eduardo Perez\n135 Old Cedar Lane\n\nMilton, GA 30004",
+          "PACOccupationEmployer": "\nPresident\nEquity Prime Mortgage",
+          "receivedTypeElection": "04/24/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Shannon Perez\n135 Old Cedar Lane\n\nMilton, GA 30004",
+          "PACOccupationEmployer": "\nHomemaker\nHomemaker",
+          "receivedTypeElection": "04/24/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jesse Weathington\n522 Sydney Street\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\nConsultant\nSelf-Employed",
+          "receivedTypeElection": "04/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jim frogue\n1222 North Meade Street\n\nArlington, VA 22209",
+          "PACOccupationEmployer": "\nConsultant\nSelf-Employed",
+          "receivedTypeElection": "02/18/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "MAG Mutual PAC\nPO Box 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/14/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Capital City Public Affairs, LLC\n1393 Noel Drive\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/26/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Victory Public Affairs\n1690 North Druid Hills Road\n\nAtlanta, GA 30310",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/26/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Josh Mackey\n1393 Noel Drive\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nConsultant\nCapital City Public Affairs",
+          "receivedTypeElection": "02/07/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Anavitarte\n316 BLACKBERRY RUN DR\n\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\nHealthcare Executive\nCareSource",
+          "receivedTypeElection": "02/14/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Mark Middleton Attorney at Law\n4231 Quail Ridge Way\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Community Development and Health PAC of Georgia\nPO Box 501029\n\nAtlanta, GA 31150",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/19/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Terminus South, LLC\n2058 Butler Way NW\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/11/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Duncan for Georgia\nPO Box 88372\n\nAtlanta, GA 30356",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/06/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Georgia Chamber Political Affairs Council Inc PAC\n270 Peachtree Street\nSuite 2200\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/22/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jerry Shearin\n3021 Braswell Mountain Road\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nInsurance\nSelf-Employed",
+          "receivedTypeElection": "04/29/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Printing",
+          "inKindAmount": "$346.62",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "John Dean\n1903 Paul Harris Road\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "03/03/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Zip ties, and Sign Stakes",
+          "inKindAmount": "$410.56",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "John Dean\n1903 Paul Harris Road\n\nDallas, GA 30157",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "03/09/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Printing",
+          "inKindAmount": "$27.72",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Anavitarte\n316 BLACKBERRY RUN DR\n\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\nHealthcare Executive\nCareSource",
+          "receivedTypeElection": "03/05/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Advertising - Gateway-Beacon",
+          "inKindAmount": "$450.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Bullseye Public Affairs\n4994 Lower Roswell Road\n\nMarietta, GA 30068",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/01/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Web Services",
+          "inKindAmount": "$2,500.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Barmel Holdings LLC\n3440 Blue Springs Road\n\nkennesaw, GA 30144",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/26/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Digital Outdoor Advertising",
+          "inKindAmount": "$400.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Stephen Weizenecker\n3475 Piedmont Road NE\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nAttorney\nBarnes And Thornburg",
+          "receivedTypeElection": "02/06/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "legal services",
+          "inKindAmount": "$2,000.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Anavitarte, Jason Raul",
+          "contribName": "Jason Anavitarte\n316 BLACKBERRY RUN DR\n\nDALLAS, GA 30132",
+          "PACOccupationEmployer": "\nHealthcare Executive\nCareSource",
+          "receivedTypeElection": "03/10/2020\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Facility Rental Seven Hills",
+          "inKindAmount": "$200.00",
+          "cashAmount": "$0.00"
+        }
+      ]
+    }
+  ]
+}

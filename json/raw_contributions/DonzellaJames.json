@@ -1,0 +1,3263 @@
+{
+  "lastUpdated": "Fri Feb 05 2021 13:17:35 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Donzella James",
+    "fileName": "DonzellaJames",
+    "displayName": "Donzella James",
+    "district": "35",
+    "city": "Atlanta",
+    "party": "Democrat",
+    "searchName": ["james", "donzella"]
+  },
+  "data": [
+    {
+      "report": "2021January31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=160887&Name=James,%20Donzella%20J.&Year=2021&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=160886&Name=James,%20Donzella%20J.&Year=2020&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\n8801 Dunwoody Place\n\nAtlanta, Ga 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Coca-Cola Company\nGA PAC\nPO Box 1734\nAtlanta , ga 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Friends of Elena Parent\n956 Springdale Rd. NE\n\nAtlanta, Ga 30306",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "CMTE OF AUTOMOBILE RETAIL DEALERS OF GEORGIA\n2060 POWERS FERRY ROAD SE\n\nATLANTA, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "cIVIL JUSTICE PAC, INC\n101 MARIETTA ST NW\nSTE 3350\nATLANTA, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Senator Harold Jones\n437 Walker St\n\naugusta, ga 30901",
+          "PACOccupationEmployer": "\nGeorgia State Senator\nState of Georgia",
+          "receivedTypeElection": "11/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=158478&Name=James,%20Donzella%20J.&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Pest Control Association Inc\n2034 Beaver Ruin Rd\n\nNorcross, Georgia 30071",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Community Bank Employees\n1640 Powers Ferry Rd. SE. Bldg 28\n\nMarietta, Georgia 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Community to Elect Gloria Butler\npO BOX 871212\n\nsTONE mTN, gEORGIA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/07/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Alliance of Comm. Hospital Inc.\nPO Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=157684&Name=James,%20Donzella%20J.&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\n\nAtlanta, Ga 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Power Co. State Employees PAC, Inc.\n241 Ralph McGill Blvd. NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=144798&Name=James,%20Donzella%20J.&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020April30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=143801&Name=James,%20Donzella%20J.&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=142024&Name=James,%20Donzella%20J.&Year=2020&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "steven Henson\n5404 Pheasant Run\n\nStone Mountain, Georgia 30087",
+          "PACOccupationEmployer": "\nState Senator\nState of Georgia",
+          "receivedTypeElection": "11/25/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Yusuf Ali\nPO Box 1487\n\nGriffin, Ga 30224",
+          "PACOccupationEmployer": "\nEntreprenuer\nSelf Employed",
+          "receivedTypeElection": "11/25/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\n\nAtlanta, Ga 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Bev Pac\n50 Hurt St\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/11/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Smith Gambrell & Russell, LLP\n1230 Peachtree St SW Suite 3100\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Coca-Cola Company\nPO Box 1734\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Sheirh Rahman Rahman for GA\n779 Simon Way\n\nLawrenceville, GA 30045",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Fair Fight Inc\n1270 Caroline St NE STE D120-311\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Chiropractic Association\n3163 Blairhll court\n\nAtanta, , Ga 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Amusement & Music Operations Association\n2095 Highway 211 Ste 2F PMP 163\n\nBraselton, ga 30517",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice Pac, Inc\n101 Marietta St NW Ste\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/06/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice Pac, Inc\n101 Marietta St NW Ste\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/13/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=139718&Name=James,%20Donzella%20J.&Year=2019&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Pizza Chiropractice Clinics PC\n3284 Dogwood Dr\n\nHapeville, Georgia 30354",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/07/2019\nMonetary\nGeneral\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2019January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=138056&Name=James,%20Donzella%20J.&Year=2019&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Fair Fight Inc\n1270 Caroline St\nD120-311\nAtlanta, Georgia 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Dental Association\nPoitical Action Committee\n7000 Peachtree Dunwoody Blg 17, Suite 200\nAtlanta, Georgia 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2019\nMonetary\nPrimary\n2019",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2019January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=137938&Name=James,%20Donzella%20J.&Year=2019&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Fair Fight Inc\n1270 Caroline St NE\nD120-311\nAtlanta, Georgia 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2019\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Dental Association\nPolitical Action Committe\n7000 Peachtree Dunwoody Rd Bldg 17, STE 200\nAtlanta, Georgia 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2019\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2018December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=136437&Name=James,%20Donzella%20J.&Year=2018&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Comcast Corporation\nOne Comcast Center\n1701 JFK Boulevard\nPhiladelphia, PA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/11/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Restaurant Association\n260 Peachtree St NW\nSuite 1901\nAtlanta, Georgia 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/03/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Steve B Henson\n5404 Pleasant Run\n\nStone Mountain, Georgia 30087",
+          "PACOccupationEmployer": "\nSenator\nState of Georgia",
+          "receivedTypeElection": "12/04/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=135363&Name=James,%20Donzella%20J.&Year=2018&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Southeast Permanente Medical Group\nP,O, Box 2194\n\nROSWELL, Georgia 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/15/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2018September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=133956&Name=James,%20Donzella%20J.&Year=2018&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Arbor Place Beverage Depot\n7455 Douglas Blvd\n\nDouglasville, GA 30135",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "NAA KOO KIM\n7875 Saint Marlo Fairway Dr\n\nDuluth, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Retail Spirits Council\n215 Piedmont Ave NE STE C5\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "LIUNA LOCAL 515 LPL\n1004 Edgewood Ave NE\n\nAtlanta, Ga 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/26/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        }
+      ]
+    },
+    {
+      "report": "2018June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=132632&Name=James,%20Donzella%20J.&Year=2018&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Frank S Milazi\n402 Washington St\n\nPlymouth, NC 27962",
+          "PACOccupationEmployer": "\nBus Driver\nMarta",
+          "receivedTypeElection": "05/03/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Melvin or Arleen Bolton\n4105 Monaghan Way\n\nCollege Park, Georgia 30345",
+          "PACOccupationEmployer": "\nEntreprenuer\nBusiness Owner",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Howard Billingslea\nPO Box 490261\n\nCollege Park, Georgia 30349",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "05/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Haji Agad\n4454 e Jones Bridge rd\n\nNorcross, georgia 30092",
+          "PACOccupationEmployer": "\nbusiness Owner\nSelf Employed",
+          "receivedTypeElection": "05/05/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Carolyn Davenport\n7740 Fielder Rd\n\nJonesboro, Georgia 30236",
+          "PACOccupationEmployer": "\nEntreprenuer\nN/A",
+          "receivedTypeElection": "05/12/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Harold Jones\n3031 Hummingbird Ln\n\nAugusta, ga 31401",
+          "PACOccupationEmployer": "\nSenator\nGeorgia State Capitol",
+          "receivedTypeElection": "05/22/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Steve Henson\n5404 Pheasant Run\n\nStone Mountain, GA 30087",
+          "PACOccupationEmployer": "\nState Senator\nGeorgia State Capitol",
+          "receivedTypeElection": "05/22/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tracey Wyatt\npO Box 16612\n\nAtlanta, GA 30321",
+          "PACOccupationEmployer": "\nEntreprenuer\nN/A",
+          "receivedTypeElection": "05/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Walter Metze\n3259 Cascade Rd SW\n\nAtlanta, GA 30311",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "05/05/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/05/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice PAC Inc of the GA Trail Lawyers Assn.\n101 Marietta St. nW\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/01/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Watson Foundation\nPO Box 1095\n\nDouglasville, GA 30135",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/22/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "MRB INC\n7490 Old National Highway\nSTE 100\nRiverdale , GA 30296",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GILA-Consumer Credit People for Responsible Gov\nPO Box 802\n\nMacon, GA 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Alliance of Comm. Hospital Inc.\nPO Box 1572\n\nTifton, GA 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Card of Georgia Committee of Automobile Retail\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/13/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Democratic Party Of Georgia\nPO box 311225\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "OAAG-PAC, INC. Outdoor Advertising\nPO Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia State AFL-CIO PAA\n801 Pulliam St\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/25/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Lite house Partners, Inc\nPO Box 741825\n\nRiverdale, GA 30274",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Colaborative Firm, LLC\n1514 East Cleveland Ave\nSTE#82\nEast Point, GA 30344",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Atlanta Dental Association\n1501 Abercorn St\n\nSavannah, Ga 31401",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/07/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GAE Fund for Public Education\n100 Cresent Center Parkway\nSuite 500\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/09/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "DELTA-PAC\nPO BOX 6001\n\naTLANTA, ga 30320",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/09/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "committe to Elect Lester Jackson\n1501 Abercorn ST\n\nSavannah, GA 31401",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Committee To Elect Gail Davenport\n7740 Fielder Rd\n\nJonesboro, GA 30236",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/12/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "H.E, Tate Campaign Fund, LLC\n201 Joseph E Lowery Blvd NW\n\nAtlanta, GA 30314",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2018March31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=130856&Name=James,%20Donzella%20J.&Year=2018&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2018January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=129770&Name=James,%20Donzella%20J.&Year=2018&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Friends of Elena Parent\n774 Springdale Rd., NE\n\nAtlanta, GA 30306",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2017December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=129433&Name=James,%20Donzella%20J.&Year=2017&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Benson Ejindu\n6049 Hembry Rd\n\nWeddington, NC 28104",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "11/10/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice PAC Inc of the GA Trail Lawyers Assn.\n101 Marietta ST NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/04/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "AT & T Georgia\n675 West Peachtree NW\nRoom 36-024\nAtlanta, GA 30375",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/29/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Pamela and Michael Majette\n1190 Oakcrest Dr\n\nAtlanta, GA 30311",
+          "PACOccupationEmployer": "\nBus Driver\nMarta",
+          "receivedTypeElection": "10/25/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Bev Pac\n50 Hurt Plaza\nSuite 935\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "James Reese\n4040 W Stubbs Rd\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nEntreprenuer\nN/A",
+          "receivedTypeElection": "10/25/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Committee To Elect Gail Davenport\nPO Box 1074\n\nJonesboro, GA 30237",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Seyun Adeyina\n651 Autumn Meadow Drive\n\nAtlanta, GA 30068",
+          "PACOccupationEmployer": "\nEntreprenuer\nN/A",
+          "receivedTypeElection": "12/09/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Matilda Arkin\n2310 Harbor Landing\n\nRoswell, GA 30076",
+          "PACOccupationEmployer": "\nConsultant\nN/A",
+          "receivedTypeElection": "12/09/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Frank Milazi\n402 Washington St\n\nPlymouth , NC 27962",
+          "PACOccupationEmployer": "\nEntreprenuer\nN/A",
+          "receivedTypeElection": "12/09/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The K & E Group USA, LLC\n120 Rehoboth Circle SW\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/09/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Zelda Gills\npO Box 2596\n\nDecatur, GA 30032",
+          "PACOccupationEmployer": "\nRealstate Agency\nN/A",
+          "receivedTypeElection": "09/28/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cheryl McAwiffe\nPO Box 1435\n\nDouglasville, Ga 30296",
+          "PACOccupationEmployer": "\nEntreprenuer\nN/A",
+          "receivedTypeElection": "09/28/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Harold Jones\n3014 Breeze Hill Dr\n\nAugusta, GA 30906",
+          "PACOccupationEmployer": "\nState Senator\nGeorgia State Capitol",
+          "receivedTypeElection": "10/27/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "christina Peterson\nPO Box 345\n\nLithia Springs , GA 30122",
+          "PACOccupationEmployer": "\nAttorney\nCJ Peterson Law Firm",
+          "receivedTypeElection": "09/28/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$101.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Association of Realtors\nPolitical Action Committee\n6065 Barfield Rd\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/13/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$700.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Card of Georgia Committee of Automobile Retail\nDealers of Georgia\nPO Box 725154\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/06/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\nSponsored by Georgia Apartment Association\n8601 Dunwoody Place, Suite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/04/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Liuna Loca 515 LPL\n1004 Edgewood Ave NE\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/27/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Coca-Cola Company\nGeorgia Political Action Fund\nPO box 1734\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/05/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Georgia Medical Political Action Committee\n1849 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/25/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "S & r Security Services\n1211 Merlin Ave\n\nAtlanta, Ga 30317",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/31/2017\nMonetary\nPrimary\n2017",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$225.00"
+        }
+      ]
+    },
+    {
+      "report": "2017June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=127908&Name=James,%20Donzella%20J.&Year=2017&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Stephen B. Henson\n5404 Phesant Run\n\nStone Mountain, GA 30087",
+          "PACOccupationEmployer": "\nState Senator\nState of Georgia",
+          "receivedTypeElection": "06/27/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$700.00"
+        }
+      ]
+    },
+    {
+      "report": "2017January31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=127909&Name=James,%20Donzella%20J.&Year=2017&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2016December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=127913&Name=James,%20Donzella%20J.&Year=2016&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Dental Association PAC\n7000 Peachtree Dunwoody Rd\nBldg 17, Suite 200\nAtlanta, Ga 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/12/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/09/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        }
+      ]
+    },
+    {
+      "report": "2016October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=127912&Name=James,%20Donzella%20J.&Year=2016&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Progressive Employment Legislation PAC\nP.O. Box 2486\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/24/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Daniel Tulman Aduct Pediatric Optometry\n800 Crestmark Dr.\nSuite 101\nLithia Springs, GA 30122",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        }
+      ]
+    },
+    {
+      "report": "2016September30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=127911&Name=James,%20Donzella%20J.&Year=2016&Report=September%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2016June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=127910&Name=James,%20Donzella%20J.&Year=2016&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Senior Living Association\n2023 Grayson Highway\nSuite 202\nGrayson, GA 30017",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cable Television Association of Georgia PAC, Inc.\n34 Peachtree St\nSuite 1900\nAtlanta, ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Committee to Elect Gail Davenport\nP.O. Box 1074\n\nJonesboro, GA 30237",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Vote Choice PAC\n241 Peachtree St NE\n\nAtlanta, GA 30300",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Bill Owens\n115 Hazelton Street\n\nMattapan, Maine 02126",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "05/03/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Amusement & Music Operations\n54 Marshall Rd NE\n\nMilledgeville, GA 31061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Ga. Assoc /Educators Fund/Public Educators\n100 Crescent Centre Parkway Ste 500\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "AFLA PAC Arthur B Edge IV\n50 Hurt Place\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GBC Allstar Amusement Games\nP.O. Box 1000\n\nExperiment, ga 30212",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/07/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Chiropractic Association PAC\n3163 Blairhill Court\n\nAtlanta, ga 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson for Senate\n2643 Sterling Acres Drive\n\nTucker, ga 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Friends of Mable Thomas\n165 Jones Ave\n\nAtlanta, GA 30314",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson For Senate\n2643 Sterling Acres Dr.\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/24/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Specialty Contractors Coalition PAC\n18 river Trace\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Roddie A Crouch, DDS\n2145 River Falls Dr\n\nRoswell, GA 30076",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Andrew Boone\n229 Wilson Mill Rd\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "04/07/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Joseph Gregory\n1775 The Exchange\nSuite 190\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "04/13/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Ollisteen Miles\n2145 Tuder Castle Way\n\nDecatur, GA 30035",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "05/12/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Carolyn Davenport\n7740 Feilder Rd\n\nJonesboro, GA 30826",
+          "PACOccupationEmployer": "\nRealtor\nSelf Employed",
+          "receivedTypeElection": "05/20/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Automobile Dealers Association\n2060 Powers Ferry Road, SE\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.16"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "howard Billingslea, Jr\nP.O. Box 490261\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "04/07/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Allstar Amusement Games\nP.O. 1000\n\nExperiment, GA 30212",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/07/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "BEVPAC\n50 Hurt Plaza\nSuite 935\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "Primary\n\n",
+          "receivedTypeElection": "04/05/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Council of Chiropractic Inc\nP.O. Box 4245\n\nMarietta, GA 30061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/13/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Watkins Morturary, Inc.\n1003 Ralph D. Abernathy Blvd\nSuite 140\nAltanta, GA 30310",
+          "PACOccupationEmployer": "Primary\n\n",
+          "receivedTypeElection": "04/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Willie A. Watkins Funeral Home of Douglas\n8312 Dallas Highway\n\nDouglasville, GA 30134",
+          "PACOccupationEmployer": "Primary\n\n",
+          "receivedTypeElection": "04/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice PAC INC of the GA Trial Lawyers Assoc\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "Primary\n\n",
+          "receivedTypeElection": "04/08/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice PAC INC of the GA Trial Lawyers Assoc\n101 Marietta St NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/08/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Sheila Jones\n3245 Amhurst Dr NW\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\nState Representative\nState of Georgia",
+          "receivedTypeElection": "04/08/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Peter Inyang\n475 Trinity Trail\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "06/19/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Wholesale Distributors for Good Government\n3565 Piedmont, NE\nBuilding 2 Suite 320\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/12/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Committee for Affordable Workforce Housing\nP.O. Box 7511\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Comcast Corporation\nOne Comcast Center\n1701 JFK Boulevard\nPhiladelphia, GA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Cable Association PAC, Inc.\n2300 Windy Ridge Pkwy\nSuite 205-S\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/09/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree\nSuite 201\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/02/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "William Davenport\n1376 Doe Valley Drive\n\nLithonia, GA 30058",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "04/21/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Andrew Whitmore\n25 Somerset Hill\n\nFairburn, GA 30253",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "04/25/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "MK Industries, LLC\n6685 Peachtree Industrial\n\nAtlanta , GA 30360",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$600.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Metro Atlanta Chamber of Commerce PAC\n235 Andrew Young International Blvd NW\n\nAtlanta , GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/19/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Brandon Gary Reese\n1116 Lindridge Dr NE\n\nAtlanta , GA 30324",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "04/20/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GeorgiaLink PAC for Good Government\n50 Hurt Plaza\nSuite 800\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "Primary\n\n",
+          "receivedTypeElection": "04/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "CARD of Georgia Committee Automobile Retail Dealers of Georgia\nP.O. Box 725154\n\nAtlanta , GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/18/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.16"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Radio One\n1010 Wayne Ave, 14th Floor\n\nSilver Spring, GA 20910",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/13/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GILA Consumer Credit People for Responsible Government\nP.O. Box 802\n\nMacon, GA 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/14/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta , GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/05/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Association of Realtors PAC\n3200 Presidential Drive\n\nAtlanta , GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "UPS PAC\n55 Glenlake Pkwy NE\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Blue Cross Blue Shield of Georgia\nP.O. Box 68086\n\nCincinnati, OH 45208",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Peter Inyang\n475 Trinity Trail\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "05/24/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Peter Inyang\n475 Trinity Trail\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "05/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        }
+      ]
+    },
+    {
+      "report": "2016March31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=120352&Name=James,%20Donzella%20J.&Year=2016&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "MRB Inc\n7490 Old national Highway\nSuite 100\nRiverdale, GA 30296",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Lydia Morris Glaize\n567 Handyman Ct\n\nFairburn, GA 30213",
+          "PACOccupationEmployer": "\nCouncilwoman\nCity of Fairburn",
+          "receivedTypeElection": "03/30/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$35.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Yusuf Ali\nP.O. Box 1487\n\nGriffin, GA 30224",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf Employed",
+          "receivedTypeElection": "03/31/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Kristin Oblander\n1000 Spring St NW\nSuite 360\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\nConsultant\nSelf Employed",
+          "receivedTypeElection": "03/24/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2016January31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=119004&Name=James,%20Donzella%20J.&Year=2016&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Dental Association PAC\n7000 Peachtree Dundoody Road\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Alliance of Community Hospitals\n610 N Ridge Ave\n\nTifton, ga 31794",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/24/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta, ga 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/25/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "UPS Political Action Committee\n55 Glenlake Parkway\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cheryl McAuliffe\n9452 Logan Lane\n\nDouglasville, ga 30135",
+          "PACOccupationEmployer": "\nConstituent\nn/a",
+          "receivedTypeElection": "01/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Brent & Laura Sobol\n1988 Plaza Lane SW\nSuite 43\nAtlanta, ga 30311",
+          "PACOccupationEmployer": "\nScientologist\nn/a",
+          "receivedTypeElection": "01/11/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$240.00"
+        }
+      ]
+    },
+    {
+      "report": "2015June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=116257&Name=James,%20Donzella%20J.&Year=2015&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2015January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115449&Name=James,%20Donzella%20J.&Year=2015&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2014December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=114650&Name=James,%20Donzella%20J.&Year=2014&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Debra Clark\n900 Wendell Ct\n\nAtlanta, GA 30336",
+          "PACOccupationEmployer": "\nConsultant\nSelf",
+          "receivedTypeElection": "11/03/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Horacena Tate\n121-A State Capitol\n\nAtlanta, Ga 30334",
+          "PACOccupationEmployer": "\nSenator\nState of Georgia",
+          "receivedTypeElection": "12/26/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2014October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=114655&Name=James,%20Donzella%20J.&Year=2014&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Kevin Perry\nP.O. Box 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "Coca Cola Company GA PAC\n\n",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Comcast Corp\nOne Comcast Court\n1701 JFK Boulevard\nPhiladelphia, PA 19103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Shelia Jones\n3246 Amherst Dr NW\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\nState Representative\nState of Georgia",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Virgil Fludd Election Committee\nP.O. Box 670\n\nTyrone, GA 30290",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Amusement & Music Operators assoc PAC\n3780 Old Norcross Road\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "First Class Inc\n450 Hickory Glen Lane SW\n\nAtlanta, GA 30311",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "UFCW Local 1996 Active club\n3302 McGinnis Ferry Road\nSuite 201\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cable Television Association of Georgia PAC, Inc.\n34 Peachtree St\nSuite 1900\nAtlanta, ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2014June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=112666&Name=James,%20Donzella%20J.&Year=2014&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Janice Barnett\n3695 Cascade Road, SW\nSuite F#1200\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nContractor\nSelf",
+          "receivedTypeElection": "04/20/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Turner Broadcasting Systems, Inc.\n101 Marieta Street, NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "LIUNA Local 515 LPL\n1004 Edgewood Ave NE\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/17/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=111997&Name=James,%20Donzella%20J.&Year=2014&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Direct Marketing Concepts, Inc.\n2192 Campbellton Road SW\nSuite 200\nAtlanta, GA 30311",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Michelle K. Uchiyama\n451 Fedora Way NW\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nContractor\nSelf",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Celestina N. Nwizu\n4610 Central Drive\n\nStone Mountain, GA 30083",
+          "PACOccupationEmployer": "\nStudent\nNone",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Stephen B. Henson\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\nState Senator\nState of Georgia",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgialink PAC for Good Government\n50 Hunt Plaza\nSuite 800\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Association of Realtors PAC\n3200 Presidential Drive\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "CARD of Georgia Committee of Automobile Retail Dealers of Georgia\nP.O. 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/18/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.14"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "N GA Trades PAC Fund\n501 Pulliam St SW\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Gail Davenport\n7740 Fielder Rd\n\nJonesboro, GA 30236",
+          "PACOccupationEmployer": "\nState Senator\nState of Georgia",
+          "receivedTypeElection": "09/05/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "JM Family Enterprises, Inc.\n100 Jim Moran Blvd.\n\nDeerfield Beach, FL 33442",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/10/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree Street\nSuite 201\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Mary Lou Waymer\n3157 Caintal Court\n\nDecatur, GA 30033",
+          "PACOccupationEmployer": "\nLobbyist\nself",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Peter Inyang\n475 Trinity Trail\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Kelvin A. Harris\n6637 Copper Court\n\nDouglasville, GA 30134",
+          "PACOccupationEmployer": "\nBusiness Owner\nself",
+          "receivedTypeElection": "09/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia's Win List\nP.O. Box 7130\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Karen L Perry Daley\n3615 Renaissance Circle\n\nAtlanta, GA 30349",
+          "PACOccupationEmployer": "\nClerk\nSelf",
+          "receivedTypeElection": "09/09/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$70.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA State UAW PAC Council\n501 Pulliam St.\nSuite 314\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/02/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia State AFL-CIO PAA\n501 Pulliam Street SW\nSuite 549\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Assoc of Convenience Stores PAC\n168 N. Johnson St\nSuite 209\nDallas, GA 30132",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/27/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Douglas Conty Democratic Party\nP.O. Box 55\n\nDouglasville, GA 30133",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Teamsters Local 728\n2540 Lakewood Ave SW\n\nAtlanta, GA 30315",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/15/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Drive Committee FEC ID C0032979\n25 Louisiana Avenue NW\n\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/15/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Council of Chiropractic Inc. PAC\n1775 The Exchange\nSuite 190\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Vote Choice A PAC of PPSEA\n75 Piedmont Avenue\nSuite 800\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Ghana International Chamber of Commerce\n1100 Peachtree St\nSuite 20\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Dama F. Stephenson\n4820 Highland Lake Drive\n\nAtlanta, GA 30349",
+          "PACOccupationEmployer": "\nBanker\nWachovia",
+          "receivedTypeElection": "09/04/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Association of Groundwater Professional\nP.O. Box 1928\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/14/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "TWT Holdings\n3600 New York Avenue NE\n\nWashington, DC 20002",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/13/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Sheila Jones\nP.O. Box 784\n\nSmyrna, GA 30081",
+          "PACOccupationEmployer": "\nState Representative\nState of Georgia",
+          "receivedTypeElection": "08/27/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Talula Martin\n2150 Washington Drive\n\nDouglasville, GA 30135",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf",
+          "receivedTypeElection": "08/13/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        }
+      ]
+    },
+    {
+      "report": "2014March31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=110733&Name=James,%20Donzella%20J.&Year=2014&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Amusement & Music Operators Assoc, inc.\n54 Marshall Road, NE\n\nMilledgville, GA 31061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice PAC Inc of the GA Trial Lawyers Assoc\n101 Marietta Street, NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Swisher International Inc.\nP.O. Box 2230\n\nJacksonville, FL 32203",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=108179&Name=James,%20Donzella%20J.&Year=2014&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GAMOA Georgia Amusement and music operators association\n54 marshall road NE\n\nMilledgeville, ga 31061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        }
+      ]
+    },
+    {
+      "report": "2013December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=103595&Name=James,%20Donzella%20J.&Year=2013&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Chiropractic Association PAC Committee\n3183 Blairhill Court\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/26/2013\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Richard A. Weinman, DMD Chair\n3490 Piedmont Road\nSuite 110\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "GA Dental Association PAC\n\n",
+          "receivedTypeElection": "08/31/2013\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Stephen B. henson\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\nSenator\nGeorgia General Assembly",
+          "receivedTypeElection": "12/20/2013\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Power PAC\n9 Annex\n\nAtlanta, GA 30396",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/21/2013\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Dental Association PAC\n7000 Peachtree Dundoody Road\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/14/2013\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    },
+    {
+      "report": "2013June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=91956&Name=James,%20Donzella%20J.&Year=2013&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2012October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=85459&Name=James,%20Donzella%20J.&Year=2012&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "NASW National Assoc of Social Workers\n3070 Presidential Drive Ste 226\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Vote Choice\n75 Pirdmont Avenue Ste 300\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "CARD Committee of Retail Automobile Dealers/GA\nP.O. Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.12"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson For Senate\n2643 Sterling Acres Dr.\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/11/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Dr. Horacena Tate\n220 Florida Avenue S.W.\n\nAtlanta, GA 30310",
+          "PACOccupationEmployer": "\nState Legislator\nGeorgia",
+          "receivedTypeElection": "10/17/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    },
+    {
+      "report": "2012December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=85400&Name=James,%20Donzella%20J.&Year=2012&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Power Co. State Employees PAC, Inc.\n241 Ralph McGill Blvd. NE\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GAQPHE, Inc.\n1 West Court SQ, Ste 100\n\nDecatur, GA 30030",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Consulate Gen. of Nigeria Nigeria\n8060 Roswell Road\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Teamsters Brotherhood of Locomotive Eng\nP.O. Box 158\n\nFitzgerald, GA 31750",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/20/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "HOS PAC\n1675 Terrell Mill Road\n\nmarietta, GA 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/20/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "United Transportation Union\n314 Mill Ryan Road\n\nRichmond Hill, GA 31324",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/20/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Waste Management\np.o. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/20/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2012September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=73733&Name=James,%20Donzella%20J.&Year=2012&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Friends of Vincent Fort\nP.O.Box42892\n\natlanta, GA 30311",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia State AFL-CIOPAA\n501 Pulliam Street S.W.\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/24/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GAQPHE, Inc\n1 West Court Square Ste 100\n\nDecatur, GA 30030",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GAMOA Ga Amusement /music oper assoc\n54 Marshall Road N.E.\n\nMillidgeville, GA 31061",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Winfred Hill\n395 Cairo Street N.E.\n\nAtlanta, GA 30314",
+          "PACOccupationEmployer": "\nself employed\nself employed",
+          "receivedTypeElection": "07/10/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Paster janet Barnet Ministries, Inc\nFairburn Road S.W.\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/10/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "LIIUNA Local 515\n1004 Edgewood Ave.N.E.\n\nAtlanta, GA 30307",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/10/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "ATT,Inc Ga/PAC\n675 West Peachtree Streert N.E.\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/06/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson for Senate\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/10/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Civil Justice PAC/ Trial Lawers Assoc\n101 Marietta Street N.W. Ste 3350\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/10/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "DRIVE Committee\n25 Louisiana Avenue NW\n\nWashington, D.C., D.C. 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/20/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Peachstate Enhancement Services LLC\n183 Hermer Circle N.W.\n\nAtlanta, GA 30311",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/3012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Nan for Senate\n127 Peachtree Street Ste 1515\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/26/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Friends & Neighbors of Curt Thompson\n6320 Glenbrook Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/26/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "JM Family Enterprises, Inc\n100 Moran Blvd\n\nDeerfield Beach, FL 33442",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/30/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Ga. Assoc /Educators Fund/Public Educators\n100 Crescent Centre Parkway Ste 500\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/12/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Coca-Cola Company\nP.). Box 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/19/2012\nMonetary\nGeneral\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2012June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=64991&Name=James,%20Donzella%20J.&Year=2012&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Leroy R. Johnson, P.C.\n4190 Manor Hilla Lane SW\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/19/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Dental Assoc PAC\n3490 Piedmont Rd NE STE 110\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Assoc of Convenience Stores PAC\n(unknown)\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/26/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Steve Henson\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "Henson For Senate\n\n",
+          "receivedTypeElection": "06/05/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2012March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=58222&Name=James,%20Donzella%20J.&Year=2012&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson For Senate\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/13/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Dental Association Political Action Committee\n3490 Piedmont Road NE, Ste110\n\nAtlanta, , GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/22/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Diana Harvey Johnson\nP.O. Box 5544\n\nSavannah, GA 31414",
+          "PACOccupationEmployer": "\nMedia Consultant\nSelf Employed",
+          "receivedTypeElection": "12/30/2011\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Ga. Council of Chiropractic Inc. CIP/PAC\n1775 The Exchange Suite 190\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2011December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115657&Name=James,%20Donzella%20J.&Year=2011&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Steve Henson for Senate Campaign\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Janice Barnett\n3695 Cascade Road, SW\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nCEO\nSelf",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$550.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Pacfic Systems Inc., Remmy Idaewor\n4022 East Lake Parkway\n\nMcDonough, GA 30253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "E-Technology Services, Anthony Campbell\n3645 Marketplace Blvd.\n\nAtlanta, GA 30344",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cornerstone Communications Group, James E. Toney\n1231 Collier Road, NW\nSuite J\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Gloria Fleet\n191 Peachtree Street\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\nClark Atlanta University Consultant\nCAU",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Deeper Root Inc.\n134 Peachtree Street, NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tiny Babies\n8105 Valley Ridge Drive\n\nUnion City, GA 30291",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cheseed Information Technologies, Inc.\n1116 Old Covington Highway SE\n\nConyers, GA 30012",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Dental Association\n3490 Piedmont Rd. NE\nSuite 110\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/18/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson for Senate\n2643 Sterling Acres Drive\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/19/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Waste Management\np.o. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/04/2010\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Link Pac for Good Government\n50 Hurt Plaza\nSuite 800\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/21/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GTLA's Civil Justice PAC - Georgia Trial Lawyers Association\n101 Marietta Street Northwest\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2011June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115664&Name=James,%20Donzella%20J.&Year=2011&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Association of Educators\n100 CRESCENT CENTRE PARKWAY\nSUITE 500\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/03/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "UNITED FOOD AND COMMERCIAL WORKERS LOCAL 1996\n3302 MCGINNIS FERRY RD\nSUITE 201\nSuanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/01/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "North Georgia Building and Construction Trades Council\n501 Pulliam Street Southwest\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/03/2011\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "D.R.I.V.E. DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION\n25 LOUISIANA AVE., NW\n\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/03/2001\nMonetary\nPrimary\n2011",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2011December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=110344&Name=James,%20Donzella%20J.&Year=2011&Report=December%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2010December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115663&Name=James,%20Donzella%20J.&Year=2010&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Waste Management\np.o. Box 3027\n\nHouston, TX 77253",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/04/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2010October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115656&Name=James,%20Donzella%20J.&Year=2010&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GILA Consumer Credit People for Responsible Government\nP. O. Box 801\n\nMacon, GA 31302",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2010September30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115662&Name=James,%20Donzella%20J.&Year=2010&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Association of Educators\n100 CRESCENT CENTRE PARKWAY\nSUITE 500\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/02/2010\nMonetary\nRun-Off Special\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,200.00"
+        }
+      ]
+    },
+    {
+      "report": "2010June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=115661&Name=James,%20Donzella%20J.&Year=2010&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Committee for affortable workforce housing\nP.O.Box 7511\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Trial Lawyers Assoc.\n101 MARIETTA ST. NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/08/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Responsible Healthcare Policy\n1231 Collier DR\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/24/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Sholondrell Taylor\n1086 Forest Glen\n\nJonesboro, GA 30238",
+          "PACOccupationEmployer": "\nBusiness Owner\nSelf Employed",
+          "receivedTypeElection": "06/25/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Outdoor advertising assoc. of GA.,Inc.\nP.O.Box 631\n\nCumming, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/25/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Atlanta Federation Of Teachers\n4 Executive Park East NE\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/10/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Hotel And Lodging\n3318 HWY 5\n\nDouglasville, GA 30135",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/23/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "GA Dental Assoc. PAC\n3490 Piedmont Rd.NE\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/13/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "MRB,Inc.\n7490 Old Natonal Hwy.\n\nRiverdale, GA 30296",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,400.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Henson For Senate\n2643 Sterling Acres Dr.\n\nTucker, GA 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/27/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "U-Tires,Inc.\n6320 Fairburn Road\n\nDouglasville, GA 30134",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/28/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Atlanta Coca Cola Inc.\n50 Hurt Plaza\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/10/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Woody Johnson\n5534 Old National Hwy\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nowner\nSouthwest Properties",
+          "receivedTypeElection": "05/01/2010\nIn-Kind\nPrimary\n2010",
+          "inKindDescription": "office space",
+          "inKindAmount": "$400.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Joe Beasley\n87 Peachtree Street\n\nAtlanta, GA 30330",
+          "PACOccupationEmployer": "\nRetired\nnone",
+          "receivedTypeElection": "06/27/2010\nIn-Kind\nPrimary\n2010",
+          "inKindDescription": "reception",
+          "inKindAmount": "$500.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Diedre Dozier\n.PO Box 742413\n\nRiverdale, GA 30274",
+          "PACOccupationEmployer": "\nGraphic Artist\nself employed",
+          "receivedTypeElection": "05/10/2010\nIn-Kind\nPrimary\n2010",
+          "inKindDescription": "designed invites,postcards,and logo",
+          "inKindAmount": "$300.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Waste Management\np.o. Box 3027\n\nHouston, TX 77002",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/02/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Aflac, Inc.\n1932 WYNNTON RD\n\nColumbia, GA 31999",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/04/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Coca-Cola Company\nP.O. Box 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/21/2010\nMonetary\nGeneral\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Democratic Party of Georgia\n763 Trabert Avenue Northwest\n\nAtlanta, GA 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/04/2010\nMonetary\nPrimary\n2010",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,400.00"
+        }
+      ]
+    },
+    {
+      "report": "2010March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=110341&Name=James,%20Donzella%20J.&Year=2010&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "20096Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=110340&Name=James,%20Donzella%20J.&Year=2009&Report=6%20Days%20Before%20Primary%20Run-Off",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2009December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=23749&Name=James,%20Donzella%20J.&Year=2009&Report=December%2031st%20-%20Special%20Election",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Georgia Chiropractic Assn.\n3163 Blair Hill Court\n\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/18/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tony Bryant\n1851 Hawthorne Ave\n\nCollege Park, GA 30337",
+          "PACOccupationEmployer": "\nSelf-Employed\nOwner",
+          "receivedTypeElection": "11/08/2009\nIn-Kind\nRun-Off Special\n2009",
+          "inKindDescription": "Office Space",
+          "inKindAmount": "$200.10",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Donzella James\n3800 Pittman Road\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nCandidate\nRetired",
+          "receivedTypeElection": "11/18/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Mitizi Bickers\n4405 Mall Blvd\nSuite 321\nUnion City, GA 30291",
+          "PACOccupationEmployer": "\nPolitician\nAtlanta",
+          "receivedTypeElection": "11/23/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Howard Billingslea Jr.\nP.O. Box 490261\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "11/19/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Stephen Chapman\n3383 Somerset Trace SE\n\nMarietta, GA 30067",
+          "PACOccupationEmployer": "\nChairman\nHealth Logix",
+          "receivedTypeElection": "11/16/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Chike Health Care Center\n2220 Atlanta Rd.\nSuite 112\nSmyarna, GA 30080",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/21/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Publix Super Markets\nP.O. Box 407\n\nLakeland, FL 33802",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/10/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Akwokwo Red Head\n1370 Cascade Falls Dr.\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "11/13/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Hubert Ricks\n4265 Hidden Valley Dr.\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "11/17/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Valencia Sery for Senate\nP.O. Box 491498\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "Politician\n\n",
+          "receivedTypeElection": "11/14/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "The Barnes Law Group LLC\n31 Atlanta Street\n\nMarietta, GA 30061",
+          "PACOccupationEmployer": "Attorney\n\n",
+          "receivedTypeElection": "11/27/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "MRB, Inc.\n7400 Old National Hwy\n\nRiverdale, GA 30296",
+          "PACOccupationEmployer": "Owner\n\n",
+          "receivedTypeElection": "11/27/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Nwachukwu Associates\n3350 Riverwood Pkwy SE\nSuite 1900\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "Attorney\n\n",
+          "receivedTypeElection": "11/26/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$175.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Colet I. Odenigbo\n4548 Tulip Ct.\n\nLithonia, GA 30038",
+          "PACOccupationEmployer": "\nAttorney\nSelf-Employed",
+          "receivedTypeElection": "11/24/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Plaza Enterprises Ltd.\n1634 Jonesboro Rd. SE\n\nAtlanta, GA 30315",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/24/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Aaron L. Tookes\n3607 Waldrop Farms Dr.\n\nDecatur, GA 30034",
+          "PACOccupationEmployer": "\nPrincipal\nAtlanta Public Schools",
+          "receivedTypeElection": "11/17/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Barbara J. Woods\nP.O. Box 656\n\nThomasville, GA 36784",
+          "PACOccupationEmployer": "\nHousewife\nHousewife",
+          "receivedTypeElection": "11/30/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tracey Wyatt\n3638 Main St. Apt. 2\n\nCollege Park, GA 30337",
+          "PACOccupationEmployer": "\nCity Council\nCollege Park",
+          "receivedTypeElection": "10/30/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Cindi Johnson\n6635 Meadow Lark Dr.\n\nRiverdale, GA 30296",
+          "PACOccupationEmployer": "\nHousewife\nSelf",
+          "receivedTypeElection": "11/30/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Michael Ross\n395 Central Park #120\n\nAtlanta, GA 30312",
+          "PACOccupationEmployer": "\nAttorney\nSelf",
+          "receivedTypeElection": "11/30/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "MRB, Inc.\n7400 Old National Hwy\n\nRiverdale, GA 30296",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/01/2009\nIn-Kind\nRun-Off Special\n2009",
+          "inKindDescription": "Food Catering",
+          "inKindAmount": "$400.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Woody Johnson\n5534 Old National Hwy\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nOwner\nSouthwest Properties",
+          "receivedTypeElection": "11/04/2009\nIn-Kind\nRun-Off Special\n2009",
+          "inKindDescription": "Office Space",
+          "inKindAmount": "$580.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tony Bryant\n1851 Hawthorne Ave\n\nCollege Park, GA 30337",
+          "PACOccupationEmployer": "\nMortgage Banker\nSelf",
+          "receivedTypeElection": "11/04/2009\nIn-Kind\nRun-Off Special\n2009",
+          "inKindDescription": "Office Space",
+          "inKindAmount": "$626.98",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Thomas Jackson\n1280 Dennis Jackson Ave\n\nThomasville, AL 36784",
+          "PACOccupationEmployer": "\nPolitician\nAlabama",
+          "receivedTypeElection": "10/30/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Nsuhoreidem Ekpenyong\n2709 Old Rex Morrow Rd\n\nEllenwood, GA 30294",
+          "PACOccupationEmployer": "\nReal estate Agent\nEagles Realty",
+          "receivedTypeElection": "10/31/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Don Keith Anderson\nP.O. Box 490233\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nReal Estate Broker\nSelf",
+          "receivedTypeElection": "11/27/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Atlanta Chiropractic Injury Center\n342 W. Peachtree St. NW\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/04/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Joseph Beasley\n87 Peachtree St. Apt. 307\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\nRetired\nNone",
+          "receivedTypeElection": "11/20/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Mitizi Bickers\n4405 Mall Blvd Ste 321\n\nUnion City, GA 30291",
+          "PACOccupationEmployer": "\nPolitician\nAtlanta, Georgia",
+          "receivedTypeElection": "10/31/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tracey Wyatt\n3638 Main St. Apt 2\n\nCollege Park, GA 30337",
+          "PACOccupationEmployer": "\nCity Council\nCollege Park, Georgia",
+          "receivedTypeElection": "11/04/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Woody Johnson\n5534 Old National Hwy\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nOwner\nSouthwest Properties",
+          "receivedTypeElection": "10/20/2009\nIn-Kind\nRun-Off General\n2009",
+          "inKindDescription": "Office Space",
+          "inKindAmount": "$150.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Nwachukwu Associates\n3350 Riverwood Parkway SE Ste 1900\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/21/2009\nMonetary\nRun-Off Special\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "200915Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=5706&FilerID=C2009000059&CDRID=23635&Name=James,%20Donzella%20J.&Year=2009&Report=15%20Days%20Before%20Special%20Election",
+      "data": [
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Atlanta Chiropractic Injury Center\n342 W. Peachtree St. NW\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/17/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Timothy Wright\n5270 Binford Pl.\n\nAtlanta, GA 30331",
+          "PACOccupationEmployer": "\nGardener\nSelf",
+          "receivedTypeElection": "07/23/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Shamrock Promotions\n2039 Metropolitan Pkwy\n\nAtlanta, GA 30315",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2009\nIn-Kind\nSpecial\n2009",
+          "inKindDescription": "Advertising",
+          "inKindAmount": "$230.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Preston Twyman\nP.O. Box 490336\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nRetired\nU.S. Government",
+          "receivedTypeElection": "08/14/2009\nIn-Kind\nSpecial\n2009",
+          "inKindDescription": "Stakes for yard signs/Lowe's",
+          "inKindAmount": "$163.89",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Preston Twyman\nP.O. Box 490336\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\nRetired\nU.S. Government",
+          "receivedTypeElection": "08/28/2009\nIn-Kind\nSpecial\n2009",
+          "inKindDescription": "Candidates Cell Phone",
+          "inKindAmount": "$170.65",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Gloria Rudolph\n157 Brittany Lane\n\nSenoia, GA 30276",
+          "PACOccupationEmployer": "\nRetired\nMilitary",
+          "receivedTypeElection": "08/29/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Biofuels Racing Alliance\nP.O. Box 615\n\nUnion City, GA 30291",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/29/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Woody Johnson\n5534 Old National Hwy\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/01/2009\nIn-Kind\nSpecial\n2009",
+          "inKindDescription": "Office Space 07/01/09-10/19/09",
+          "inKindAmount": "$1,090.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Tony Bryant\n1851 Hawthorne Ave.\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/01/2009\nIn-Kind\nSpecial\n2009",
+          "inKindDescription": "Office Space 07/01/09-10/19/09",
+          "inKindAmount": "$1,453.46",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Hill Winfred\n395 Cairo St. NW\n\nAtlanta, GA 30314",
+          "PACOccupationEmployer": "\nDeputy\nFulton County",
+          "receivedTypeElection": "09/30/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Lelar Legal\n2299 Peachtree Road\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/14/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "James, Donzella J.",
+          "contribName": "Thomas Sampson\n3355 Main St.\n\nAtlanta, GA 30337",
+          "PACOccupationEmployer": "\nAttorney\nSelf",
+          "receivedTypeElection": "10/12/2009\nMonetary\nSpecial\n2009",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    }
+  ]
+}

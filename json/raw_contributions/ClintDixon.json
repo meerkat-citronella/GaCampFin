@@ -1,0 +1,3362 @@
+{
+  "lastUpdated": "Fri Feb 05 2021 12:52:50 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Clint Dixon",
+    "fileName": "ClintDixon",
+    "displayName": "Clint Dixon",
+    "district": "45",
+    "city": "",
+    "party": "Republican",
+    "searchName": ["dixon", "clint"]
+  },
+  "data": [
+    {
+      "report": "2021January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=160771&Name=Dixon,%20Clinton%20Randall&Year=2021&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Charlotte Nash\n3225 Hall Road\n\nDacula, Ga 30019",
+          "PACOccupationEmployer": "\nGwinnett Chairwomen\nGwinnett County Board of Commissions",
+          "receivedTypeElection": "01/06/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Power Company State Employee PAC\n241 Ralph McGill Blvd NE\nroom 36-024\nAtlanta, Ga 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "GaMPAC Georgia Manufacturers PAC\n50 Hurt Plaza\nSuite 985\nAtlanta, Ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/07/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "ACEC Georgia PAC\n233 Peachtree Street\nSuite 700\nAtlanta, Ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Capital City Public Affairs LLC\n3535 Peachtree Road\nSuite 540-348\nAtlanta, Ga 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree Street NW\nSuite 201\nAtlanta, Ga 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "GHA PAC\n1675 Terrell Mill Road\n\nMarietta, Ga 30067",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "CMTE of Automobile retail dealers of georgia\n2060 Powers Ferry Road SE\n\nAtlanta, Ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Pkwy\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia CUPAC\n2810 Premiere Pkwy\nSuite 150\nDuluth, Ga 30097",
+          "PACOccupationEmployer": "30097\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "georgia mining assoc committee for good government\n113 arkwright landing\nsuite a\nmacon, ga 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Redspeed Georgia LLC\n400 Eisenhower Lane north\n\nlombard, il 60148",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "American Federation for Children Action Fund Georgia PAC\n228 S Washington Street\nSuite 115\nAlexandria , VA 22314",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "committee for responsible health care policy\n1231 collier road nW\nsuite j\natlanta, ga 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgialink PAC for Good Government\n50 Hurt Plaza Suite 800\n\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Restaurant Association pAC\n260 Peachtree Street NW\nSuite 1901\nAtlanta, Ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "American Traffic Solutions Inc\n1150 North Alma School Rd\n\nMesa, AZ 85201",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Optometric Association PAC\n400 W Peachtree Street NW\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2021\nIn-Kind\nPrimary\n2022",
+          "inKindDescription": "Floor Leader's Luncheon",
+          "inKindAmount": "$310.80",
+          "cashAmount": "$0.00"
+        }
+      ]
+    },
+    {
+      "report": "2020December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=159030&Name=Dixon,%20Clinton%20Randall&Year=2020&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jason Broce\n1360 White Road\n\nWhite, GEORGIA 30184",
+          "PACOccupationEmployer": "\nGovernment Affairs\nself employed",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Shane mobley\n5400 riverside drive\n\nmacon, ga 31210",
+          "PACOccupationEmployer": "\nHealthcare\nAvilys Sleep & eEG",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Chris Gray\n3052 Biltmore woods drive\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nconstruction\nt5",
+          "receivedTypeElection": "11/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Community Management Associates INC\n1465 northside drive nW\n\natlanta, ga 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "charles nancy\n5783 ivywood drive\n\nlithonia, ga 30038",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$25.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "elect bonnie rich\npO box 663\n\nsuwanee, ga 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Professional Sports Integrity Alliance PAC\n1600 parkwood circle se\nsuite 200\natlanta, GEORGIA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "uPSPAC\n55 glenlake pkwy nE\n\natlanta, ga 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Chamber Political Affairs Council INC PAC\n270 Peachtree St NW Suite 2200\n\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Lawsuit Reform PAC Inc\n270 Peachtree St NW Suite 2200\n\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgialink PAC for Good Government\n50 Hurt Plaza Suite 800\n\nAtlanta, GEORGIA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Parker Poe Consulting lLC\n1180 peachtree street nE\nsuite 3300\natlanta, ga 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "cARD of Georgia\npO Box 725154\n\natlanta, ga 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia highway contractors assoc & georgia asphalt pavement association pAC\n3655 boorkside pkwy\nsuite 165\nalpharetta, ga 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Wholesalers For Better Government INC\n15 Perry Street\n\nnewnan, GEORGIA 30263",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "committee for responsible health care policy\n1231 collier road nW\nsuite j\natlanta, ga 30318",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrum Drive Suite 100\n\nLawrenceville, GEORGIA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Builders Political Action Committee\n3015 Camp Creek Parkway\n\nAtlanta, GEORGIA 30344",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "George P Flanigan\n3633 Marys View Ln\n\nDacula, GEORGIA 30019",
+          "PACOccupationEmployer": "\nOwner\nGP's Enterprises",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "committee to elect lee anderson anderson for state senate\n160 louisville rd\nSuite 225\ngrovetown, GEORGIA 30813",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tippins for state senate\n139 Midway Road NW\n\nMarietta, georgia 30064",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "RAI Services company\npO box 464\n\nwinston-salem, nc 27102",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia EMC PAC\n2100 East Exchange Place\nSuite 509\ntucker, ga 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "southeastern gin and peanut\n1019 morris road\n\nsurrency, ga 31563",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "GA cable association PAC\n2300 windy ridge pkwy\nsuite 205-s\natlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "the coca cola company GA PAC\npO box 1734\n\natlanta, ga 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "georgia construction aggregate\n9810 medlock bridge rd\nsuite a202\nduluth, ga 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "friends to elect burt jones\nPO Box 767\n\nJackson, GEORGIA 30233",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "JLCS Enterprises INC\n3300 Millwater Crossing\n\nDacula, GEORGIA 30019",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "The Jones Company\nPO Box 2266\n\nWaycross, GEORGIA 31502",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "NFIB Georgia Political Action Committee\n555 - 12th street\nsuite 1001\nwashington, dc 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Riverwoods Behavioral Health LLC\n233 Medical Center Dr\n\nRiverdale, ga 30274",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "ACPAC Automobile Club\n1197 Johnson Ferry Rd\n\nMarietta, ga 30068",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Managed Care with Heart Co PAC\nPO Box 307328\n\nColumbus, OH 43230",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Joshua Mackey\n1393 Noel Drive\n\nBrookhaven , ga 30319",
+          "PACOccupationEmployer": "\nPrincipal\nCapital City Public Affairs",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Prime Consulting Inc\n3671 Tuggle Rd.\n\nBuford, ga 30519",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Professional Sports Integrity Alliance PAC\n1600 parkwood circle se\nsuite 200\natlanta, GEORGIA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "GeorgiaCAN Action Fund PAC\n1625 K Street NW\nSuite 400\nWashington, dc 20006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Metro Atlanta Chamber Political Action Committee\n191 Peachtree Street NE\nSuite 3400\nAtlanta, Ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=157812&Name=Dixon,%20Clinton%20Randall&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "John Kennedy for State senate\npO box 6236\n\nmacon, ga 31208",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "joseph newton\n1810 park colony drive\n\nnorcross, ga 30093",
+          "PACOccupationEmployer": "\nElectrical Contractor\nself employed",
+          "receivedTypeElection": "10/07/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "william hickman\npO box 727\n\nstatesboro, ga 30459",
+          "PACOccupationEmployer": "\nAccountant\npartner",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "beach for senate inc\n3100 brierfield road\n\nalpharetta, ga 30004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Greg shumate\n1255 Lakes Pkwy\n\nLawrenceville, ga 30043",
+          "PACOccupationEmployer": "\nMortgage lending\ncapital city home loans",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "gene arrant\n2720 Mall of Ga blvd\nsuite 104\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nagent\nstate farm",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$25.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "rick mcCorkle\n785 meadowsong circle\n\nlawrenceville, gA 30043",
+          "PACOccupationEmployer": "\nsoftware developer\nprofessional software inc",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "scott burgamy\n1822 hidden creek drive\n\nhoschton, ga 30548",
+          "PACOccupationEmployer": "\ninside sales\nadvantage industrial automation",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "matt brass\npO box 1313\n\nnewnan, ga 30264",
+          "PACOccupationEmployer": "\nbusiness consultant\nbrass construction LLC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "darrell mcWaters\npO box 2655\n\nloganville, GA 30052",
+          "PACOccupationEmployer": "\nHome builder\nreliant homes",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "chris hill\npO box 1929\n\nbuford, ga 30515",
+          "PACOccupationEmployer": "\nowner builder\nhillgrove homes",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "kent levenson\n3525 piedmont rd nE\n\natlanta, ga 30305",
+          "PACOccupationEmployer": "\nreal estate\nparkside equity",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "kevin walch\n3015 promenade place\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nproject engineer\nstepan",
+          "receivedTypeElection": "10/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$25.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "john christian\n3929 amicalola way\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\ngeneral manager\ntrue staffing",
+          "receivedTypeElection": "10/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "bowen family homes\n390 brogdon road\n\nsuwanee, ga 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "bernie smith\n1110 willow bend\n\nroswell, ga 30075",
+          "PACOccupationEmployer": "\nowner\nself employed",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "elisabeth brown\n2543 ivy creek road northeast\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "10/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "kassi derCola\n4309 chatham view drive\n\nBuford, ga 30518",
+          "PACOccupationEmployer": "\ngwinnett county\nfirefighter",
+          "receivedTypeElection": "10/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "georgia mining assoc committee for good government\n113 arkwright landing\nsuite a\nmacon, ga 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "John Gibb\n6597 old garrett road\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nvP business development\nformetco",
+          "receivedTypeElection": "10/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Deborah Wilbanks\n3962 ivy gate drive northeast\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nattorney\nself employed",
+          "receivedTypeElection": "10/19/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "brian foster\n1674 peachcrest court\n\nlawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nWeb developer\nsafeguard international",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Daniel Gregory\n2367 kesgrove way\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nmedical sales\naLK",
+          "receivedTypeElection": "10/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "AT&T Ga PAC\n675 West Peachtree Street NW\nroom 36-024\natlanta, ga 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "fredrick fox\n6035 ambercrest court\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nwriter publisher\nself employed",
+          "receivedTypeElection": "10/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$5.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "jesse c stone campaign account\n827 north liberty street\n\nwaynesboro, ga 30830",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "21st Century Majority Fund\npO box 20475\n\natlanta, ga 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/19/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "larry walker for state senate\n1110 washington street\n\nperry, ga 31069",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "george berkow\n4759 dunwoody station drive\n\ndunwoody, ga 30338",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "10/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Andy perkins\n5282 palmero court\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nbusiness owner\nCustom Design Kitchens",
+          "receivedTypeElection": "10/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=156429&Name=Dixon,%20Clinton%20Randall&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Friends of David Still\nPO Box 686\n\nlawrenceville, ga 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Craig & Teresa Chafin\n2022 Stonewater Ct\n\nHoschton, GA 30548",
+          "PACOccupationEmployer": "\nHome Builder\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "09/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Associated General Contractors of Ga PAC\n1940 The Exchange\nsuite 100\natlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tara fine jewelry\n1829 buford hwy\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Atlanta Game World\n5980 Unity Drive\nSuite G\nNorcross, GA 30071",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "RCR Capital Consulting, LLC\nPO Box 9006\n\nAtlanta, GA 31106",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bartow Morgan\nPO Box 111\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\nExecutive\nRenasant Bank",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "CARD oF Georgia\npO Box 725154\n\natlanta, ga 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Contractors, Closers & Connections, LLC\n1525 Pine Creek Way\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Anthony Powell\nPO Box 1362\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\nAttorney\nPowell & Edwards",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jace Brooks for Gwinnett\nPO Box 2183\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jim Nash\n163 E Oak Street\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\nRealtor\nMajors Realty LLC",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Braselton Aesthetics LLC\n1569 Janmar Road\nSuite B\nSnellville, GA 30078",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "V-tAC Communications\n1674 tray smith road\n\nmonroe, GA 30656",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jeff Mahaffey\n2782 Tribble Mill Road\n\nLawrenceville, Georgia 30045",
+          "PACOccupationEmployer": "\nAttorney\nMahaffey Pickens Tucker, LLP",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Elect matt dereimer lLC\n3014 Rhonda Melisa Ct\n\nDacula, gA 30019",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$99.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Kelly Almond\n1730 peachcrest drive\n\nlawrenceville, ga 30043",
+          "PACOccupationEmployer": "\nsafety director\nCyclone Land Development Co",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Lee Tucker\n1550 North Brown Road\n\nLawrenceville , GA 30043",
+          "PACOccupationEmployer": "\nAttorney\nMahaffey Pickens Tucker, LLP",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "friends to elect burt jones\npO Box 767\n\njackson, ga 30233",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Virginia Barber\n2918 Major Ridge Trail\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\nInformation Requested\nInformation Requested",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "tyler harper for georgia\npO box 798\n\nocilla, ga 31774",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "mike dugan for state senate\n106 champion drive\n\ncarrollton, ga 30116",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Chunghee Park\n2200 Enclave Mill Drive\n\nDacula, GA 30019",
+          "PACOccupationEmployer": "\nInformation Requested\nInformation Requested",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "larry walker for state senate\n1110 washington street\n\nperry, ga 31069",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "matthew retter\n6601 garrett road\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nexecutive\nbillings retter and associates",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Gaganjot Sambi\n1085 Old Tucker Road\n\nStone Mountain , GA 30087",
+          "PACOccupationEmployer": "\nOwner\nViraj 14 LLC",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Benjamin Wood\n999 Cresent River Pass\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\nVice President\nA.L. Grading Contractors",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "lori forrester\n4085 biltmore woods ct\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\naccount manager\nthe john maxwell company",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Marty Kennedy & Associates\n6263 Ivy Stone Way\n\nHoschton, GA 30548",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "brad weeks\n2570 heritage court\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nbuford city commissioner\ncity of buford",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brad Hughes\nPO Box 1572\n\nGainesville, GA 30503",
+          "PACOccupationEmployer": "\nAquisition Manager\nSentinel Properties, Inc",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "premier residential builders hC LLC\n4984-b u bowman drive\nsuite 106\nbuford, ga 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "John D Stephens\n6224 Sugarloaf Parkway\nSuite 160\nDuluth, Ga 30097",
+          "PACOccupationEmployer": "\nReal Estate Investor\nJDS Holdings",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "matthew peevy\n125 victor drive\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nboard member\nbuford board of education",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Senior Living LLC\n6340 Sugarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "anthony powell\npO box 1362\n\nlawrenceville, ga 30046",
+          "PACOccupationEmployer": "\nattorney\npowell and edwards law",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "elizabeth pritchard\n4024 asheville drive\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nowner\ne pritchard designs",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "John Barnard\n12 Buford Village Walk\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nSenior Vice President and Commercial Lender\nFirst American Bank",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Anthony Wood\n505 Cobblestone Drive\n\nAtlanta, GA 30342",
+          "PACOccupationEmployer": "\nPresident and CEO\nA.L. Grading Contractors",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "georgia better government fund\n8601 dunwoody place\nsuite 318\natlanta, ga 30350",
+          "PACOccupationEmployer": "Georgia Apartment Association\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "V-TAC Communications LLC\n1674 Troy Smith Road\n\nMonroe, GA 30656",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "georgia orthopedic society pAC\n131 holly springs dr\n\npeachtree city, ga 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Charles Efstration\n923 Port West Drive\n\nAuburn, GA 30011",
+          "PACOccupationEmployer": "\nAttorney\nThe Efstration Law Firm, PC",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "greg cantrell\n285 s perry st\n\nlawrenceville, ga 30046",
+          "PACOccupationEmployer": "\nreal estate agent\nlivingstone properties",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Clifford Kennedy\n3460 Moye Trail\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\nOwner\nKennedy development Co.",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "the committee to elect butch miller\npO box 7475\n\nchestnut mountain, ga 30502",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "aCEC georgia pAC\n233 peachtree stree\nsuite 700\natlanta, ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "David Bowen\nPO Box 401\n\nBuford, GA 30515",
+          "PACOccupationEmployer": "\nReal Estate\nSouthern Heritage Homes",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "pittman construction\npO box 155\n\nconyers, gA 30012",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia association of realtors pAC\n6065 barfield road\n\natlanta, ga 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Andrew Reisman\n3720 Griffin Frive\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\nPhysician\nLongstreet Clinic",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "cartuga three lLC\n1790 millside terrace\n\ndacula, ga 30019",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Eric Cape\n390 Brogdon Road\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\nSedgefield Cape, LLC\nManaging Partner",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "mike phelps\n390 Brogdon Road\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\nHome Builder\nhOME sOUTH cOMMUNITIES",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "john martin\n250 park avenue\n\natlanta, ga 30313",
+          "PACOccupationEmployer": "\nprincipal\ngeorgia link public affairs group",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "foodpros enterprises inc\npO box 1585\n\nbuford, ga 30515",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Michael B Phelps\n3170 Caldwell Road\n\nBrookhaven, GA 30319",
+          "PACOccupationEmployer": "\nHome Builder\nSouthern Heritage Homes",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "glynn lamberton\n1052 anthony dr\n\nsugar hill, ga 30518",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Kevin Whitehead\n2242 Crimson King Drive\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\nlanning and Development Director\nCity of Braselton",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "jesse c stone campaign account\n827 n liberty street\n\nwaynesboro, ga 30830",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Retnuh Consulting Services\n5048 Stefan Ridge Way\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "william russell\n3000 sugarloaf club drive\n\nduluth, ga 30097",
+          "PACOccupationEmployer": "\nowner\nrussell landscaping",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Sublime LLC\n1110 Willow Bend\n\nRoswell, GA 30075",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Avalon Real Estate Partners\n3340 Peachtree Road, NE\nSuite 1660\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia POS Solutions, Inc.\n5225 LJ Martin Drive\n\nGainesville, GA 30507",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "james reynolds\n2561 lake oconee pkwy\n\ngreensboro, ga 30642",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Christopher Harris\n4062 Peachtree Road\nA27\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nVice President of Purchasing\nAshton Woods",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "CKK Development Services, LLC\n270 North Clayton Street\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Charles Ladd\n8395 Pe Ridge Road\n\nCornelia, GA 30531",
+          "PACOccupationEmployer": "\nPilot\nDelta Air Lines",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Ann Jones\n6300 Jones Road\n\nFlowery Branch, GA 30542",
+          "PACOccupationEmployer": "\nOwner\nJones Cutting Horses",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Bankers PAC\n50 Hurt plaza\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "mitchell stephens\n4351 pleasantdale rd\n\natlanta, ga 30340",
+          "PACOccupationEmployer": "\nowner\nmetro green recycling",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "jennifer stephens\n4351 pleasantdale rd\n\natlanta, ga 30340",
+          "PACOccupationEmployer": "\nhomemaker\nnone",
+          "receivedTypeElection": "08/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "David Jenkins\n3505 Koger Blvd.\nSuite 275\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\nOwner\nRocklyn Homes",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "AFLAC\n1932 Wynnton Road\n\nColumbus, GA 31999",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Friends of John Wilkinson\nPO Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "William Stacy Britt\nPO Box 929\n\nGrayson, GA 30017",
+          "PACOccupationEmployer": "\nOwner\nBritt Angus Farm",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Precise Development Group, Inc.\nPO Box 448\n\nFlowery Branch, GA 30542",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Southern Real Estate Holdings LLC\n355 Brogdon Road\nSuite 211\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Chafin Realty\n5230 Belle Wood Court\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "MAG Mutual GA PAC\nPO Box 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Roy Doyal\n5325 Northside Drive\n\nSandy Springs, GA 30327",
+          "PACOccupationEmployer": "\nOwner\nMEENY LLC",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "E2E Benefits Services, Inc.\n2905 Premiere Parkway\nSuite 285\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tina Chafin\n1884 Sam Sneed Drive\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\nHomemaker\nNone",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Eric Chafin\n1884 Sam Sneed Drive\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\nPresident\nChafin Communities",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Richardson Housing Group LLC\n290 Constitution Blvd\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Veterans' Memorial Coalition INc\nPO Box 6893\n\nGainesville, GA 30504",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Republican Party of Gwinnett County\nPO Box 225\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Troutman Sanders LLP GA PAC\n600 Peachtree Street, NE\nSuite 3000\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "QuikTrip Corporation\nPO Box 3475\n\nTulsa, GA 74101",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "IIA of GA Inc. PAC\n4555 Mansell Road\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Marvin Hewatt\nP.O. Box 229\n\nLawrenceville, GA 30045",
+          "PACOccupationEmployer": "\nPetroleum Industry\nMajors Management, LLC",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brand Morgan\n3328 Peachtree Road, NE\nSuite 100\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nReal Estate\nBrand Properties",
+          "receivedTypeElection": "09/10/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Catering Services",
+          "inKindAmount": "$2,800.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jennifer Morgan\n3328 Peachtree Road, NE\nSuite 100\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nOwner\nEleanors Place",
+          "receivedTypeElection": "09/10/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Catering Services",
+          "inKindAmount": "$178.05",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brand Properties\n3328 Peachtree Road, NE\nSuite 100\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/10/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Goods and Services",
+          "inKindAmount": "$2,800.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "mark gorman\n1830 Mckendree lake drive\n\nlawrenceville, ga 30043",
+          "PACOccupationEmployer": "\ndirector of security\nallied universal",
+          "receivedTypeElection": "07/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$40.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Greg Shumate\n1255 lakes pkwy\nbuilding 300 suite 300\nlawrenceville, GEORGIA 30043",
+          "PACOccupationEmployer": "\nManaging partner\ncapital city home loans",
+          "receivedTypeElection": "07/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "darrell mcwaters\nPO Box 1762\n\nLoganville, Ga 30052",
+          "PACOccupationEmployer": "\ncEO\nhome builder",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Daryl Chafin\n2032 Stonewater court\n\nhoschton, ga 30548",
+          "PACOccupationEmployer": "\nprincipal\nhome builder",
+          "receivedTypeElection": "07/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "terry jondahl\n6009 lanier heights circle\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\ncEO\ncAB inv",
+          "receivedTypeElection": "07/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "valerie hewatt\n1895 kathy whitworth dr\n\nbraselton, ga 30517",
+          "PACOccupationEmployer": "\nself employed\nself employed",
+          "receivedTypeElection": "07/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "gail laberge\n3862 morgans ridge drive\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "08/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "fuqua develpment\n3575 piedmont road nE\n\natlanta, ga 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "jacob crowe\n1121 timber glen ct sW\n\nlilburn, ga 30047",
+          "PACOccupationEmployer": "\nowner\ncrowe farms bogart ga lLC",
+          "receivedTypeElection": "08/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "rachel cartwright\n847 highway 124\nsuite b\nbraselton, ga 30517",
+          "PACOccupationEmployer": "\nreal estate agent\nbravo pM and realty",
+          "receivedTypeElection": "08/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "cade joiner\n3901 byrnwyck pl nE\n\natlanta, ga 30319",
+          "PACOccupationEmployer": "\nself employed\ninvestor",
+          "receivedTypeElection": "08/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "gary brock\n3533 roxboro road nE\n\natlanta, ga 30326",
+          "PACOccupationEmployer": "\nreal estate\nself employed",
+          "receivedTypeElection": "08/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "almont homes\n4411 suwanee dam road\nsuite 750\nsuwanee, ga 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "erik adams\n43 cherokee trail\n\nhoschton, ga 30548",
+          "PACOccupationEmployer": "\nowner\nmill creek construction & contracting inc",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "rob renno\n1320 faircrest ln\n\nalpharetta, ga 30004",
+          "PACOccupationEmployer": "\nland developer\nself employed",
+          "receivedTypeElection": "09/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "jeff copper\n3312 glen devon lane\n\nberkeley lake, ga 30096",
+          "PACOccupationEmployer": "\npediatrician\ncooper pediatrics",
+          "receivedTypeElection": "09/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "rachel cartwright\n847 highway 124\nsuite b\nbraselton, ga 30517",
+          "PACOccupationEmployer": "\nsales\nbravo pM and realty",
+          "receivedTypeElection": "09/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "walt rabern\n234 west washington street\n\nmadison, ga 30650",
+          "PACOccupationEmployer": "\nreal estate\nlongleaf realty trust, lLC",
+          "receivedTypeElection": "09/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "earl mitchell\n4120 lansfaire terrace\n\nsuwanee, ga 30024",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "09/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "kimberly getman\n3107 cameron drive\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nhair sylists\nself employed",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "barry sanders\n2217 spring stone ct\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\npresident\nhospice equipment corp",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "john bozeman\n520 fairfield church road\n\njackson, ga 30233",
+          "PACOccupationEmployer": "\npublic affairs\ngeorgia link",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "brandon webb\n5467 winding ridge trail\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\nmanager\nchafin builders",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "russ crosio\n3165 sable ridge drive\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nsales\nself employed",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "nathan powell\n2864 misty rock cove\n\ndacula, ga 30019",
+          "PACOccupationEmployer": "\nlawyer\npowell and edwards law",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "chad lagomarsino\n3320 pebble ridge lane\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nreal estate\nlago group, inc",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "renee byrd-Lewis\n2730 camp branch road\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\nconsultant\ncollective innovations",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "tamara strickland\n6289 wilburn reed road\n\ngainesville, ga 30506",
+          "PACOccupationEmployer": "\nsecretary\nstickland & sons pipeline inc",
+          "receivedTypeElection": "09/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "david muzio\n35 woodridge pl\n\nnewnan, ga 30265",
+          "PACOccupationEmployer": "\nexecutive director\nfamily policy alliance",
+          "receivedTypeElection": "09/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "clay huckaby\n1161 southwind drive\n\nbishop, ga 30621",
+          "PACOccupationEmployer": "\nconsultant\ncapital city public affairs",
+          "receivedTypeElection": "09/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "richard delong\n2732 sardis chase court\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\ncEO\nfood pros",
+          "receivedTypeElection": "09/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "gary harvin\n7747 highway 172\n\ncomer , ga 30629",
+          "PACOccupationEmployer": "\nsurveyor\nearthpro inc",
+          "receivedTypeElection": "09/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "james morgan\npO Box 12174\n\natlanta, ga 30355",
+          "PACOccupationEmployer": "\nfounder\njL morgan co inc",
+          "receivedTypeElection": "09/19/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "lisa kelly\n6220 bannerhorn run\n\nalpharetta, ga 30005",
+          "PACOccupationEmployer": "\ncEO\nGeorgia gOAL scholarship program, inc",
+          "receivedTypeElection": "09/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "marty harbin\n215 greencastle rd\n\ntyrone, ga 30290",
+          "PACOccupationEmployer": "\ninsurance and state senator\nself employed",
+          "receivedTypeElection": "09/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "campaign consulting group lLC\nPO Box 250336\n\natlanta, ga 30325",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "michael freeman\n1230 silverwood court nE\n\nlawrenceville, ga 30043",
+          "PACOccupationEmployer": "\nfilm and TV\nself employed",
+          "receivedTypeElection": "09/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "justin abernathy\n1505 lakes pkwy\nsuite 190\nlawrenceville, ga 30043",
+          "PACOccupationEmployer": "\nprincipal\nabernathy timberlake investments",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "senator jeff mullis victory account\n212 english ave\n\nChickamauga, ga 30707",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "dean burke for ga state senate campaign\n600 w shotwell st\nsuite c\nbainbridge, ga 39819",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "georgia association of realtors pAC\n6065 barfield road\n\natlanta, ga 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "jon guven\n1790 mall of ga blvd\n\nbuford, ga 30519",
+          "PACOccupationEmployer": "\ndeveloper\nariston",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "frank ginn\n5407 wildcat bridge rd\n\nroyston, ga 30662",
+          "PACOccupationEmployer": "\nengineer and farmer\nself employed",
+          "receivedTypeElection": "09/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "friends of valerie clark\n252 regal drive\n\nlawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Creekside Home Builders Group LLC\n4984 b u bowman drive\n\nbuford, ga 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=145513&Name=Dixon,%20Clinton%20Randall&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Rick Delong\n2732 Sardis Chase Court\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "05/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Aaron Rissler\n4080 McGinnis Ferry Road\nSte 203\nAlpharetta, GA 30005",
+          "PACOccupationEmployer": "\nPaving Co.\nSelf",
+          "receivedTypeElection": "05/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bill Russell\n4300 Woodward Way\n\nSugar Hill, GA 30518",
+          "PACOccupationEmployer": "\nRussell Landscaping\nSelf",
+          "receivedTypeElection": "05/20/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Republican State Leadership Committee\n1201 F Street, NW Suite 675\n\nWashington, D. C. 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/25/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tamara Strickland\n6289 Wilburn Reed Road\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "06/01/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "UPS PAC\n55 Glenlake PKWY N.E.\n\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/08/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020April30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=144176&Name=Dixon,%20Clinton%20Randall&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "John Barnard\n2881 North Bogan Rd\n\nBuford, Georgia 30519",
+          "PACOccupationEmployer": "\nBanker\nFirst American Bank and Trust",
+          "receivedTypeElection": "02/15/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "F. Brady Battle\nP.O. Box 410\n\nBuford , Georgia 30515",
+          "PACOccupationEmployer": "\nHome Builder\nSelf",
+          "receivedTypeElection": "03/01/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jeffrey R Mahaffey, PC\n1550 North Brown Road\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$850.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brent Story\n3860 Club Drive NE\n\nAtlanta, GA 30319",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "03/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Chamber PAC\n270 Peachtree Street NW\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/27/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bruce Thompson for Senate\nP.O. Box 2072\n\nAdairsville , GA 30103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/25/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "GILA- Consumer Credit People\nP.O. Box 802\n\nMacon, GA 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Allen Mendenhall\n8430 17th Street N\n\nSt Petersburg, FL 33702",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "04/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jace Brooks For Gwinnett\nP.O. Box 2183\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "GA Automobile Dealers Association\n2060 Powers Ferry Road\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mari Rabern\n782 South Main Street\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "03/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2020January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=142532&Name=Dixon,%20Clinton%20Randall&Year=2020&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jeff Mahaffey\n2782 Tribble Mill Road\n\nLawrenceville, Georgia 30045",
+          "PACOccupationEmployer": "\nAttorney\nMahaffey Pickens Tucker, LLP",
+          "receivedTypeElection": "01/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Lee Tucker\n1550 North Brown Road\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nAttorney\nMahaffey Pickens Tucker, LLP",
+          "receivedTypeElection": "01/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brand Morgan\n3328 Peachtree Road NE\nSuite 1565\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\nReal Estate\nBrand Properities",
+          "receivedTypeElection": "01/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Russ Crosio\n3165 Sable Ridge Drive\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nRetired\nSelf",
+          "receivedTypeElection": "01/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Discovery Funding, LLC\n3244 Isleworth Trce\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Satwant Singh\n1975 Spring Mist Ter\nSuite 1565\nLawrenceville, Georgia 30043",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "01/27/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Scott Burgamy\n1011 Fountain Glen Dr.\n\nLawrenceville , GA 30043",
+          "PACOccupationEmployer": "\nSales\nSelf",
+          "receivedTypeElection": "01/27/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Ray Lunsford\n3525 Hamilton Mill Road\nSuite 3000\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "01/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mitch Peevy\n4387 Trestle Way\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nEngineering\nAlliance Engineering",
+          "receivedTypeElection": "01/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Anderson Tate & Carr, P.C.\n1960 Satellite Blvd.\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/29/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Charles Bannister\n7019 Grand Vista Ln\n\nMonroe, GA 30656",
+          "PACOccupationEmployer": "\nRetired\nSelf",
+          "receivedTypeElection": "01/30/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Erik Adams\n43 Cherokee Trail\n\nHoschton, GA 30548",
+          "PACOccupationEmployer": "\nHome Builder\nSelf",
+          "receivedTypeElection": "01/28/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Charlotte Nash\n3225 Hall Road\n\nDacula, GA 30019",
+          "PACOccupationEmployer": "\nCommissioner\nGwinnett County",
+          "receivedTypeElection": "01/31/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=140714&Name=Dixon,%20Clinton%20Randall&Year=2019&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "David Bowen\nP.O. Box 401\n\nBuford, GA 30515",
+          "PACOccupationEmployer": "\nHome Builder\nHome South Communities",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mike phelps\n390 Brogdon Road\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\nHome Builder\nhOME sOUTH cOMMUNITIES",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mason Family Co.\n1960 Satellite Blvd\nSuite 3000\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "JDS Holdings, LLC\n5173 Pelican Dr.\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tommy Hughes\n4375 Old Hamilton Mill Road\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Prime Consulting, Inc.\n3671 Tuggle Road\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Blue River Development, LLC\n3810 Windermere Pkwy\nSte 504\nCumming GA 30041, GA 30041",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/17/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "CKK Development Services\n270 North Clayton Street\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Kevin Kennerly\n2108 Skybrook Ct\n\nHoschton, GA 30548",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Beth Prichard\n4024 Asheville Ct\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "KC Bowen\nP.O. Box 1127\n\nLawrenceville , GA 30046",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Friends of David Still\nP.O. Box 686\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/06/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jason Anavitarte\n316 Blackberry Run Drive\n\nDallas, GA 30132",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "07/23/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "HINCO Properties\n58 Hickory Grove Church Road\n\nMonroe, GA 30656",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Rachel Cartwright\n965 Duluth Hwy\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Matt Stokes\n5230 Belle Wood Ct\n\nBuford, Georgia 30518",
+          "PACOccupationEmployer": "\nHome Builder\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$249.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Craig & Teresa Chafin\n2022 Stonewater Ct\n\nHoschton, GA 30548",
+          "PACOccupationEmployer": "\nHome Builder\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Ally Beth and Reese Van Beber\nP.O. Box 727\n\nBuford, GA 30515",
+          "PACOccupationEmployer": "\nHome Builder\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mary Grace Dial\nP.O. Box 7814\nSuite 1565\nMarietta, GA 30065",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Ronald and Regina Gay\n1918 Greensferry Gln\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nDirector of fleet Maintenance\nJim Ellis Dealerships",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "James Jacobi\n835 Cooper Sandy Cv\n\nAlpharetta, GA 30004",
+          "PACOccupationEmployer": "\nEngineering\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Discovery Funding, LLC\n3244 Isleworth Trce\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Matthew Retter\n6601 Garrett Road\nSuite 3000\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgian Acres Properties\nP.O. Box 118\n\nBuford, GA 30515",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Perimeter Appraisal and Realty\n277 Scenic HWY\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Precise Development Group\nP.O. Box 448\n\nFlowery Branch, GA 30542",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Haley & Haley Law Group\n4472 Commerce Dr\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Planners & Engineers Collaborative\n350 Research Court\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jason White\n6346 Stonebridge Cove\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "12/17/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Andy Perkins\n5282 Palmero Court\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=29592&FilerID=C2019000025&CDRID=139134&Name=Dixon,%20Clinton%20Randall&Year=2019&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jeff Mahaffey\n2782 Tribble Mill Road\n\nLawrenceville, Georgia 30045",
+          "PACOccupationEmployer": "\nAttorney\nMahaffey Pickens Tucker, LLP",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Eric Chafin\n5230 Belle Wood Ct\n\nBuford, Georgia 30518",
+          "PACOccupationEmployer": "\nHome Builder\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bullard Exteriors\n230 Jackson Ave\n\nBraselton, Georgia 30157",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brittany Pyron\n2161 Spring Sound Ln\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nAccounting\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Chafin Realty\n5230 Belle Wood Ct\n\nBuford, Georgia 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Marvin Hewatt\nP.O. Box 229\n\nLawrenceville, GA 30045",
+          "PACOccupationEmployer": "\nPetroleum Industry\nMajors Management, LLC",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Marvin Hewatt\nP.O. Box 229\n\nLawrenceville, GA 30045",
+          "PACOccupationEmployer": "\nPetroleum Industry\nMajors Management, LLC",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Lee Tucker\n1550 North Brown Road\n\nLawrenceville , GA 30043",
+          "PACOccupationEmployer": "\nAttorney\nMahaffey Pickens Tucker, LLP",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Christopher Harris\n11 Lumpkin Street\n\nLawrenceville, Georgia 30043",
+          "PACOccupationEmployer": "\nHome Builder\nRockhaven Homes",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Thomas Harris\n11 Lumpkin Street\n\nLawrenceville, Georgia 30043",
+          "PACOccupationEmployer": "\nReal Estate\nself",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Powell & Edwards\n10\nLumpkin Street\nLawrenceville , GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "David Bowen\np.o. bOX 401\n\nbUFORD, ga 30515",
+          "PACOccupationEmployer": "\nhOME bUILDER\nhOME sOUTH cOMMUNITIES",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "mike phelps\n390 Brogdon Road\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\nHome Builder\nhOME sOUTH cOMMUNITIES",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Walt Rabern\n782 South Main Street\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nHome Builder\nLong Leaf Realty Tust",
+          "receivedTypeElection": "06/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Long Leaf Realty Tust\n234 W Washington Strret\nLumpkin Street\nMadison, GA 30650",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/29/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "White Horse 70, LLC\n4984 B U Bowman Drive Suite 106\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$249.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Premier Residential Builders\n4984 B U Bowman Drive Suite 106\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$249.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Wayne Mason\n1960 Satellite Blvd\nSuite 3000\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "JDS Holdings, LLC\n5173 Pelican Dr.\n\nCollege Park, GA 30349",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mitch Stephens\n4351 Pleasantdale Road\nSuite 3000\nAtlanta, GA 30340",
+          "PACOccupationEmployer": "\nPiping Contractor\nJohn D. Stephens, INC.",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brand Properties\n3328 Peachtree Road NE\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "MEA Family Investments, LP\n4398 Lochso Ln\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Dave Davis WM Stacey Britt\n451 Huff St\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Greg Cantrell\n285 S. Perry Street\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\nReal Estate\nLiving Stone Properties",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "JLCS Enterprises, INC\n3300 Millwater Crossing\n\nDacula, GA 30019",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Northside Commons Builders, LLC\n5209 Palmero Ct\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Stephen Hill\n5720 Gene Sarazen Drive\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\nDeveloper\nSelf",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,400.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Wildlife Taxidermy\n287 West Pike Street\n\nLawrenceville , GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Chris Hill\n4329 Sandy Hill Road\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nReal Estate\nHillWood Realty",
+          "receivedTypeElection": "05/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Richard Swope\n1505 Lakes Parkway\n\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nDeveloper\nSelf",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Friends of Tommy Hunter\n5048 Stefan Ridge Way\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/15/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bob Clark\n252 Regal Drive\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Richardson Housing Group, LLC\n290 Constitution Boulevard\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bay County Management, LLC\nP.O. Box 229\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Prime Consulting, Inc.\n3671 Tuggle Road\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "brad Heard\n3671 Tuggle Road\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jon Guven\n1790 Mall Of Georgia Blvd\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nJewelry\nGuven's Fine Jewelry",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Lance Doyal\n5325 Northside Drive\n\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "05/18/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brent Story\n3060 Peachtree Road\nSuite 1565\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "C. K. K. Development Services\n270 North Clayton Street\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "J. T. Ennis\n2408 chestnut Road\nLumpkin Street\nVestavia Hills , AL 35216",
+          "PACOccupationEmployer": "\nAttorney\nSelf",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Kyle Ward\n4401 Sandy Creek Road\nLumpkin Street\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nReal Estate\nLong Leaf Realty Tust",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Development Planning & Engineering\n5074 Bristol Industrial Way\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Mike Reedy\n553 Martins Chapel Road\n\nLawrenceville, GA 30045",
+          "PACOccupationEmployer": "\nSign manufacturing\nSoutheastern sign Co.",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "M & M Homes Unlimited, LLC\n621 Manor Crest Way\n\nMonroe , GA 30656",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Ben Smith\n1835 Berkeley Meas NE\n\nAtlanta, GA 30329",
+          "PACOccupationEmployer": "\nPetroleum Industry\nMajors Management, LLC",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "HS Randall\n3055 Orchard Ridge Circle\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "HS Randall\n3055 Orchard Ridge Circle\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Kevin Kennerly\n2108 Skybrooke Ct\nSuite 1565\nHoschton, Ga 30548",
+          "PACOccupationEmployer": "\nDeveloper\nSelf",
+          "receivedTypeElection": "05/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tony Pedley\n5985 Wigwam Way\n\nFlowery Branch, GA 30542",
+          "PACOccupationEmployer": "\nHome Builder\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "05/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Darrell McWaters\nP.O. Box 2655\n\nLoganville, ga 30052",
+          "PACOccupationEmployer": "\nHome Builder\nSelf",
+          "receivedTypeElection": "06/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "byron Arceneaux\nP.O. Box 1009\n\nMonticello, FL 32345",
+          "PACOccupationEmployer": "\nEngineering\nSelf",
+          "receivedTypeElection": "06/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tip Cape\n3116 Bagley Passage\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\nHome Builder\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Millard Bowen\n5074 Bristol Industrial Way\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nHome Builder\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Southern Real Estate Holdings, LLC\n335 Brogdon Road\nSuite 211\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "50 MB, LLC\n335 Brogdon Road\nSuite 211\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Coax Fiber Solutions, LLC\n5048 Stefan Ridge Way\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Lori Forrester\n4085 Biltmore Woods Ct\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Pamela Cole\n4025 Biltmore Cove Way\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nSelf\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Jimmy Trotman\nP.O. Box 2432\nSuite 1565\nGainesville , GA 30503",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "James Cornett\n216 Lake Pointe Drive\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\nRetired\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Andrew Reisman\n3720 Griffin Drive\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Glenda Sells POA\n2470 Sugarloaf PKWY\n\nLawrenceville, GA 30045",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "J R R Holdings, LLC\n1320 Faircrest Ln\n\nAlpharetta, GA 30004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "ETRE, LLC\n805 RockBass Road\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "CLBD Real Estate Holdings, LLC\n3460 Moye TRL\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "ALGC AL Grading Contractors\n110 Peachtree Industrial Blvd\n\nSugar Hill, GA 30559",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Greater ATL Region Deveopment CO.\n277 Scenic HWY\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Linda Nash\n778 Natchez Valley Trce\nSuite 3000\nGrayson, GA 30017",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Oulton Park, LLC\n15 East Main Street\nSuite 2A\nBuford, GA 30518",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Vrealty-GA, LLC\n2964 Peachtree Road\nSuite 585\nAtlanta, GA 30305",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brandon Webb\n5467 Winding Ridge Tr\n\nBuford, GA 30518",
+          "PACOccupationEmployer": "\nDeveloper\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "06/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Bernie Smith\n4763 Township Chase\nSuite 1565\nMarietta, GA 30066",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/19/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Valerie Hewatt\n1895 Kathy whitworth Drive\nSuite 1565\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\nReal Estate\nSelf",
+          "receivedTypeElection": "06/21/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Russ Crosio\n3165 Sable Ridge Drive\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nRetired\nSelf",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Tony Powell\n10\nLumpkin Street\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\nAttorney\nPowell Edwards",
+          "receivedTypeElection": "06/26/2019\nIn-Kind\nPrimary\n2020",
+          "inKindDescription": "Food for Meet & Greet Fundraiser",
+          "inKindAmount": "$501.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Georgia Bridge and Concrete, LLC\nP.O. Box 327\n\nTucker, GA 30085",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Dixon, Clinton Randall",
+          "contribName": "Brandon Chafin\n3345 Ivy Farm Path\n\nBuford, GA 30519",
+          "PACOccupationEmployer": "\nHome Builder\nClayton Properties Group, Inc.",
+          "receivedTypeElection": "06/30/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    }
+  ]
+}

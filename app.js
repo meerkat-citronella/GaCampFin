@@ -1,38 +1,30 @@
 const fs = require("fs");
+const { saveToJson } = require("./miscellaneous_js/functions");
 const { getSenNamesAndPhotos } = require("./puppeteer/names_and_photos/index");
-// const getSenContributions = require("./getSenContributions.js");
+const {
+  getSenContributions,
+} = require("./puppeteer/get_contributions/index.js");
 // const parseContributions = require("./parseContributions.js")
 //   .parseContributions;
 // const readFileAndPushToFirestore = require("./firebase.js");
 
 const getSenatorsAndIDs = async () => {
-  // NOTE: stages should be done in chunks. comment out the 2nd, run the first, then reverse. app.js will otherwise throw a SyntaxError for redeclaration of cleanedArray.
   ///////////////// STAGE 1 /////////////////
   // get all senator data and photos; save array to senatorArray.json, save photos to /pics
-  const senArray = await getSenNamesAndPhotos();
+  // const senArray = await getSenNamesAndPhotos();
+  // await saveToJson(`./json/senArray.json`, JSON.stringify(senArray));
 
-  // write the array to a file
-  fs.writeFile(
-    "./senatorArray.json",
-    JSON.stringify(senArray),
-    "utf-8",
-    (err) => {
-      if (err) console.log(err);
-      console.log("wrote senator array in JSON format to senatorArray.json");
-    }
-  );
+  ///////////////// STAGE 2 /////////////////
+  // get all contributions for each senator
+  const senArray = JSON.parse(fs.readFileSync("./json/senArray.json", "utf-8"));
+  for (let sen of senArray) {
+    await getSenContributions(sen);
+  }
 
-  // ///////////////// STAGE 2 /////////////////
-  // // read the file
-  // const senArray = JSON.parse(
-  // 	fs.readFileSync("./senatorArray.json", "utf-8")
-  // );
-
-  // // get contributions, parse STATS, write STATS to firestore
+  ////////////////// STAGE 3 //////////////////
   // for (let sen of senArray) {
-  // 	let oneSen = await getSenContributions(sen);
-  // 	let twoSen = await parseContributions(oneSen);
-  // 	let threeSen = await readFileAndPushToFirestore(twoSen);
+  //  let twoSen = await parseContributions(sen);
+  //  let threeSen = await readFileAndPushToFirestore(twoSen);
   // }
 
   ////////////////// STAGE 3 //////////////////

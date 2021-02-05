@@ -1,0 +1,299 @@
+{
+  "lastUpdated": "Fri Feb 05 2021 13:23:44 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Nikki Merritt",
+    "fileName": "NikkiMerritt",
+    "displayName": "Nikki Merritt",
+    "district": "9",
+    "city": "",
+    "party": "Democrat",
+    "searchName": ["merritt", "nikki"]
+  },
+  "data": [
+    {
+      "report": "2013December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=105413&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2013&Report=December%2031st%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2013June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=92611&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2013&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "City of Madison\nMain Street\n\nMadison, Ga 30650",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/14/2013\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        }
+      ]
+    },
+    {
+      "report": "2012December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=78877&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2012&Report=December%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2012October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=76749&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2012&Report=October%2025th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2012September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=73111&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2012&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Freddie Michael\nP.O. Box 606\n\nPowder Springs, Georgia 30127",
+          "PACOccupationEmployer": "\nretired\nn/a",
+          "receivedTypeElection": "07/10/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Dan Pennington\n1291 Cox Road\n\nMadison, Georgia 30650",
+          "PACOccupationEmployer": "\nSeed Industry\nCentral Gdn",
+          "receivedTypeElection": "07/10/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Ray Hill\n1201 Newton Road\n\nMadison, Georgia 30650",
+          "PACOccupationEmployer": "\nself-employed\nSelf",
+          "receivedTypeElection": "07/16/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Denise Ewing\n3780 Atlanta Highway\n\nMadison, Georgia 30650",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/24/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Donald Poss\n1580 Mergendollar Road\n\nGood Hope, Georgia 30641",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/26/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Michael Nabors\nP.O. Box 30\n\nMadison, georgia 30650",
+          "PACOccupationEmployer": "\nreal estate\nself",
+          "receivedTypeElection": "07/31/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "John Moore\n1040 Confederate Road\n\nMadison, Georgia 30650",
+          "PACOccupationEmployer": "\nCar repair\nself",
+          "receivedTypeElection": "07/31/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2012June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=64484&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2012&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Brooks Pennington\n1210 Maxey Lane\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "04/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Jerry Smith\n1130 Commerce Drive\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nSelf-employed\nSelf-employed",
+          "receivedTypeElection": "04/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "B. June Smith\n1241 Sunset Overlook\n\nGreensboro, GA 30642",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "04/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Taryville, LLC\nP.O. Box 272\n\nMonroe, GA 30655",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Thomas Adams\n1133 Harper Court\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "04/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Jackie Pennington\n1160 Crawford Street\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nretired\nn\\a",
+          "receivedTypeElection": "05/01/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Martin L. Fierman\n296 N. Main Street\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/01/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "William Chorey\n600 Jones Street\n\nSuffolk, VA 23434",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "05/29/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Ann Merritt\n1050 Pennington Road\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Tom Dupree, III\n1050 Pennington Road\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Russell P. Preston\nP.O. Box 984\n\nMonroe, GA 30655",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/06/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Ralph & Donna Gensler\n566 Pelman Road\n\nAtlanta, GA 30324",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/07/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Robert Pennington\n1451 Cox Road\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/15/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Guy Notte\n271 W. Washington Street\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nattorney\nself",
+          "receivedTypeElection": "06/15/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Keith Kelly\n2411 Broughton Road\n\nNewborn, GA 30056",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/15/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Hank Johns\n2800 Clack Road\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nn/a\nn/a",
+          "receivedTypeElection": "06/26/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Joel Wagoner\n304 Country Club Road\n\nChapel Hill, NC 27514",
+          "PACOccupationEmployer": "\ndentist\nself",
+          "receivedTypeElection": "06/26/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2012March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=15689&FilerID=C2012000484&CDRID=58263&Name=Merritt%20Jr.,%20Charles%20Wesley&Year=2012&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Hoyt Jackson\n669 Skyline Drive\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nretired\nn/a",
+          "receivedTypeElection": "03/22/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Merritt Jr., Charles Wesley",
+          "contribName": "Bill Pritchard\n964 Harper Street\n\nMadison, GA 30650",
+          "PACOccupationEmployer": "\nRetired\nn/a",
+          "receivedTypeElection": "03/27/2012\nMonetary\nPrimary\n2012",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    }
+  ]
+}

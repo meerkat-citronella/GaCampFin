@@ -1,0 +1,2186 @@
+{
+  "lastUpdated": "Thu Feb 04 2021 20:59:04 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Russ Goodman",
+    "fileName": "RussGoodman",
+    "displayName": "Russ Goodman",
+    "district": "8",
+    "city": "",
+    "party": "Republican",
+    "searchName": ["goodman", "russ"]
+  },
+  "data": [
+    {
+      "report": "2020December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32138&FilerID=C2020000171&CDRID=159135&Name=Goodman,%20Rustin%20%22Russ%22%20&Year=2020&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Brent James\n700 W. Dame AVE\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nSupervisor\nGeorgia Power",
+          "receivedTypeElection": "10/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dr. S.W. Clark III\n502 Isabella Street\n\nWaycross, ga 31501",
+          "PACOccupationEmployer": "\nOptomologist\nClark Eye Care Center",
+          "receivedTypeElection": "10/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Devin Stickland\n305 W Waring St\n\nwaycross, ga 31503",
+          "PACOccupationEmployer": "\nOwner\nFat Daddy's ATV park",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "UPSPAC\n55 Glenlake PKWY N.E.\n\nATlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Corbett\n2108 N. Ashley St.\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nteacher\nLowndes County High",
+          "receivedTypeElection": "10/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Coca-Cola Company\nP.o. Box 1734\n\nAtlanta, GA 30301",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Tommy Thompson\n1016 E 19th AVE\n\nCordele , ga 31015",
+          "PACOccupationEmployer": "\nAppraiser\nCentral GA Appraisers",
+          "receivedTypeElection": "10/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "RAI Services Company\nP.O. Box 464\n\nWinston Salem, nc 27102",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "vickie Reed\n1112 N Court ST\n\nQuitman, ga 31643",
+          "PACOccupationEmployer": "\nSuperintendent\nBrooks county schools",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Hester Properties LLC\n517 Inlet Harbor Dr\n\ndouglas, ga 31535",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Carroll and Kathy Coursey Farms\nP.O. Box 67\n\nBrookfield , GA 31727",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Cowsert for Senate\nP.O.Box 512\n\nAthens , ga 30603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "CSX Corporation\n500 Water St\n\nJacksonville, fl 32202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "CMTE of Automobile Retail Dealers of GA\n2060 Powers Ferry RD\n\nAtlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32138&FilerID=C2020000171&CDRID=158066&Name=Goodman,%20Rustin%20%22Russ%22%20&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Bo Cobett Farms\n382 Corbett Lane\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Stanley Corbett Farms LLC\n382 Corbett Lane\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Gazala Inc\n342 S Church ST\n\nhomerville, ga 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Rita Patrawala\n221 Wiregrass st\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\nOwner\nDairy Queen",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Tally Wisenbaker\n4839 Hickory Grove Rd N\n\nValdosta, ga 31606",
+          "PACOccupationEmployer": "\nCommisioner\nLowndesCoutny",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Norfolk Southern Corporation\n3 Commercial Place\n\nNorfolk, va 23510",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Shaw for PSC\nP.O. Box 188\n\nLakeland, ga 31635",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$994.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Lee Lemke\n113 Arkwright Landing\n\nMacon, ga 31210",
+          "PACOccupationEmployer": "\nexecutive vice president\ngeorgia mining associates",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dennis Futch\n108 Waccamaw Rd\n\nMoultrie, ga 31788",
+          "PACOccupationEmployer": "\nenrolled agent\ntax shop",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Two Oak Farms\n264 Jernigan Farm RD\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Stovall\n626 W. Dame Ave\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nRetired\nretired",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "gerald Coggins\n1794 J Frank Culpepper RD\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nmanager\nCoggins Farm Supply",
+          "receivedTypeElection": "10/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Tunison JR\n828 Lakeshore DR\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\nattorney\nSlappey and Sadd LLC",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Charles Hobby\nP.O. Box 3693\n\nvaldosta, ga 31604",
+          "PACOccupationEmployer": "\nradiologists\nSouth Georgia Medical Center",
+          "receivedTypeElection": "10/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Dominey\n3882 Kinderlou Forest\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\nowner\nowner Jumpin Jax for Kidz",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Hughes Unlimited Inc\n4501 Tillman Bluff RD\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Thomas Reed\n3909 Skipper Bridge RD\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\npresident\ntwelve oaks capital",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Franklin Bailey Construction LLC\n1091 Ridge RD\n\nValdosta, Ga 31605",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Blacktire, LLC\n3338-L1 Country Club Rd Box 188\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Kirk Hand\n4239 Antioch Rd\n\nadel, ga 31620",
+          "PACOccupationEmployer": "\nowner\nCook County Ford",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Travers Paulk\n3485 Bemiss Rd\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\npresident\nvaldosta electric",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Tommy Stalvey\n5303 New Bethel RD\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\nsr vice president\nace electric",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Strickly Blue Farms LLC\n8768 Frank Sessoms Memorial Hwy\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jeff Sikes\n4011 Quail Run Circle\n\nValdosta, ga 11315",
+          "PACOccupationEmployer": "\nceo\n1st American Health",
+          "receivedTypeElection": "10/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Samuel Henderson\n4000 Manor Millwood Road South\n\nManor, ga 31550",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "10/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Mullis\n509 Scoggin Pond Lane\n\npearson, ga 31642",
+          "PACOccupationEmployer": "\nRequested\nRequested",
+          "receivedTypeElection": "10/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Allen\n427 Pike Creek Turf Cr\n\nAdel, ga 31620",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "10/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Georgia Chamber PAC\n270 peachtree st N.W. Suite 2200\n\nATlanta, ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Civil Justice PAC\n101 Marietta ST NW\nSTe 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32138&FilerID=C2020000171&CDRID=156399&Name=Goodman,%20Rustin%20%22Russ%22%20&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Cynthia Hester Hester\n5010 Rosedown PL\n\nRoswell, GA 30076",
+          "PACOccupationEmployer": "\nPresident\nMrTransmission",
+          "receivedTypeElection": "07/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Troy Lanier\n430 Ellis Street\n\nAugusta, GA 30901",
+          "PACOccupationEmployer": "\nAttorney\nTroyLanierLaw",
+          "receivedTypeElection": "07/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Phillip Cook\n181 Lucille Street\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/19/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jane Hearn\n3311 Bellemeade Dr\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\npresident\nFredrickTimberlands",
+          "receivedTypeElection": "07/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Gregory Voyles\nP.O. Box 1786\n\nValdosta, ga 31603",
+          "PACOccupationEmployer": "\nAttorney\nAttorney",
+          "receivedTypeElection": "07/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Kirby Sapp\n181 River Rd\n\nLakeland, ga 31635",
+          "PACOccupationEmployer": "\ncontractor\nJ&k Construction",
+          "receivedTypeElection": "07/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jamestown Blueberries\n258 Shannon Rd\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dan Bremer\n2106 Hwy 135 S.\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\npresident\nagworks",
+          "receivedTypeElection": "07/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Committee to Elect Butch Miller\nP.O. Box 7475\n\nChestnut Mountain , ga 30502",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Roy Taylor\n2209 Bridlewood Dr\n\nValdosta, GA 31605",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dennis Thomas\n1167 N Lakeshore Dr\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\ndoctor\nSouth Georgia Medical Center",
+          "receivedTypeElection": "07/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Julian Sherwood, III\n705 Smithbriar dr\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nsales specialists\nValdosta insurance company",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Edward Mark\n4111 Live Oaks Dr\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\ndoctor\nSouth Georgia Medical Center",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Anne Plageman\n3317 Plantation Dr\n\nValdosta, GA 31605",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Monique Sineath\n1208 Lake Dr\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Laura Trussell\n1685 Smith Rd\n\nWaycross, ga 31503",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Stanley Cox\n310 N. Patterson st\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\npresident\ncox Restraurant Enterprises",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Sue Cox\n310 N Patterson st\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\nvice president\ncox Restraurant Enterprises",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Adam Crane\n2782 london lane\n\nshiloh, IL 62222",
+          "PACOccupationEmployer": "\nLT Col\nAir Force",
+          "receivedTypeElection": "07/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Patricia Miller\n91 West Main\n\nLakeland, ga 31635",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Ga Medical Eye PAC\n2700 Cumberland Pkwy SE, STE 570\n\nAtlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Valdosta Psychiatric Association\nPO Box 3229\n\nvaldosta, ga 31604",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "ASC-GA PAC\n2700 Cumberland Pkwy STE 150\n\nAtlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Patricia Miller\n91 West Main\n\nLakeland, ga 31635",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/27/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Catering for Event",
+          "inKindAmount": "$596.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "R Derry Crosby\n2310 N Patterson st BLDG D\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\ndoctor\nsouth georgia orthapedic",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jared Corbett\n1545 Hwy 135 S\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nFarmer\nCorbett Brother's Farms",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Ken Corbett\n1545 Hwy 135 S\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nfarmer\nKen Corbett Farm",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Steinberg\n2213 Brighton Pl\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nsr buyer\nSouth Georgia Medical Center",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Deep South Vegetables, inc\n3150 Arabia Church RD\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Barry Broome\n1213 Baytree rd\n\nvaldosta, GA 31602",
+          "PACOccupationEmployer": "\nagent\nallstate insurance",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Emory Mathis\n7350 Wind Chase Dr\n\nhahira, ga 31632",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mitchell Cothron Jr\n5310 Tucker Rd\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\nreal estate agent\nsouthern Classic Realtors",
+          "receivedTypeElection": "07/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Bryan Peters\n2425 Westwood dr\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\ngeneral sales manager\nagnutrients",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Wayne Hester\n833 Pine Needle Road\n\ndouglas, ga 31535",
+          "PACOccupationEmployer": "\ndentist\nhester and morris orthodontics",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Roy Taylor III\n#4 Foxhollow dr\n\nvaldosta, ga 31605",
+          "PACOccupationEmployer": "\nceo\nEMTT",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mitchell Cothron Sr\n5597 Railroad Ave\n\nvaldosta, ga 31601",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mike Coggins\n2429 J Frank Culpepper Rd\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nFarmer\nBlackwater Cattle Company",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "J.l. Butler Jr\n804 NW CR 141\n\nJennings, fl 32053",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Felton Coggins\n1962 J Frank Culpepper RD\n\nLake Park , ga 31636",
+          "PACOccupationEmployer": "\nfarmer\ncoggins farm and produce",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Williard Lasseter\n306 Coarsey LN\n\nEnigma, ga 31749",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Butch Coarsey\nP.O. Box 55\n\nBrookfield, GA 31727",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Connie Carter\n231 N. 3rd St\n\nFernandina Beach, fl 32034",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "B.W. Moore\n1230 Greggs RD\n\nAdel, ga 31620",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jared Howell\n212 Old Quitman Annex RD\n\nadel, ga 31620",
+          "PACOccupationEmployer": "\nfarmer\nHowell Farms",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Adam Moore\n952 Greggs RD\n\nadel, ga 31620",
+          "PACOccupationEmployer": "\npharmacist\nhogan pharmacy",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Charles Roberts JR\n44 Pinebrook dr\n\nvaldosta, ga 31602",
+          "PACOccupationEmployer": "\nhead chef\nRajun Cajun",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Lee Boatenreiter\n4259 Skipper Bridge Rd\n\nHahira, ga 31632",
+          "PACOccupationEmployer": "\nManager\nNashville Tractor",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Kennedy Timber LLC\n2835 Bud McKey Circle\n\nvaldosta, ga 31602",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Douglas Carter\nP.O. Box 10142\n\nvaldosta, ga 31604",
+          "PACOccupationEmployer": "\ninterior designer\nDoug Carter Interior and Design",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Justin Corbett\n1567 GA Hwy 135 S\n\nlake park, ga 31636",
+          "PACOccupationEmployer": "\nfarmer\nCorbett brothers Farms",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Laurie Broome\n1213 Baytree rd\n\nvaldosta, ga 31602",
+          "PACOccupationEmployer": "\nsecretary\nvaltel communications",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Sims Fence Company\n7071 Ousley rd\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Ben Futch\nP.O. Box 1009\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nSelf Employed\nOutdoor Advertising",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Larry Carter\n611 Teresa dr\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Paula Carter\n611 Teresa dr\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "akins, LLC\nP.O. Box 5919\n\nValdosta, ga 31603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Geogia Alliance of Comm. Hosptials INC\nP.O. Box 1572\n\ntifton, ga 31793",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Steve Conner\n32 Lakeland Hwy\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\npresident\nConner Holdings",
+          "receivedTypeElection": "08/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Denean Stafford, III\n4702 Woodland Dr E\n\ntifton, ga 31794",
+          "PACOccupationEmployer": "\nPresident\nStafford Food Management Inc",
+          "receivedTypeElection": "08/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "John Hughes\n176 W. Sycamore st\n\nhomerville, ga 31634",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "08/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Gayle Hughes\n176 W. Sycamore st\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "08/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Builders PAC\n3015 Camp Creek Parkway\n\nAtlanta, GA 30344",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "James Groover\nPO Box 603\n\nBoston, ga 31626",
+          "PACOccupationEmployer": "\npresident\nag pro holdings",
+          "receivedTypeElection": "08/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Rep Party of Lowndes County\n817 S Lakeshore Dr\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "Republican\n\n",
+          "receivedTypeElection": "08/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Georgia Bankers Association\n50 Hurt Plaza Suite 1050\n\nAtlanta, ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Carlos Mcswain\n2410 Winding Way\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nretired\nretired",
+          "receivedTypeElection": "07/25/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Food for Fund raiser",
+          "inKindAmount": "$2,000.00",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jody McSwain\n2405 Winding Way\n\nValdosta , ga 31601",
+          "PACOccupationEmployer": "\nNational Marketing Manager\nElead",
+          "receivedTypeElection": "07/25/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Food for fund raiser",
+          "inKindAmount": "$611.90",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mickey McSwain\n4364 plantation Plantation Crest\n\nValdosta, GA 31602",
+          "PACOccupationEmployer": "\nDivision Manager\nScruggs Company",
+          "receivedTypeElection": "07/25/2020\nIn-Kind\nGeneral\n2020",
+          "inKindDescription": "Food for fundraiser",
+          "inKindAmount": "$611.90",
+          "cashAmount": "$0.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mike Dugan for State Senate\n106 champion Dr\n\nCarrollton, ga 30116",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Bayer\n801 Pennsylvania Avenue NW Suite 745\n\nWashington, dc 20004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Larry Walker for State Senate\n1110 Washington St\n\nPerry, ga 31069",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place Suite 318\n\nAtlanta , ga 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Tyler Harper for Georgia\nP.O. Box 798\n\nOcilla, ga 31774",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Friends to Elect Burt Jones\nP.O. Box 767\n\nJackson, ga 30233",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jane Hearn\n3311 bellemeade dr\n\nvaldosta, ga 31605",
+          "PACOccupationEmployer": "\npresident\nHearn Land Investment LLC",
+          "receivedTypeElection": "08/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "B.P. Hester\n131 Baker Saw Mill Rd\n\nLenox, ga 31637",
+          "PACOccupationEmployer": "\npresident\nHester LLC",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Hester LLC\n421 Baker Saw Mill RD\n\nLenox, ga 31637",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Pierce Timber Company, inc\nPO Box 312\n\nBlackshear, ga 31516",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Hart Honey Farm LLC\n262 Hardy Johnson RD\n\nFargo, ga 31631",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Kelly Loeffler\n3650 Tuxedo Road Northwest\n\nAtlanta , ga 30305",
+          "PACOccupationEmployer": "\nSenator\nUnited States of America",
+          "receivedTypeElection": "08/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Packaging corporation of america\nPo Box 1048\n\nvaldosta, ga 31603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/19/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "wesley Popiel\n125 N Broad Street\n\nThomasville, ga 31792",
+          "PACOccupationEmployer": "\nfarmer\nProgressive Indigo Farms, LLC",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "8th congressional district\n1000 Corporate pointe box c-211\n\nwarner robbins , ga 31088",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "IIA of GA, inc\n4555 Mansell Road, Suite 300\n\nAlpharetta, ga 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Darkhorse Farms\n638 owen medford rd\n\nlenox, ga 31637",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Justin Price Farms\n1180 Williams rd\n\nbarney , ga 31625",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "bruce Phelps\nPO Box 576\n\nmoultrie, ga 31776",
+          "PACOccupationEmployer": "\nEMT\nSouth Georgia Medical Center",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Michelle Pitchford\n5800 Coleman rd NW\n\nHahira, ga 31632",
+          "PACOccupationEmployer": "\nrealtor\nsouthern classic realtors",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Gregory Voyles\nP.O. box 1786\n\nValdosta, ga 31603",
+          "PACOccupationEmployer": "\nAttorney\nGreg Voyles Law Firm",
+          "receivedTypeElection": "08/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "ForestPAC-GFA\nP.O. Box 1217\n\nForsyth, ga 31029",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Wiliam Langdale\n2519 Jerry Jones Dr\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nattorney\nLangdale Vallotton Lawfirm",
+          "receivedTypeElection": "09/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Veterans Memorial Coalition\nP.O. Box 6893\n\nGainesville, GA 30504",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Associated Builder and Contractors of GA PAC\n8975 Roswell Rd\n\nAtlanta , ga 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Wycliff Herrington III\n8009 Hwy 96\n\nJeffersonville, GA 31044",
+          "PACOccupationEmployer": "\nFarmer\nHerrington Brother sFarm",
+          "receivedTypeElection": "09/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Friends of John Wilkinson\nP.O. Box 2227\n\nToccoa, ga 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Tycor Farms LLC\nP.O. Box 750\n\nLake Park, GA 31636",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jesse Maranville\n2414 S. Forty Rd\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nFarmer\nMaranville Farm",
+          "receivedTypeElection": "09/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "David Folsom\n4246 Oak Forest dr\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nattorney\nMoore Clark Duvall and Rogers Attorney at Law",
+          "receivedTypeElection": "09/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Ellis Black for Senate\n5900 Jumping Gully Rd\n\nValdosta, Ga 31601",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Valdosta Comercial Doors and Hardware\n108 Hemlock Street\n\nValdosta, ga 31601",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jeffry Lovell\n1048 Cherry Creek DR\n\nvaldosta, ga 31605",
+          "PACOccupationEmployer": "\nowner\nLovell Engineering",
+          "receivedTypeElection": "09/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "CARD of Georgia\nP.O. Box 725154\n\nAtlanta , ga 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Thompson Kurrie, Jr\n2006 North Patterson Street\n\nvaldosta, ga 31602",
+          "PACOccupationEmployer": "\nattorney\nColeman Talley LLP",
+          "receivedTypeElection": "09/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Shiloh Pecan Farms, Inc\nP.O. Box 306\n\nRay City , ga 31645",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/25/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Daniel Studstill\nP.O. Box 647\n\nNashville , ga 31639",
+          "PACOccupationEmployer": "\nattorney\nstudstill firm",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Bennett and Connell LLC\nP.O. Box 1170\n\nAdel, GA 31620",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Joseph Michael Beaumont\n2418 Emory dr\n\nTifton, GA 31794",
+          "PACOccupationEmployer": "\ninformation requested\ninformation requested",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dash Co, LLC\n186 Jefferson Rd\n\nadel, ga 31620",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "committee to elect Dick Perryman\nP.O. Box 605\n\nNashville , ga 31639",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dixon Gin Company, inc\nPO box 498\n\nAlapaha, ga 31622",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Howard McClain\n1501 Jimmy Street\n\nAdel, ga 31620",
+          "PACOccupationEmployer": "\nJudge\nSuperior Court of GA",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Cook County Land Ventures, LLC\nP.O. Box 6893\n\nAdel, ga 31620",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "S&P Berry Farms, LLc\n5670 Ellenton\n\nOmega, ga 31775",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Haynesworth Maier Studstill\n4352 Kings Way\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nattorney\nStudstill firm LLp",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dane Perkins\nP.O. Box 606\n\nNashville , ga 31639",
+          "PACOccupationEmployer": "\nceo\nDane Perkins Honorable",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Buddy Duke\n201 N Burwell AVE\n\nAdel, ga 31620",
+          "PACOccupationEmployer": "\naccount manager\nCity Electric Supply",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32138&FilerID=C2020000171&CDRID=144463&Name=Goodman,%20Rustin%20%22Russ%22%20&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Impact Public Affairs\n233 Peachtree st NE STE 1225\n\nAtlanta, ga 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "BEVPAC\n50 Hurt PLZ. SE, STE. 935\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Georgia Optometric Association\n400 W. Peachtree Street NW, Ste 201\n\nAtlanta, ga 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "E. Vickers Land and Cattle, LLLP\n317 Vickers Farm Road\n\nNashville, ga 31639",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Eric Lutz\nP.O. Box 482\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\nInsurance Agent\nLutz, Brown, Peagler and Manley",
+          "receivedTypeElection": "05/14/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Chandler Haydon\n1266 W. Paces Ferry Road, NW #550\n\nAtlanta, ga 30327",
+          "PACOccupationEmployer": "\nLobbyists\nHaydon Consultion",
+          "receivedTypeElection": "06/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Stacy Bush\n2918 N OAK ST ste B\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nceo\nBush Wealth management",
+          "receivedTypeElection": "05/27/2028\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Drew Echols\n7132 sloam stephens Road\n\nAlto, ga 30501",
+          "PACOccupationEmployer": "\nfarmer\nJaemore farms",
+          "receivedTypeElection": "05/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jerry Williams\n394 Penrose Drive West\n\nSavannah, ga 31410",
+          "PACOccupationEmployer": "\nDoctor\nurgentcare 24/7",
+          "receivedTypeElection": "05/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Labelle Fruit Company LLC\nP.O. Box 2166\n\nLaBelle, FL 33975",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Grimmway Enterprises, INC\nP.O. Box 81498\n\nBakersfield , CA 93380",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Georgia EMC PAC\n2100 East Exchange Place #509\n\nTucker, ga 30084",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Steve Mcmillan\n3194 McMillan Rd\n\nEnigma, ga 31749",
+          "PACOccupationEmployer": "\nFarmer\nSouther grace Farms",
+          "receivedTypeElection": "06/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Associated General Contractors of Georgia, INC PAC\n1940 The Exchange Suite 100\n\nAtlanta, ga 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Westside Auto\n187 Lakeview Dr\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Devcon Corp\n4480C Val North Dr.\n\nvaldosta, GA 31602",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "MBAB-Good Government Fund\nP.O. Box 801\n\nMacon, GA 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Georgia Independent Automobile Dealers Association INC\n6903 A Oak RidgeCommerce Way BS\n\nAustell, ga 30168",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "GUCA PAC\n804 Main Street, Suite C\n\nForest Park, GA 30297",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Robbie Roberson\n2132 Golf Course Rd\n\nBlackshear, ga 31516",
+          "PACOccupationEmployer": "\nOwner\nRobbie Roberson Ford",
+          "receivedTypeElection": "06/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Dirk Lequia\n6060 69th st E.\n\nPalmetto, fl 34221",
+          "PACOccupationEmployer": "\nOwner\nDirk Lequia Construction",
+          "receivedTypeElection": "06/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jubilee Orchards LLC\n120008 Miccosukee Rd\n\nTallahassee, fl 23309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "alex patterson\n2810 ASTONDALE RD\n\nWatkinsville, ga 30677",
+          "PACOccupationEmployer": "\npresident\npresbyterian homes of Georgia",
+          "receivedTypeElection": "06/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Tina Strickland\n6424 New Bethel Rd\n\nlakeland, g 31635",
+          "PACOccupationEmployer": "\nfarmer\nstrickland farms",
+          "receivedTypeElection": "05/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        }
+      ]
+    },
+    {
+      "report": "2020April30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=32138&FilerID=C2020000171&CDRID=143325&Name=Goodman,%20Rustin%20%22Russ%22%20&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "CCG Farms PTN\n2204 Hall Avenue\n\nTifton, GA 31794",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "02/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Envirospec, LLC\n751 Martin Luther King Dr\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Lasseter Tractor Co., Inc\nP.O. Box 1230\n\nDouglas, GA 31534",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Buddy Carter for Congress\nP.O. Box 10570\n\nSavannah, GA 31414",
+          "PACOccupationEmployer": "Republican\n\n",
+          "receivedTypeElection": "02/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Lee Container Corporation\nP.O. Box 575\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jason Shaw Campaign Committee\nP.O. Box 245\n\nLakeland, GA 31635",
+          "PACOccupationEmployer": "Republican\n\n",
+          "receivedTypeElection": "03/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Hart Honey Farms LLc\n262 Hardy Johnson RD\n\nFargo, GA 31631",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Heagan Farms\n6800 Blueberry Lane\n\nManor, GA 31550",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "John Corbett Friends of\n1484 GA Hwy 135 S\n\nLake Park, GA 31636",
+          "PACOccupationEmployer": "Republican\n\n",
+          "receivedTypeElection": "03/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Harvest MD, LLC\n3319 Bellemeade Dr\n\nValdosta , GA 31605",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mr Transmission\n2342 Lawrenceville Hwy\n\nDecatur, GA 30033",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Bill Forbes\n349 Pine Street\n\nHomerville , GA 31634",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "02/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Phillip Mixon\n520 N. McDonald Road\n\nWaycross , Ga 31503",
+          "PACOccupationEmployer": "\nFarmer\nMixon Farm",
+          "receivedTypeElection": "03/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Michael Smith\n148 Eddie Lane\n\nThomasville, GA 31757",
+          "PACOccupationEmployer": "\nExecutive Director\nUnited Way",
+          "receivedTypeElection": "02/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jimmie Bowen Jr\n14 Bellemeade Dr\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "02/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Donald Mixon\n520 N. McDonald Road\n\nWaycross , ga 31503",
+          "PACOccupationEmployer": "\nFarmer\nMixon Farms",
+          "receivedTypeElection": "03/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Ward Ammons\n4419 Old Manor Miss RD\n\nManor, GA 31550",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "03/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$50.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Joel Varnedoe\n130 Virginia Ave\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\nExecutive\nLee Container",
+          "receivedTypeElection": "03/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "William Whitesell\n2123 Pinecliff Dr\n\nValdosta, ga 31602",
+          "PACOccupationEmployer": "\nAttorney\nWilliam Long Whitesell LLC",
+          "receivedTypeElection": "02/28/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Robert Varnedoe\n207 Virginia Ave\n\nHomerville, GA 31634",
+          "PACOccupationEmployer": "\nExecutive\nLee Container",
+          "receivedTypeElection": "03/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jeffrey Brown\nP.O. Box 176\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nExecutive\nLee Container",
+          "receivedTypeElection": "03/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Charlene Thomas\nP.O. Box 246\n\nTemple, GA 30179",
+          "PACOccupationEmployer": "\nRetired\nNA",
+          "receivedTypeElection": "03/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$99.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Autumn Price\n1850 Valleywood rd\n\nMcLean, VA 22101",
+          "PACOccupationEmployer": "\nExecutive\nLand o Lakes",
+          "receivedTypeElection": "02/27/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mary Jo Higinbotham\n1278 W. Benbow Cir\n\nLabelle, FL 33935",
+          "PACOccupationEmployer": "\nRetired\nNA",
+          "receivedTypeElection": "03/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Cathy Cornelius\n6800 Blueberry Lane\n\nManor, GA 31550",
+          "PACOccupationEmployer": "\nFarmer\nCornellius Blueberries",
+          "receivedTypeElection": "03/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Johnny Crumbley\n3231 Hwy 122\n\nCogdell, GA 31634",
+          "PACOccupationEmployer": "\nFarmer\nCogdell Berry Farm",
+          "receivedTypeElection": "03/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Joy Crumbley\n3231 Hwy 122\n\nCogdell, GA 31634",
+          "PACOccupationEmployer": "\nFarmer\nCogdell Berry Farm",
+          "receivedTypeElection": "03/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Justo Cabral\n604 Mack Dr\n\nValdosta, GA 31602",
+          "PACOccupationEmployer": "\nAttorney\nLowndes County",
+          "receivedTypeElection": "03/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Kevin Coggins\n530 East St.\n\nLake Park, ga 31636",
+          "PACOccupationEmployer": "\nFarmer\nHiddern River Farms",
+          "receivedTypeElection": "03/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Amy Coggins\n530 East ST\n\nLake Parl, ga 31636",
+          "PACOccupationEmployer": "\nFarmer\nHiddern River Farms",
+          "receivedTypeElection": "03/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Bill Slaughter\n6926 Simpson Rd\n\nHahira, ga 31632",
+          "PACOccupationEmployer": "\nCommissioner\nLowndes County",
+          "receivedTypeElection": "03/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Kevin Eason\n373 Mesquite RD\n\nAlma, ga 31510",
+          "PACOccupationEmployer": "\nFarmer\nKevin Eason Farm",
+          "receivedTypeElection": "03/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Newton Bassford\nP.O. Box 126\n\nValdosta, GA 31603",
+          "PACOccupationEmployer": "\nExecutive\nBassford Packaging",
+          "receivedTypeElection": "03/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Mark Bassford\nP.O. Box 126\n\nVadosta, ga 31603",
+          "PACOccupationEmployer": "\nExecutive\nBassford Packaging",
+          "receivedTypeElection": "03/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "W. Judson Herrington\n2275 Longsstree Rd\n\nCochran, GA 31014",
+          "PACOccupationEmployer": "\nFarmer\nHerrington Brothers farm",
+          "receivedTypeElection": "03/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Martha Begalla\n1005 Water Place Way\n\nKnoxville, tn 37922",
+          "PACOccupationEmployer": "\nRetired\nNA",
+          "receivedTypeElection": "03/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Steven Maxwell\n2650 North Lake Reedy Blvd\n\nFrostproof, fl 33843",
+          "PACOccupationEmployer": "\nExecutive\nHighlands",
+          "receivedTypeElection": "03/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Beverly Maxwell\n2650 North Lake Reedy Blvd\n\nFrostproof, Fl 33843",
+          "PACOccupationEmployer": "\nexecutive\nHighlands",
+          "receivedTypeElection": "03/22/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Winston Peterson\n200 Allen Lee Ln\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nretired\nna",
+          "receivedTypeElection": "03/31/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "H. Arthur Mclane\nP.O. Box 505\n\nValdosta, ga 31603",
+          "PACOccupationEmployer": "\nattorney\nLowndes County",
+          "receivedTypeElection": "03/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Calvin Moody\nP.O. Box 508\n\nQuitman , ga 31643",
+          "PACOccupationEmployer": "\nFarmer\nBrooks County Dairy",
+          "receivedTypeElection": "03/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "John Bell Jr\n235 Hilltop ln\n\nCairo, ga 39828",
+          "PACOccupationEmployer": "\nExecutive\nBell irrigation",
+          "receivedTypeElection": "04/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "John Bennett\n1117 Bennett Still Hwy\n\nAlma, Ga 31510",
+          "PACOccupationEmployer": "\nfarmer\nFarm",
+          "receivedTypeElection": "04/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Rhonda Bennett\nP.o. Box 737\n\nAlma, Ga 31510",
+          "PACOccupationEmployer": "\nFarmer\nFarm",
+          "receivedTypeElection": "04/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Ashley Lane\n1752 Tetterville Rd\n\nLakeland, ga 31635",
+          "PACOccupationEmployer": "\nFarmer\nFarm",
+          "receivedTypeElection": "04/04/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Shane Wade\n150 Montana ln\n\nAlma, ga 31510",
+          "PACOccupationEmployer": "\nFarmer\nFarm",
+          "receivedTypeElection": "04/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,800.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jonathon Futch\n152 Musgrove Ave\n\nHomerville, Ga 31634",
+          "PACOccupationEmployer": "\nRetired\nN/a",
+          "receivedTypeElection": "04/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Madge Byington\n13230 Addison Rd\n\nROSWELL, ga 30075",
+          "PACOccupationEmployer": "\nretired\nna",
+          "receivedTypeElection": "04/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Clint Beckham\n471 County Club Rd\n\nBainbridge , ga 39819",
+          "PACOccupationEmployer": "\nFarmer\nFarm",
+          "receivedTypeElection": "04/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Joseph Cornelius\n6515 Senior Field Dr\n\nManor, ga 31550",
+          "PACOccupationEmployer": "\nFarmer\nFarm",
+          "receivedTypeElection": "04/03/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Robert Cohen\nP.O. Box 1736\n\nBainbridge , ga 39818",
+          "PACOccupationEmployer": "\nfarmer\nfarm",
+          "receivedTypeElection": "04/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "David Lake\n1375 Ellis Highsmith Rd\n\nNahunta, ga 31553",
+          "PACOccupationEmployer": "\nfarmer\nSouthern Blue",
+          "receivedTypeElection": "04/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "Jeff Helms\nP.O. Box 537\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nAttorney\nHelms Law Firm",
+          "receivedTypeElection": "04/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "George Hughes\nPO Box 501\n\nHomerville, ga 31634",
+          "PACOccupationEmployer": "\nfarmer\nfarm",
+          "receivedTypeElection": "04/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Goodman, Rustin \"Russ\"",
+          "contribName": "John Eunice\n8 Lees Xing\n\nValdosta, ga 31605",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "04/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3296 @@
+{
+  "lastUpdated": "Fri Feb 05 2021 13:11:24 GMT-0500 (Eastern Standard Time)",
+  "info": {
+    "name": "Marty Harbin",
+    "fileName": "MartyHarbin",
+    "displayName": "Marty Harbin",
+    "district": "16",
+    "city": "Tyrone",
+    "party": "Republican",
+    "searchName": ["harbin", "maurice"]
+  },
+  "data": [
+    {
+      "report": "2021January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=161269&Name=Harbin,%20Maurice%20Henderson%20&Year=2021&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway, Suite 200\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Optometric Association PAC\n400 West Peachtree Street NW\nSte 201\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "MAG Mutual GA PAC\nPO Box 52979\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2021\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2020December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=160301&Name=Harbin,%20Maurice%20Henderson%20&Year=2020&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "BPAC Builders PAC\n3015 Camp Creek Parkway\n\nAtlanta, GA 30334",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GPhA PAC Inc\n6065 Barfield Rd NE\nSuite 100\nSandy Springs, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Amusement & Music Operators Association\n2095 Hwy 211 NW Suite 2F, PMB 163\n\nBraselton, GA 30517",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/14/2020\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Mining Association Committee for Good Government\n113 Arkwright Landing\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Alice Harris\n130 Autumn Moon Trail\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nHomemaker\nNone",
+          "receivedTypeElection": "10/26/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Pike County Republican Party\nPOBox 481\n\nZebulon, GA 30295",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/23/2020\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "The Southeast Permanente Medical Group State Healthcare PAC\nPO Box 2194\n\nRoswell, GA 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/06/2020\nMonetary\nPrimary\n2022",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2020October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=158592&Name=Harbin,%20Maurice%20Henderson%20&Year=2020&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Allstate Insurance Company\n2775 Sanders Road\n\nNorthbrook, IL 60062",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Committee for Affordable Workforce Housing\nPO Box 7511\n\nAtlanta, GA 30357",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Rd\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/23/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$700.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia IFAPAC\n677 Maine Street\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc\n4555 Mansell Road Suite 300\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/13/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Professional Insurance Agents of Georgia, Inc. PAC\n3805 Crestwood Parkway\n\nDuluth, GA 30095",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Southeastern Carpenters Regional Council PAC\n3710 Executive Center Drive Suite A\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/06/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Charles Vail\n164 Sibley Way\n\njackson, GA 30233",
+          "PACOccupationEmployer": "\nbusiness owner\nAaron's systems, inc.",
+          "receivedTypeElection": "10/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Richard Viall\n100 Autumn Leaf\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nInsurance Agent\nViall Insurance",
+          "receivedTypeElection": "10/07/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        }
+      ]
+    },
+    {
+      "report": "2020September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=157282&Name=Harbin,%20Maurice%20Henderson%20&Year=2020&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Associated General Contractors Of Georgia, Inc. PAC\n1940 The Exchange, Suite 100\n\nAtlanta, GA 30330",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/08/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Harold Bost, Sr.\n126 Turnberry Circle\n\nFayetteville , GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/05/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "DOCPAC-GA\n185 Greenwood Road\n\nNapa, CA 94558",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/16/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cynthia Fallon\n220 Brayden Drive\n\nTyrone, GA 30290",
+          "PACOccupationEmployer": "\nProvider Network Manager\nAnthem",
+          "receivedTypeElection": "09/01/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of John Wilkinson\nPO Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/12/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Better Government Fund PAC GA Apt Assoc.\n8601 Dunwoody Place\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Orthopaedic Society PAC Acct\n131 Holly Springs Drive\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "David Golden\n2466 Oak Grove Vista\n\nDecatur, GA 30033",
+          "PACOccupationEmployer": "\nAttorney\nTroutman Sanders LLP",
+          "receivedTypeElection": "09/30/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Dave Hammond\n644 E. McIntosh Rd\n\nGriffin, GA 30223",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "08/09/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ralph Hudgens\n6509 Hwy 106 South\n\nHull, GA 30646",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "08/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Larry King\n1167 Branch Water Court\n\nAtlanta, GA 30338",
+          "PACOccupationEmployer": "\nCPA\nSelf",
+          "receivedTypeElection": "08/11/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ennis Laney III\nPO Box 274\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\nBusiness Owner\nBusiness",
+          "receivedTypeElection": "09/07/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Larry Walker for State Senate\n1110 Washington Street\n\nPerry, GA 31096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/15/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Melton\n15A Red Bud Trail\n\nNewnan, GA 30263",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf employed",
+          "receivedTypeElection": "09/02/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "John Owen\n243 Godsey Road\n\nJackson, GA 30233",
+          "PACOccupationEmployer": "\nExecutive\nBrasfield & Gorrie",
+          "receivedTypeElection": "08/10/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "WT Paul\n3802 Bay Creek Road\n\nLoganville, GA 30052",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "09/24/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Eugene Smiley\n755 White Blossom Court\n\nPower Springs, GA 30127",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "09/18/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Tyler Harper for Georgia\nP.O. Box 798\n\nOcilla, GA 31774",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Alex Vann\nGA Highway 85\n\nWaverly Hall, GA 31831",
+          "PACOccupationEmployer": "\nBusiness\nSelf",
+          "receivedTypeElection": "08/21/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Veterans Memorial Coalition Inc\nPO Box 6893\n\nGaiesville, GA 30504",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/20/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Mark Wallace\n5319 w McIntoch Road\n\nGriffin, GA 30223",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "09/29/2020\nMonetary\nGeneral\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        }
+      ]
+    },
+    {
+      "report": "2020June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=145276&Name=Harbin,%20Maurice%20Henderson%20&Year=2020&Report=June%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020April30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=143991&Name=Harbin,%20Maurice%20Henderson%20&Year=2020&Report=April%2030th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2020January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=142620&Name=Harbin,%20Maurice%20Henderson%20&Year=2020&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Altria Client Services LLC\nPO Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/26/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "BPAC Builders PAC\n3015 Camp Creek Parkway\n\nAtlanta, GA 30334",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Allen Baldwin\n413 Lloyd\n\nPeach Tree City, GA 30269",
+          "PACOccupationEmployer": "\nManager\nFrank Cawood & Associates",
+          "receivedTypeElection": "01/06/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Harold Bost, Sr.\n126 Turnberry Circle\n\nFayetteville , GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "01/04/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Greg Brezina\n155 Tillinghast Trace\n\nNewnan, GA 30265",
+          "PACOccupationEmployer": "\nMinister\nChristian Families Today",
+          "receivedTypeElection": "01/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Don Cathy\n2895 Lake Park Dr.\n\nJonesboro, GA 30236",
+          "PACOccupationEmployer": "\nexecutive\nChick-fila",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Airports Associaition\nPO Box 9614\n\nSavannah, GA 31418",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/27/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Better Government Fund PAC GA Apt Assoc.\n8601 Dunwoody Place\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/20/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Melanie McCormick\n110 Rolling Brook Trail\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nHousewife\nN/A",
+          "receivedTypeElection": "01/09/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "C R Morrow\n236 Westchester Drive\n\nGriffin, GA 30223",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "01/06/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Point PAC Inc\nPO Box 420304\n\nAtlanta, GA 30342",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "James Robinson\n250 Newhaven Drive\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "01/02/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "SFA PAC Inc\n1355 Peachtree Street, NE, Suite 300\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Andy Siegel\n1703 Montcliff Ct\n\nDecatur, GA 30033",
+          "PACOccupationEmployer": "\nInsurance\nSelf",
+          "receivedTypeElection": "01/03/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Smith Gambrell & Russell PAC\n1230 Peachtree Street N.E., Suite 3100\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Charles Vail\n164 Sibley Way\n\njackson, GA 30233",
+          "PACOccupationEmployer": "\nbusiness owner\nAaron's systems, inc.",
+          "receivedTypeElection": "01/06/2020\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2019June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=139939&Name=Harbin,%20Maurice%20Henderson%20&Year=2019&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Associated General Contractors Of Georgia, Inc. PAC\n1940 The Exchange, Suite 100\n\nAtlanta, GA 30330",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/05/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2019January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=138391&Name=Harbin,%20Maurice%20Henderson%20&Year=2019&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "A. R. Long Company\n3900 Crown Rd SW\n\nAtlanta, GA 30304",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GPhA PAC Inc\n6065 Barfield Rd NE\nSuite 100\nSandy Springs, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrum Drive\nSuite 100\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "David Golden\n2466 Oak Grove Vista\n\nDecatur, GA 30033",
+          "PACOccupationEmployer": "\nAttorney\nTroutman Sanders LLP",
+          "receivedTypeElection": "01/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Professional Insurance Agents of Georgia, Inc. PAC\n3805 Crestwood Parkway\n\nDuluth, GA 30095",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Brent Scarbroiugh\n155 Robinson Dr\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "01/10/2019\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        }
+      ]
+    },
+    {
+      "report": "2018December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=137355&Name=Harbin,%20Maurice%20Henderson%20&Year=2018&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Altria Client Services LLC\nPO Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/09/2018\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cowsert for Senate\nPO Box 512\n\nAthens, GA 30603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/06/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Interfor U.S. Inc\n700 Westpark Drive\nSuite 100\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/26/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Nationwide Mutual Insurance PAC\nOne Nationwide Plaza\n\nColumbus, GA 43215",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/29/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Southern\n1655 Brookhaven Close NE\n\nBrookhaven, GA 30019",
+          "PACOccupationEmployer": "\nChief Financial Officer\nAtlanta Mission",
+          "receivedTypeElection": "11/08/2018\nMonetary\nPrimary\n2020",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Specialty Contractors Coalition\n18 River Trace\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/02/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        }
+      ]
+    },
+    {
+      "report": "2018October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=135164&Name=Harbin,%20Maurice%20Henderson%20&Year=2018&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Frank Cawood\n103 Clover Green\n\nPeachtree City, ga 30269",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "10/05/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Classic Canopies, Inc\nPO Box 2130\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/10/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Patrick Hinchey\n108 Vandsail Way\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nBusiness Owner\nHinchey & Associates",
+          "receivedTypeElection": "10/11/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Melanie McCormick\n110 Rolling Brook Trail\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nHousewife\nN/A",
+          "receivedTypeElection": "10/14/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Charles McCoy\n200 Belle Island Lane\n\nRichmond Hills, GA 31324",
+          "PACOccupationEmployer": "\nInsurance Agent\nBernard Williams & Co",
+          "receivedTypeElection": "10/04/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "C R Morrow\n236 Westchester Drive\n\nGriffin, GA 30223",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "10/17/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$125.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Kenneth Patterson\n141 Massengale\n\nBrooks, GA 30205",
+          "PACOccupationEmployer": "\nRetired\nN/A",
+          "receivedTypeElection": "10/09/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Southeastern Carpenters Regional Council PAC\n3710 Executive Center Drive Suite A\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/09/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2018September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=134397&Name=Harbin,%20Maurice%20Henderson%20&Year=2018&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Timothy Anders\n103 Clover Reach\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nCPA\nFrank Cawood",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "ALLEN BALDWIN\n413 LOYD ROAD\n\nPEACHTREE CITY, GEORGIA 30269",
+          "PACOccupationEmployer": "\nMANAGER\nFRANK CAWOOD & ASSOC",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Joel Baker\n1210 Redwine Court\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Harold Bost, Sr.\n126 Turnberry Circle\n\nFayetteville , GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "WESLEY CANTRELL\n4535 MYSTIQUE WAY\n\nROSWELL, GEORGIA 30075",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CWA - COPE PCC\n501 3rd Street NW\n\nWashington, DC 20001",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/11/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cancer Treatment Centers of America Global Inc\n5900 Broken Sound Parkway NW\n\nBoca Raton, FL 33487",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Don Cathy\n2895 Lake Park Dr.\n\nJonesboro, ga 30236",
+          "PACOccupationEmployer": "\nexecutive\nChick-fila",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Conditioned Air Association of GA PAC\nPO Box 1928\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/17/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Alan Ferguson\n2458 Annandale Drive\n\nMarietta, GA 30066",
+          "PACOccupationEmployer": "\nOwner\nFerguson Heating & Air",
+          "receivedTypeElection": "09/20/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Ralph Hudgens\n6509 Hwy 106 S\n\nHull, GA 30646",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/23/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GAHUPAC\n248 Creekridge\n\nWoodstock, GA 30188",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway, Suite 200\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Dental Association PAC\n7000 Peachtree Dunwood Rd\nBldg 17, Ste 200\nAtlanta, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "J K Hutcherson\n105 Bel Aire Loop\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc\n4555 Mansell Road Suite 300\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "John Kennedy for State Senate\nPO Box 6236\n\nMacon, GA 31208",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/28/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Larry King\n1167 Branch Water Court\n\nAtlanta, GA 30338",
+          "PACOccupationEmployer": "\nCPA\nSelf",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ennis Laney III\nPO Box 274\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\nBusiness Owner\nBusiness",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Larry Walker for State Senate\n1110 Washington Street\n\nPerry, GA 31096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Robert McCullough\n215 Manor Drive\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nOptometrist\nSelf",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Senator Jack Hill Campaign\nPO Box 466\n\nReidsville, GA 33453",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "The Coca-Cola Company Georgia PAC\nPO Box 1784\n\nAtlanta, GA 30501",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/24/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ramon Watt\n209 Chateau LN\n\nPeachtree city, GA 30269",
+          "PACOccupationEmployer": "\nRetired\nNone",
+          "receivedTypeElection": "09/27/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Watts & Colwell Builders, Inc.\nPO Box 97\n\nZebulon, GA 30295",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/30/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2018June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=133053&Name=Harbin,%20Maurice%20Henderson%20&Year=2018&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Albers for Senate\n530 Junction Point\n\nRoswell, GA 30075",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/20/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Allan Vigil Ford\n275 Glynn St N\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Associated Builders and Contractors\n8975 Roswell Road\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Associated General Contractors Of Georgia, Inc. PAC\n1940 The Exchange, Suite 100\n\nAtlanta, GA 30330",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Beach for Senate Inc\n3100 Brierfield Road\n\nAlpharetta, GA 30004",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "John Bonner\n265 Old Ivy\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nReal Estate\nSoutheast Properties, Inc.",
+          "receivedTypeElection": "05/15/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Harold Bost, Sr.\n126 Turnberry Circle\n\nFayetteville , GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Bradford Brezina\n44 Woodmere\n\nnewnan, Ga 30265",
+          "PACOccupationEmployer": "\nsales\nharbin Insurance agency",
+          "receivedTypeElection": "04/06/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$800.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Greg Brezina\n155 Tillinghast Trace\n\nNewnan, GA 30265",
+          "PACOccupationEmployer": "\nMinister\nChristian Families Today",
+          "receivedTypeElection": "05/21/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Bruce Thompson for State Senate\nPO Box 2072\n\nAdairsville, GA 30103",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cancer Treatment Centers of America Global Inc\n5900 Broken Sound Parkway NW\n\nBoca Raton, FL 33487",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Chuck Hufstetler for State Senate\n3 Orchard Spring Drive\n\nRome, GA 30165",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/20/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Conditioned Air Association of GA PAC\nPO Box 1928\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/24/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cowsert for Senate\nPO Box 512\n\nAthens, GA 30603",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Crane\n3124 Smokey Road\n\nNewnan, GA 30263",
+          "PACOccupationEmployer": "\nGeneral contractor\nHarvest Construction",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Lee Davis\n208 Edgewater Way\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Dean Burke for GA State Senate Campaign\n600 W Shotwell Street, Ste C\n\nBainbridge, GA 39519",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/20/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Bill Heath\n2225 Cashtown Rd\n\nBremen, GA 30011",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/26/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$999.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Blake Tillery\n404 Durden Street\n\nVidalia, GA 30474",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/20/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Greg Kirk\nP.O. Box 6085\n\nAmericus, GA 31709",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/15/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of John Wilkinson\nPO Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Ralph Hudgens\n6509 Hwy 106 S\n\nHull, GA 30646",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/23/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Steve Gooch\nPO Box 600\n\nDahlonega, GA 30533",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/06/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends to Elect Burt Jones\nPO Box 767\n\nJackson, GA 30233",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/07/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GILA - Consumer Credit People for Responsible Government\nPO Box 803\n\nMacon, GA 31202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GPhA PAC Inc\n6065 Barfield Rd NE\nSuite 100\nSandy Springs, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/15/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Geico Direct\nOne Geico Plaza\n\nWashington, DC 20076",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Rd\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Better Government Fund PAC GA apt Assoc.\n8601 Dunwoody Place\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway, Suite 200\n\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/15/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia IFAPAC\n677 Maine Street\n\nSuwanee, GA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Republican Senatorial Committee, Inc.\nPO box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Republican Senatorial Committee, Inc.\nPO Box 2227\n\nToccoa, GA 30577",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/09/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Restaurant Association\n260 Peachtree Street NW, Suite 1901\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Frank Ginn\n5407 Wildcat Bridge Rd\n\nRoyston, GA 30662",
+          "PACOccupationEmployer": "\nState Senator\nGeorgia General Assembly",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Harbin\n155 Farr Lake Drive\n\nTyrone, GA 30290",
+          "PACOccupationEmployer": "\nInsurance Agent\nHarbin Insurance Agency",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Helen S. Harbin Living Trust\n366 Ellison Road\n\nTyrone, GA 30290",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Patrick Hinchey\n108 Vandsail Way\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nBusiness Owner\nHinchey & Associates",
+          "receivedTypeElection": "05/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Patrick Hinchey\n108 Vandsail Way\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nBusiness Owner\nHinchey & Associates",
+          "receivedTypeElection": "05/18/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc\n4555 Mansell Road Suite 300\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Jesse C Stone Campaign Account\n827 North Liberty Street\n\nWaynesboro, GA 30830",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/30/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "John Kennedy for State Senate\nPO Box 6236\n\nMacon, GA 31208",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/26/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Matt Brass for State Senate\nPO Box 1313\n\nNewnan, GA 30264",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/26/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Melanie McCormick\n110 Rolling Brook Trail\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nHousewife\nN/a",
+          "receivedTypeElection": "05/07/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Mike Dugan for State Senate\n106 Champion Drive\n\nCarrollton, GA 30116",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/11/2018\nMonetary\nGeneral\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "C R Morrow\n236 Westchester Drive\n\nGriffin, GA 30223",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "PK Martin for State Senate\n455 Pine Forest Drive\n\nLawrenceville, GA 30046",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/20/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "SFA PAC Inc\n1355 Peachtree Street, NE, Suite 300\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Senator Jack Hill Campaign\nPO Box 466\n\nReidsville, GA 33453",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/16/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Charles Sheets, Jr\n6855 Falcon Dr\n\nCanal Winchester, OH 34410",
+          "PACOccupationEmployer": "\nBusiness owner\nSelf",
+          "receivedTypeElection": "05/07/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Andy Siegel\n1703 Montcliff Ct\n\nDecatur, GA 30033",
+          "PACOccupationEmployer": "\nInsurance\nSelf",
+          "receivedTypeElection": "04/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Smith Gambrell & Russell PAC\n1230 Peachtree Street N.E., Suite 3100\n\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/07/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Southeastern Carpenters Regional Council PAC\n3710 Executive Center Drive Suite A\n\nAugusta, GA 30907",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/20/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Bret Tanner\n1016 Bradshaw Estates Drive\n\nCanton, GA 30115",
+          "PACOccupationEmployer": "\nOperations Manager\nArylessence, Inc.",
+          "receivedTypeElection": "05/21/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,050.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "The William Ligon Campaign Committee\nPO Box 2403\n\nBrunswick, Ga 31521",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/24/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Tippins for State Senate\n139 Midway Road\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/21/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Tyler Harper for Georgia\nP.O. Box 798\n\nOcilla, GA 31774",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Richard Viall\n100 Autumn Leaf\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nInsurance Agent\nViall Insurance",
+          "receivedTypeElection": "05/11/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2018March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=131024&Name=Harbin,%20Maurice%20Henderson%20&Year=2018&Report=March%2031st%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2018January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=129467&Name=Harbin,%20Maurice%20Henderson%20&Year=2018&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Altria Client Services LLC\nPO Box 85088\n\nRichmond, VA 23285",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Associated General Contractors Of Georgia, Inc. PAC\n1940 The Exchange, Suite 100\n\nAtlanta, GA 30330",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/27/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cancer Treatment Centers of America Global Inc\n5900 Broken Sound Parkway NW\n\nBoca Raton, FL 33487",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/26/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Caremark RX\nPO Box 281\n\nLincoln, RI 02895",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/18/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Conditioned Air Association of GA PAC\nPO Box 1928\n\nDuluth, GA 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/19/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "FEAPAC of Georgia\n3664 Biltmore Ave.\n\nTallahassee, FL 32311",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GPhA PAC Inc\n6065 Barfield Rd NE\nSuite 100\nSandy Springs, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/03/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Rd\n\nAtlanta, GA 30326",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/27/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$700.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Better Government Fund PAC GA apt Assoc.\n8601 Dunwoody Place\n\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Dental Association PAC\n7000 Peachtree Dunwood Rd\nBldg 17, Ste 200\nAtlanta, GA 30028",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/27/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Emergency Medicine PAC, Inc\n6134 Poplar Bluff Circle\n\nNorcross, GA 30092",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Medical Eye PAC\n2700 Cumberland Pkwy SE Ste 570\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/27/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "The Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/08/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "The Southeast Permanente Medical Group State Healthcare PAC\nPO Box 2194\n\nRoswell, GA 30077",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2018\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2017June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=126891&Name=Harbin,%20Maurice%20Henderson%20&Year=2017&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2017January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=125842&Name=Harbin,%20Maurice%20Henderson%20&Year=2017&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Civil Justice PAC, Inc of the GA Trial Lawyers Association\n101 Marietta Street NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GPhA PAC inc. (PharmPAC)\n6065 Barfield Road, Suite 100\n\nSandy Springs, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "SFA PAC Inc\n1355 Peachtree Street NE\nSuite 300\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Krista Shira Frost\nPO Box 2567\n27 Velma Drive\nNewnan, GA 30263",
+          "PACOccupationEmployer": "\nHomemaker\nHomemaker",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia IFAPAC\n677 Main Street\n\nSuwanee, ga 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Optometric Association PAC\n400 West Peachtree Street\n\nAtlanta, GA 30308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc.\n4555 Mansell Road, Suite 300\n\nAlpharetta, GA 30022",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Professional Insurance Agents of Georgia, Inc. PAC\n3805 Crestwood Parkway\nSte 140\nDuluth, GA 30095",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Ralph Hudgens\n6509 Hwy 106 S\n\nHull , Georgia 30646",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Bethel for Senate\n1701 Briarcliff Circle\n\nDalton, GA 30720",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Association of Realtors PAC\n6065 Barfield Road\n\nAtlamnta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/05/2017\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016December31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=124983&Name=Harbin,%20Maurice%20Henderson%20&Year=2016&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Dental Association PAC\n3490 Piedmont Road NE\nSuite 110\nAltanta, GA 30335",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/22/2016\nMonetary\nPrimary\n2018",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=123398&Name=Harbin,%20Maurice%20Henderson%20&Year=2016&Report=October%2025th%20-%20Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2016September30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=122940&Name=Harbin,%20Maurice%20Henderson%20&Year=2016&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Titlemax\n2313 East Trinity Mills Road\n\nCarrollton, TX 75006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/13/2016\nMonetary\nGeneral\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,600.00"
+        }
+      ]
+    },
+    {
+      "report": "2016June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=120852&Name=Harbin,%20Maurice%20Henderson%20&Year=2016&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Caterpillar Employees PAC\n100 NE Adams Street\n\nPeoria, IL 61629",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/20/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ronald Simon\n602 Shorline Drive\n\nDewitt, MI 48820",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "05/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Community Bank Employees For Better Government Fund\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/16/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc.\n3186 Chestnut Drive Connector\n\nDoraville, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/06/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016March31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=119907&Name=Harbin,%20Maurice%20Henderson%20&Year=2016&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "American Federation for Children Action Fund\n228 S. Washington Street\n#115\nAlexandria, VA 22214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Horse Racing Coalition, Inc.\n750 Hammond Drive\nBuilding 14\nAtlanta, GA 30328",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Select Management Resources, LLC\n3440 Preston Ridge Road\nSuite 600\nAlpharetta, GA 30006",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Krista Shira Frost\nPO Box 2567\n27 Velma Drive\nNewnan, GA 30263",
+          "PACOccupationEmployer": "\nHomemaker\nHomemaker",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "SFA PAC Inc\n1355 Peachtree Street NE\nSuite 300\nAtlanta, GA 30309",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/28/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2016January31Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=118152&Name=Harbin,%20Maurice%20Henderson%20&Year=2016&Report=January%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Dental Association PAC\n3490 Piedmont Road NE\nSuite 110\nAltanta, GA 30335",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/04/2016\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Senator Jack Hill Campaign\nPO Box 486\n\nReidsville, GEORGIA 30453",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/28/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Oilmen's Association\n1775 Spectrum Drive\nSuite 100\nLawrenceville, GA 30043",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/23/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Interfor US Inc.\n2211 Rimland Drive\nSuite 220\nBellingham, WA 98226",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/23/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Caterpillar Employees PAC\n100 NE Adams Street\n\nPeoria, IL 61629",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc.\n1731 Meriweather Drive\n\nWatkinsville, GA 30677",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of Georgia\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "BEVPAC\n50 Hurt Plaza SE\nSuite 935\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia CUPAC\n6705 Sugarloaf Parkway\nSuite 200\nDuluth, GA 30097",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/15/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Forestpac-GFA\nPO Box 1217\n\nForsyth, GA 31029",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/10/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$400.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Community Bank Employees For Better Government Fund\n1900 The Exchange\nSuite 600\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/04/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Civil Justice Inc.\n101 Marietta Street NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/30/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Better Government Fund\n8601 Dunwoody Place\nSuite 318\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/18/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Blue Cross Blue Shield of Georgia\nPO Box 68086\n\nCincinnatti, OH 45205",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/17/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Humana\nPO Box 740083\n\nLouisville, KY 40202",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "The Georgia Medical PAC\n1849 The Exchange\n\nAtlanta, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Independent Doctors of Georgia\n1230 Peachtree Street NE\nSuite 2100\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/16/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Humana\nPO Box 14750\n\nLexington, KY 40512",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/30/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2015June30Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=116083&Name=Harbin,%20Maurice%20Henderson%20&Year=2015&Report=June%2030th%20-%20Non-Election%20Year",
+      "data": [],
+      "note": "No contributions reported."
+    },
+    {
+      "report": "2015January31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115688&Name=Harbin,%20Maurice%20Henderson%20&Year=2015&Report=January%2031st%20-%20Non-Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "K12 Management INC\nSouth Point II\n2300 Corporate Park Drive\nHerndon, VA 20171",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Casey Cagle for Lt. Governor\nPO Box 12137\n\nAtlanta, GA 30355",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/11/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Select Management Resources LLC\n3440 Preston Ridge Road\nSuite 500\nAlpharetta, GA 30005",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Aetna\n151 Farmington Avenue\n\nHartford, CT 06156",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/06/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Break Point\n2322 Reubens Run\n\nMarietta, GA 30064",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CARD of GA\nPO Box 725154\n\nAtlanta, GA 31139",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.15"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Cable Television Association of Georgia PAC\n34 Peachtree Street\nSuite 1900\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Civil Justice PAC, INC of the GA Trial Lawyers Association\n101 Marietta Street NW\nSuite 3350\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Committee to Elect Butch Miller\n4734 Arapahoe Trail\n\nGainesville, GA 30506",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "01/09/2015\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014October25Original",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115686&Name=Harbin,%20Maurice%20Henderson%20&Year=2014&Report=October%2025th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GOPAC\n2300 Clarendon Boulevard\nSuite 1305\nArlington, VA 22201",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Specialty Contractors Coalition\n18 River Trace\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/17/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Associated Builders and Contractors\n8975 Roswell Road\n\nAtlanta, GA 30350",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/02/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Mining Association\n113 Arkwright Landing\n\nMacon, GA 31210",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/24/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Geico Direct\n1 Geico Plaza\n\nWashington, DC 20076",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/17/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    },
+    {
+      "report": "2014December31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115687&Name=Harbin,%20Maurice%20Henderson%20&Year=2014&Report=December%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "American Bankers Insurance CO of FL\nQuall Drive\n\nMiami, FL 33257",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Blue Cross Blue Shield of GA\nPO Box 68053\n\nCincinnati, OH 45206",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "American Insurance Association\nD Street\n\nWashington, DC 20037",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Titlemax\nBull Street\n\nSavannah, GA 38401",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/03/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Republican Leadership Fund of GA\n1821 Woodsdale\n\nAltanta, GA 30324",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "11/01/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Republican Leadership Fund of GA\n1821 Woodsdale\n\nAltanta, GA 30324",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Select management Resoruces\n3440 Preston Ridge Rd\nSte 500\nAlpharetta, GA 30005",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "10/31/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Frank Cawood & Associates\n103 Clover Green\n\nPeachtree City, ga 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/11/2014\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Primerica Political Action Committee\n3120 Breckenridge Blvd\n\nDuluth, ga 30099",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "12/19/2014\nMonetary\nPrimary\n2016",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "2014September30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115685&Name=Harbin,%20Maurice%20Henderson%20&Year=2014&Report=September%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Senator Jack Hill Campaign\nPO Box 466\n\nRedsville, ga 33453",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/14/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Michael Williams\n3482 Keith Bridge Rd.\nSte 31D\nCummings, GA 30041",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/08/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "committee to Elect matt Ramsey\nPO Box 2326\n\npeachtree city, GA 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/20/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Albers for Senate\n865 Woodstock Rd.\nSte 430\nRoswell, GA 30075",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/08/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "David Shafer Senate Committee\nPO Box 880\n\nDuluth , GA 30396",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "08/07/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Charles Vail\n164 Sibley Way\n\njackson, Ga 30233",
+          "PACOccupationEmployer": "\nbusiness owner\nAaron's systems, inc.",
+          "receivedTypeElection": "07/18/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Committee to elect butch miller\n4734 arapahe trail\n\ngainesville, ga 30506",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/28/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "doug warner\n100 colony point\n\nfayetteville, ga 30215",
+          "PACOccupationEmployer": "\nattorney\nwarner law firm",
+          "receivedTypeElection": "08/15/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$350.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Banker's Association State PAC\n50 hurt plaza\nSuite 1050\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Better Government Fund PAC GA apt Assoc.\n8601 Dunwoody Place\nSte 312\nAtlanta, GA 30303",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Professional Insurance Agents of Georgia, Inc. PAC\n3805 Crestwood Parkway\nSte 140\nDuluth, GA 30095",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/22/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "FEAPAC of Georgia\n3664 Biltmore Ave.\n\nTallahassee , FL 32311",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/23/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Medical Eye PAC\n2711 Irwin Way\nSte 11\nDecatur, GA 30030",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "09/29/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Robert Stokely\n100 Fountainhead Way\n\nSharpsburg, GA 30277",
+          "PACOccupationEmployer": "\nAttorney\nSelf",
+          "receivedTypeElection": "07/21/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Barbara Greene\n35 Brookside Drive\n\nNewnan, GA 30263",
+          "PACOccupationEmployer": "\nHomemaker\nHomemaker",
+          "receivedTypeElection": "07/21/2014\nMonetary\nGeneral\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        }
+      ]
+    },
+    {
+      "report": "20146Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115684&Name=Harbin,%20Maurice%20Henderson%20&Year=2014&Report=6%20Days%20Before%20Primary%20Run-Off%20Election%20-%2007/22/2014",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "bARRY LOUDERMILK\nPO BOX 447\n\nCASSVILLE , GA 30123",
+          "PACOccupationEmployer": "\nBUSINESS OWNER\nINNOVATIVE NETWORK SYSTEMS",
+          "receivedTypeElection": "07/09/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "DAVID BOEDKER\nPO BOX 88\n\nDANVILLE, PA 17821",
+          "PACOccupationEmployer": "\nCEO\nKEYSTONE INSURERS GROUP",
+          "receivedTypeElection": "07/07/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "georgia IFAPAC\n677 main Street\n\nSuwanee, ga 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/11/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "CHARLES MCCOY\nPO BOX 22213\n\nSAVANNAH, GA 31403",
+          "PACOccupationEmployer": "\nINSURANCE AGENT\nBERNARD WILLIAMS AND cO",
+          "receivedTypeElection": "07/02/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "GA BRANCH ASSOCIATED GENERAL CONTRACTORS PAC\n1940 THE EXCHANGE\n\nATLANTA, GA 30339",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/08/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "American Federation for Children Action Fund - GA PAC\n22B SOUTH WASHINGTON ST\nSTE 115\nALEXANDRIA, GA 22314",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/15/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$750.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "FAYETTE VETERINRY MEDICAL CENTER\n686 GLYNN STREET SOUTH\n\nFAYETTEVILLE, GA 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/15/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "EISENHART CONSULTING GROUP\npO BOX 30632\n\nLINCOLN, NE 68503",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "07/14/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Kevin Hannani\n211 Huddleston\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nBusiness Owner\nPeachtree Body Shop",
+          "receivedTypeElection": "07/16/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,050.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Dave Lee\n570 North Jeff Davis Drive\n\nFayetteville, gA 30214",
+          "PACOccupationEmployer": "\nDentist\nSelf",
+          "receivedTypeElection": "07/15/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Stephen Pritchard\n112 Meadowlark Trace\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "07/12/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "David Conley\n135 Brandywine\nSuite A\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\nCPA\nSelf",
+          "receivedTypeElection": "07/15/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "James Fernander\n8915 E. Carroll Road\n\nWinston, GA 30187",
+          "PACOccupationEmployer": "\nSupervisor\nuPS",
+          "receivedTypeElection": "07/13/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        }
+      ]
+    },
+    {
+      "report": "2014June30Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115683&Name=Harbin,%20Maurice%20Henderson%20&Year=2014&Report=June%2030th%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "conditioned Air Association of GA PAC\nPO box 1928\n\nDuluth , Ga 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/27/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "John bonner\n265 Old Ivy\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nbusiness owner\nReal Estate",
+          "receivedTypeElection": "05/30/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "HELEN HARBIN\n366 Ellison Road\n\ntyrone, ga 30290",
+          "PACOccupationEmployer": "\nhousewife\nretired",
+          "receivedTypeElection": "05/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Don Cathy\n2895 Lake Park Dr.\n\nJonesboro, ga 30236",
+          "PACOccupationEmployer": "\nexecutive\nChick-fila",
+          "receivedTypeElection": "05/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "the William Ligon Campaign Committee\n1309 Gloucester Streeet\n\nBrunswick , Ga 31520",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/02/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "John Bermudez\n439 Plantain Ter\n\nPeachtree city , GA 30296",
+          "PACOccupationEmployer": "\nconsultant\nChick-Fila",
+          "receivedTypeElection": "05/18/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Waymon Ahart & Associates\nPO Box 308\n\nFayetteville, Ga 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "ahart & Associates\n125 Habersham Dr.\n\nFayetteville, Ga 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/12/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Donnie Patton\n374 Hampton Rd\n\nFayetteville, ga 30215",
+          "PACOccupationEmployer": "\nExecutive\nD & D Electric",
+          "receivedTypeElection": "05/17/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IEC Atlanta PAC\n4500 Winters chapel Rd\n\nAtlanta , GA 30360",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/13/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia Right to Life State pAC\nPO box 2665\n\nNorcross, GA 30091",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Mike Pirkle\n165 farm Lane\n\nFayetteville, ga 30214",
+          "PACOccupationEmployer": "\nbusiness owner\nMarable Pirkle",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Q.T. Contracting Inc\n200 tiger Way\n\nPeactrhee City, ga 30269",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/10/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Greg Brezina\n155 tillinghast trace\n\nnewnan, ga 30265",
+          "PACOccupationEmployer": "\nminister\nChristian Families Today",
+          "receivedTypeElection": "04/15/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Steven hale\n1015 tyrone Rd Ste 810\n\nTyrone , Ga 30290",
+          "PACOccupationEmployer": "\nInsurance agent\nNorthwestern Mutual",
+          "receivedTypeElection": "04/30/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Sokolow and bollinger CPA\n5353 N. federal Hwy\n\nFort Lauderdale , fl 33308",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/03/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "KRISTA SHIRA FROST\n27 VELMA DRIVE\n\nNEWNAN, GA 30263",
+          "PACOccupationEmployer": "\nHOUSEWIFE\nNONE",
+          "receivedTypeElection": "05/02/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Evelyn Marchman\n160 Silverthorn Dr.\n\nTyrone, Ga 30290",
+          "PACOccupationEmployer": "\nHomemaker\nnone",
+          "receivedTypeElection": "05/04/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Bradford Brezina\n44 Woodmere\n\nnewnan, Ga 30265",
+          "PACOccupationEmployer": "\nsales\nharbin Insurance agency",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Robert Lester\n465 Beaurgard Blvd\n\nfayetteville, ga 30215",
+          "PACOccupationEmployer": "\nretired\nnone",
+          "receivedTypeElection": "05/01/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$100.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "kenneth patterson\n141 Massengale\n\nBrooks, , ga 30205",
+          "PACOccupationEmployer": "\nRetired\nnone",
+          "receivedTypeElection": "04/27/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "melainie McCormick\n110 Rolling Brook Trl\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nhousewife\nnone",
+          "receivedTypeElection": "04/22/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ramon Watt\n209 Chateau LN\n\nPeachtree city, GA 30269",
+          "PACOccupationEmployer": "\nRetired\nNone",
+          "receivedTypeElection": "04/22/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Southeast Properties, Inc\nPO Box 1387\n\nfayetteville, GA 30214",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "conditioned Air Association of GA PAC\nPO box 1928\n\nDuluth , Ga 30096",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/16/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Alice Mallory\nPO box 778\n\nfayetteville, gA 30214",
+          "PACOccupationEmployer": "\nRetired\nnone",
+          "receivedTypeElection": "04/08/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Patrick Hinchey\n220 Trotters Ridge\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nBusiness Owner\nHinchey & Associates",
+          "receivedTypeElection": "05/27/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Kimberly Hinchey\n220 trotters Ridge\n\nfayetteville, GA 30215",
+          "PACOccupationEmployer": "\nRegistered Representative\nHinchey & Associates",
+          "receivedTypeElection": "05/27/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Steve Dupont\n250 woodcreek LN\n\nfayetteville , GA 30215",
+          "PACOccupationEmployer": "\nManager\nspartech Polycast",
+          "receivedTypeElection": "04/12/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ronald Simon\n602 shoreline DR.\n\nDewitt, MI 48820",
+          "PACOccupationEmployer": "\nRetired\nNone",
+          "receivedTypeElection": "04/02/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA of GA, Inc.\n3186 Chestnut Drive Connector\n\nDoraville, GA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "05/27/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Builders Political Action Committee\n3015 Camp Creek Parkway\n\nAtlanta, GA 30344",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/18/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Christian Fryer\n555 Ellison RD\n\nTyrone, GA 30290",
+          "PACOccupationEmployer": "\nPresident\nClassic Canopies",
+          "receivedTypeElection": "06/23/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Conrad Bollinger\n442 Plantain Terrace\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nCPA\nCPA firm",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Herbert Odle\n1004 Pleasance Grove\n\nPeachtree City, GA 30269",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Holmes\n935 Ward Rd\n\nWilliamson, GA 30292",
+          "PACOccupationEmployer": "\nSenior Vice President\nGeorgia Military College",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Charles Adams\n1161 Antioch Rd.\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$150.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Greg Brezina\n155 tillinghast trace\n\nnewnan, ga 30265",
+          "PACOccupationEmployer": "\nminister\nChristian Families Today",
+          "receivedTypeElection": "06/23/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Donnie Patton\n374 Hampton RD\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nElectrical Contractor\nElectrical Business",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Mike Crane\n3124 Smokey Rd.\n\nNewnan, Ga 30283",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Barbara Greene\n35 Brookside Dr.\n\nnewnan, GA 30263",
+          "PACOccupationEmployer": "\nHomemaker\nnone",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Ennis Laney III\nPO Box 274\n\nFayetteville, GA 30214",
+          "PACOccupationEmployer": "\nBusiness Owner\nBusiness",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Melanie McCormick\n110 Rolling Brook Trail\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nHOUSEWIFE\nHousewife",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Eric Coloney\n144 Cloister Dr.\n\nPeachtree City , Georgia 30269",
+          "PACOccupationEmployer": "\nretired\nnone",
+          "receivedTypeElection": "06/09/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Doug Mickey\n1831 Highway 92 S\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nManager\nDwarf House",
+          "receivedTypeElection": "06/15/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "James Browning\nPO box\n\nBrooks, GA 30205",
+          "PACOccupationEmployer": "\nBusiness Owner\nTrailers for Less",
+          "receivedTypeElection": "06/09/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Ralph Hudgens\n6509 Hwy 106 S\n\nHull , Georgia 30646",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/13/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "robert Lester\n465 beauregard Blvd\n\nFayetteville, Georgia 30215",
+          "PACOccupationEmployer": "\nRetired\nNone",
+          "receivedTypeElection": "06/19/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Bill Heath\n2225 Cashtown Rd\n\nBremen, Georgia 30011",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/11/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Friends of Tommie Williams\n148 Williams Avenue\n\nLyons, Georgia 30436",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "06/10/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "J K Hutcherson\n105 Bel Aire Loop\n\nFayetteville, Georgia 30215",
+          "PACOccupationEmployer": "\nRetired\nRetired",
+          "receivedTypeElection": "06/19/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Timothy Anders\n103 Clover Reach\n\nPeachtree City , GA 30269",
+          "PACOccupationEmployer": "\nCPA\nFrank Cawood",
+          "receivedTypeElection": "04/24/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "James Robinson\n250 NEWHAVEN DR\n\nFAYETTEVILLE, GA 30215",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "06/05/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "ALLEN & COLLEEN BALDWIN\n413 LOYD ROAD\n\nPEACHTREE CITY, GEORGIA 30269",
+          "PACOccupationEmployer": "\nMANAGER\nFRANK CAWOOD & ASSOC",
+          "receivedTypeElection": "05/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$300.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Richard Viall\n100 AUTUMN LEAF\n\nPEACHTREE CITY, ga 30269",
+          "PACOccupationEmployer": "\nINSURANCE AGENT\nVIALL INSURANCE",
+          "receivedTypeElection": "05/13/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$200.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "JAMES GLANTON\n8374 CREEKRIDGE CIRCLE\n\nRIVERDALE , GA 30296",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "05/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "BEN AUTRY\n184 DAVIS RD\n\nFAYETTEVILLE, GA 30215",
+          "PACOccupationEmployer": "\nBUSINESS OWNER\nAUTRY'S ARMORY",
+          "receivedTypeElection": "05/05/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "LARRY KING\n1167 BRANCH WATER COURT\n\nDUNWOODY, GA 30338",
+          "PACOccupationEmployer": "\nCPA\nLS KING & ASSOCIATES",
+          "receivedTypeElection": "05/06/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Russell Wood\n225 Marron Road\n\nFayetteville, GA 30215",
+          "PACOccupationEmployer": "\nPilot\nDelta Airlines",
+          "receivedTypeElection": "06/16/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Harbin\n155 Farr Lake Drive\n\nTyrone, GA 30290",
+          "PACOccupationEmployer": "\nInsurance Agent\nHarbin Insurance Agency",
+          "receivedTypeElection": "04/07/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,100.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "KRISTA SHIRA FROST\n27 VELMA DRIVE\n\nNEWNAN, GA 30263",
+          "PACOccupationEmployer": "\nHOUSEWIFE\nNONE",
+          "receivedTypeElection": "04/07/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Georgia IFAPAC\n677 Main Street\n\nSuwanee, gA 30024",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "04/07/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "Michael Holmes\n935 Ward Road\n\nWilliamson, GA 30292",
+          "PACOccupationEmployer": "\nSenior Vice President\nGeorgia Military College",
+          "receivedTypeElection": "06/24/2014\nMonetary\nRun-Off Primary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$75.00"
+        }
+      ]
+    },
+    {
+      "report": "2014March31Amended",
+      "url": "https://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions_RFR.aspx?NameID=20615&FilerID=C2014000239&CDRID=115682&Name=Harbin,%20Maurice%20Henderson%20&Year=2014&Report=March%2031st%20-%20Election%20Year",
+      "data": [
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "HELEN HARBIN\n366 Ellison Road\n\ntyrone, Ga 30290",
+          "PACOccupationEmployer": "\nhousewife\nretired",
+          "receivedTypeElection": "03/09/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$2,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "ALLEN BALDWIN\n413 LOYD ROAD\n\nPEACHTREE CITY, GEORGIA 30269",
+          "PACOccupationEmployer": "\nMANAGER\nFRANK CAWOOD & ASSOC",
+          "receivedTypeElection": "03/26/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "WESLEY & BERNADINE CANTRELL\n4535 MYSTIQUE WAY\n\nROSWELL, GEORGIA 30075",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "03/11/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "FREINDS OF MIKE CRANE\n3124 SMOKEY ROAD\n\nNEWNAN, GEORGIA 30263",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/25/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "TERRY L. KILLINGSWORTH\nP. O. BOX 544\n\nGRIFFIN, GEORGIA 30224",
+          "PACOccupationEmployer": "\nINSURANCE AGENTY\nSYNER, KILLINGSWORTH",
+          "receivedTypeElection": "03/20/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$250.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "P. PHILLIP KEARNS, JR\nP. O. BOX 2647\n\nPEACHTREE CITY, GEORGIA 30269",
+          "PACOccupationEmployer": "\nCAR SALESMAN\nALLEN VIGIL FORD",
+          "receivedTypeElection": "03/26/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "LEE j & LUCIE DAVIS\n208 EDGEWATER WAY\n\nPEACHTREE CITY, GEORGIA 30269",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "LEE J. & LUCIE M. DAVIS\n208 EDGEWATER WAY\n\nPEACHTREE CITY, GEORGIA 30269",
+          "PACOccupationEmployer": "\nRETIRED\nNONE",
+          "receivedTypeElection": "03/31/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$500.00"
+        },
+        {
+          "candidateName": "Harbin, Maurice Henderson",
+          "contribName": "IIA OF GA, INC.\n3186 CHESTNUT DRIVE CONNECTOR\n\nDORAVILLE, GEORGIA 30340",
+          "PACOccupationEmployer": "\n\n",
+          "receivedTypeElection": "03/21/2014\nMonetary\nPrimary\n2014",
+          "inKindDescription": "",
+          "inKindAmount": "$0.00",
+          "cashAmount": "$1,000.00"
+        }
+      ]
+    }
+  ]
+}
