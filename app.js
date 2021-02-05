@@ -4,8 +4,7 @@ const { getSenNamesAndPhotos } = require("./puppeteer/names_and_photos/index");
 const {
   getSenContributions,
 } = require("./puppeteer/get_contributions/index.js");
-// const parseContributions = require("./parseContributions.js")
-//   .parseContributions;
+const { parseContributions } = require("./puppeteer/parse_contributions/index");
 // const readFileAndPushToFirestore = require("./firebase.js");
 
 const getSenatorsAndIDs = async () => {
@@ -16,18 +15,26 @@ const getSenatorsAndIDs = async () => {
 
   ///////////////// STAGE 2 /////////////////
   // get all contributions for each senator
-  const senArray = JSON.parse(fs.readFileSync("./json/senArray.json", "utf-8"));
-  for (let sen of senArray) {
-    await getSenContributions(sen);
-  }
-
-  ////////////////// STAGE 3 //////////////////
+  // const senArray = JSON.parse(fs.readFileSync("./json/senArray.json", "utf-8"));
   // for (let sen of senArray) {
-  //  let twoSen = await parseContributions(sen);
-  //  let threeSen = await readFileAndPushToFirestore(twoSen);
+  //   await getSenContributions(sen);
   // }
 
   ////////////////// STAGE 3 //////////////////
+  // parse contributions, getting top contributors, buckets
+  // const senArray = JSON.parse(fs.readFileSync("./json/senArray.json", "utf-8"));
+  // for (let sen of senArray) {
+  //   await parseContributions(sen);
+  // }
+
+  ////////////////// STAGE 4 //////////////////
+  // push to firestore
+  const senArray = JSON.parse(fs.readFileSync("./json/senArray.json", "utf-8"));
+  for (let sen of senArray) {
+    const threeSen = await readFileAndPushToFirestore(sen);
+  }
+
+  ////////////////// STAGE 4 //////////////////
   // call parseContributions.js/top500contribs to update metaSTATSpartial, then
   // call firebase.js/pushPhotos and readMetaSTATSpartial to push to firestore
 };
