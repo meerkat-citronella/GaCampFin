@@ -19,6 +19,7 @@ module.exports = {
     chuck: "charles",
     marty: "maurice",
     ben: "benjamin",
+    larry: "lawrence",
   },
   specificSenSubs: {
     // for specific sens that aren't handled above
