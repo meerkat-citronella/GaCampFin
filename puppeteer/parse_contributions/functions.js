@@ -1,6 +1,8 @@
+const fs = require("fs");
+
 module.exports = {
   turnContribObjIntoArrayAndSort(contributorsObj) {
-    let contributorsArray = [];
+    const contributorsArray = [];
 
     for (let contributor in contributorsObj) {
       contributorsArray.push({
@@ -18,16 +20,16 @@ module.exports = {
 
   // get total itemized cash contributions from each report for a given senator's JSON data
   parseContributionsByReport(senJSON) {
-    let reportTotals = [];
+    const reportTotals = [];
     for (let report of senJSON.data) {
-      let data = report.data;
-      let reportName = report.report;
-      let url = report.url;
+      const data = report.data;
+      const reportName = report.report;
+      const url = report.url;
       let totalContributions = 0;
       for (let entry of data) {
         // check for accounting negative, i.e. ($someNumber)
-        let cashEntry = entry.cashAmount;
-        let inKindEntry = entry.inKindAmount;
+        const cashEntry = entry.cashAmount;
+        const inKindEntry = entry.inKindAmount;
         cashAmount = parseFloat(cashEntry.replace(/[$,()]/gi, ""));
         inKindAmount = parseFloat(inKindEntry.replace(/[$,()]/gi, ""));
         if (cashEntry.includes("(")) cashAmount = -cashAmount;
@@ -79,16 +81,16 @@ module.exports = {
           )
           .trim()
           .toLowerCase();
-        let cashEntry = entry.cashAmount;
-        let inKindEntry = entry.inKindAmount;
+        const cashEntry = entry.cashAmount;
+        const inKindEntry = entry.inKindAmount;
         cashAmount = parseFloat(cashEntry.replace(/[$,()]/gi, ""));
         inKindAmount = parseFloat(inKindEntry.replace(/[$,()]/gi, ""));
         if (cashEntry.includes("(")) cashAmount = -cashAmount;
         if (inKindEntry.includes("(")) inKindAmount = -inKindAmount;
 
         if (contributor in contributors) {
-          let prevTotalContrib = contributors[contributor];
-          let newTotalContrib = prevTotalContrib + cashAmount + inKindAmount;
+          const prevTotalContrib = contributors[contributor];
+          const newTotalContrib = prevTotalContrib + cashAmount + inKindAmount;
           contributors[contributor] = newTotalContrib;
         } else if (!(contributor in contributors)) {
           contributors[contributor] = cashAmount + inKindAmount;
@@ -96,15 +98,15 @@ module.exports = {
       }
     }
 
-    let contributorsArray = module.exports.turnContribObjIntoArrayAndSort(
+    const contributorsArray = module.exports.turnContribObjIntoArrayAndSort(
       contributors
     );
 
-    let contributorsArrayCapitalized = contributorsArray.map((contrObj) => {
-      let contributor = contrObj.contributor.split("");
+    const contributorsArrayCapitalized = contributorsArray.map((contrObj) => {
+      const contributor = contrObj.contributor.split("");
       for (let i = 0; i < contributor.length; i++) {
         if (i - 1 < 0) {
-          let upperCaseLetter = contributor[i].toUpperCase();
+          const upperCaseLetter = contributor[i].toUpperCase();
           contributor[i] = upperCaseLetter;
         } else if (
           contributor[i - 1] === " " &&
@@ -130,12 +132,12 @@ module.exports = {
         ) {
           continue;
         } else if (contributor[i - 1] === " ") {
-          let upperCaseLetter = contributor[i].toUpperCase();
+          const upperCaseLetter = contributor[i].toUpperCase();
           contributor[i] = upperCaseLetter;
         }
       }
 
-      let contributorStr = contributor.join().replace(/,/gi, "");
+      const contributorStr = contributor.join().replace(/,/gi, "");
       return {
         contributor: contributorStr,
         totalContributions: contrObj.totalContributions,
@@ -147,7 +149,7 @@ module.exports = {
 
   // INTERFACE: senJSON from fs.readFile
   getBuckets(senJSON) {
-    let senReports = senJSON.data;
+    const senReports = senJSON.data;
 
     let bucketOneDollars = 0;
     let bucketOneNumDonations = 0;
@@ -165,22 +167,21 @@ module.exports = {
     let totalDonations = 0;
 
     senReports.forEach((report) => {
-      let reportEntries = report.data;
+      const reportEntries = report.data;
       reportEntries.forEach((entry) => {
-        let cashEntry = entry.cashAmount;
-        let inKindEntry = entry.inKindAmount;
+        const cashEntry = entry.cashAmount;
+        const inKindEntry = entry.inKindAmount;
         let cashAmount = parseFloat(cashEntry.replace(/[$,()]/gi, ""));
         let inKindAmount = parseFloat(inKindEntry.replace(/[$,()]/gi, ""));
         if (cashEntry.includes("(")) cashAmount = -cashAmount;
         if (inKindEntry.includes("(")) inKindAmount = -inKindAmount;
 
         let totalContribAmount = cashAmount + inKindAmount;
-        let bucketOneMax = 500;
-        let bucketTwoMax = 1000;
-        let bucketThreeMax = 1500;
-        let bucketFourMax = 2000;
-        let bucketFiveMax = 2500;
-        let bucketSixMax;
+        const bucketOneMax = 500;
+        const bucketTwoMax = 1000;
+        const bucketThreeMax = 1500;
+        const bucketFourMax = 2000;
+        const bucketFiveMax = 2500;
         if (totalContribAmount < 0) {
           totalCash += totalContribAmount;
           totalDonations -= 1;
@@ -219,40 +220,40 @@ module.exports = {
       });
     });
 
-    let bucketOneCashPercentage = Math.round(
+    const bucketOneCashPercentage = Math.round(
       100 * (bucketOneDollars / totalCash)
     );
-    let bucketOneNumPercentage = Math.round(
+    const bucketOneNumPercentage = Math.round(
       100 * (bucketOneNumDonations / totalDonations)
     );
-    let bucketTwoCashPercentage = Math.round(
+    const bucketTwoCashPercentage = Math.round(
       100 * (bucketTwoDollars / totalCash)
     );
-    let bucketTwoNumPercentage = Math.round(
+    const bucketTwoNumPercentage = Math.round(
       100 * (bucketTwoNumDonations / totalDonations)
     );
-    let bucketThreeCashPercentage = Math.round(
+    const bucketThreeCashPercentage = Math.round(
       100 * (bucketThreeDollars / totalCash)
     );
-    let bucketThreeNumPercentage = Math.round(
+    const bucketThreeNumPercentage = Math.round(
       100 * (bucketThreeNumDonations / totalDonations)
     );
-    let bucketFourCashPercentage = Math.round(
+    const bucketFourCashPercentage = Math.round(
       100 * (bucketFourDollars / totalCash)
     );
-    let bucketFourNumPercentage = Math.round(
+    const bucketFourNumPercentage = Math.round(
       100 * (bucketFourNumDonations / totalDonations)
     );
-    let bucketFiveCashPercentage = Math.round(
+    const bucketFiveCashPercentage = Math.round(
       100 * (bucketFiveDollars / totalCash)
     );
-    let bucketFiveNumPercentage = Math.round(
+    const bucketFiveNumPercentage = Math.round(
       100 * (bucketFiveNumDonations / totalDonations)
     );
-    let bucketSixCashPercentage = Math.round(
+    const bucketSixCashPercentage = Math.round(
       100 * (bucketSixDollars / totalCash)
     );
-    let bucketSixNumPercentage = Math.round(
+    const bucketSixNumPercentage = Math.round(
       100 * (bucketSixNumDonations / totalDonations)
     );
 
@@ -272,5 +273,41 @@ module.exports = {
       totalCash,
       totalDonations,
     };
+  },
+
+  // get top contributors across ALL stats files
+  getTopContributors(senatorArray) {
+    const allUniqueContributorsArray = [];
+    senatorArray.forEach((senObject) => {
+      const senSTATSdata = JSON.parse(
+        fs.readFileSync(
+          `${__dirname}/../../json/stats_files/${senObject.fileName}STATS.json`
+        )
+      );
+      const senUniqueContributorsArray = senSTATSdata.uniqueContributors.data;
+      senUniqueContributorsArray.forEach((uniqueContributor) => {
+        allUniqueContributorsArray.push(uniqueContributor);
+      });
+    });
+
+    const contributors = {};
+
+    allUniqueContributorsArray.forEach((uniqueContributor) => {
+      const contributorName = uniqueContributor.contributor;
+      if (contributorName in contributors) {
+        const prevTotalContrib = contributors[contributorName];
+        const newTotalContrib =
+          prevTotalContrib + uniqueContributor.totalContributions;
+        contributors[contributorName] = newTotalContrib;
+      } else if (!(contributorName in contributors)) {
+        contributors[contributorName] = uniqueContributor.totalContributions;
+      }
+    });
+
+    const topContributorsArray = module.exports.turnContribObjIntoArrayAndSort(
+      contributors
+    );
+
+    return topContributorsArray;
   },
 };

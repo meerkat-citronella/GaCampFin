@@ -7,13 +7,9 @@ const {
 } = require("./functions");
 const { selectors } = require("./constants");
 
-/// TESTING ///
-// const fs = require("fs");
-// const TESTsenatorArray = require(`./TESTsenatorArray.json`);
-
 async function getSenNamesAndPhotos() {
   const browser = await puppeteer.launch({
-    headless: false,
+    // headless: false,
   });
   const page = await browser.newPage();
 
@@ -67,7 +63,7 @@ async function getSenNamesAndPhotos() {
         );
 
         await senImageHandle.screenshot({
-          path: `${__dirname}/../../pics/${fileName}.png`,
+          path: `${__dirname}/../../pics/${fileName}.jpg`,
         });
 
         console.log(`saved senator photo to pics/${fileName}.jpg`);
@@ -98,25 +94,10 @@ async function getSenNamesAndPhotos() {
 
   await browser.close();
 
-  /// TESTING ///
-  // write senArray to json, so can test checkSenNamesAndSubstitute
-  // fs.writeFile(
-  //   "./TESTsenatorArray.json",
-  //   JSON.stringify(senArray),
-  //   "utf-8",
-  //   (err) => {
-  //     if (err) console.log(err);
-  //     console.log("wrote senator array in JSON format to senatorArray.json");
-  //   }
-  // );
-
   // add .searchName property to sen object ([lastName, firstName]), replacing common nicknames, suffixes, and specific known nicknames
   const cleanedSenArray = checkSenNamesAndSubstitute(senArray);
 
   return cleanedSenArray;
 }
-
-/// TESTING ///
-// getSenNamesAndPhotos();
 
 exports.getSenNamesAndPhotos = getSenNamesAndPhotos;
