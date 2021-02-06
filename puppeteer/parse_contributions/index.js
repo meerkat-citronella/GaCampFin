@@ -8,9 +8,9 @@ const {
 
 // INTERFACE: senator of senatorArray, i.e.:
 // parseContributions({
-// 	"name": "Anderson, Lee",
+// 	"name": "Anderson Lee",
 // 	"fileName": "AndersonLee",
-// 	"displayName": "Lee Anderson",
+// 	"displayName": "Anderson Lee",
 // 	"district": "24",
 // 	"city": "Grovetown",
 // 	"party": "Republican",
