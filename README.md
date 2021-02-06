@@ -16,4 +16,4 @@ Note that in `app.js` there are commented out `const senArray`s that can be used
 
 ## Setup
 
-If you want to run the app yourself, you will need to create a project in Firebase, create a new Service Account key, and then require it in as the serviceAccount variable in firebase.js. The app will still run without the proper Firebase configuration, but it will just save the data locally and simply throw an error when trying to write to Firestore.
+If you want to run the app yourself, you will need to create a project in Firebase and create your credentials. The app can still run without as it saves data locally before pushing to firebase.
